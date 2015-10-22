@@ -9,7 +9,6 @@
 			<h1>Hosting My Projects</h1>
 			<h2>Anthony Northrup</h2>
 			<div id="projects">
-				<h4>CIS 322 Projects</h4>
 				<ul>
 					<li><a href="/proj4-leaflet/index.html">proj4-leaflet</a></li>
 				</ul>
