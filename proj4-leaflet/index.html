@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<<<<<<< HEAD
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	
+=======
+>>>>>>> 48308849b489f743d58a2f67dab57ec7abd6db4b
+	<title>Leaflet Map Project</title>
+	
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+	
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+	
+	<script src="http://www.mapquestapi.com/sdk/leaflet/v2.s/mq-map.js?key=onZqhBu4K3Tsljca9qXW4rUPhgI3lNml "></script>
+	<script src="http://www.mapquestapi.com/sdk/leaflet/v2.s/mq-geocoding.js?key=onZqhBu4K3Tsljca9qXW4rUPhgI3lNml "></script>
+	
+	<link rel="stylesheet" href="styles.css" />
+	<script src="init.js"></script>
+</head>
+<body>
+	<div id='map'></div>
+	
+	<script type="text/javascript" >
+	window.onload = function() {
+		// Standard map things...
+		map = L.map('map', {
+			center: eugene,
+			zoom: 12
+		});
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+		
+		// Get the position
+		updatePos();
+		
+		// Clicking logic
+		map.on('click', function(e) {
+			var mark = makeMarker(e.latlng);
+			// Load info from MapQuest, then put it on screen
+			var geocode = MQ.geocode();
+			geocode.on('success', function(e) {
+				mark.addTo(map);
+				mark.bindPopup('<div class="centered">' + geocode.describeLocation(e.result.best) + '<br />' + html_delete_button(mark) + '</div>');
+				mark.openPopup();
+			});
+			geocode.reverse(e.latlng);
+		});
+	}
+	</script>
+</body>
+</html>
