@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<title>Integer Converter</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<script type="text/javascript" src="main.js"></script>
+	</head>
+	<body>
+		<h1>Integer Converter</h1>
+		<h2>
+			Unsigned or Two's Complement
+			<br />
+			Binary/Decimal/Hex Conversion
+		</h2>
+		
+		<form name="unsigned" onSubmit="return cb(submitted, 'unsigned')">
+			<div class="title">Unsigned Conversion</div>
+			<table>
+				<tr>
+					<th class="blank"></th>
+					<th colspan="2" class="group">Input</th>
+					<td rowspan="5" class="blank recalc"><input type="submit" value="Recalculate" /></td>
+					<th colspan="2" class="group">Output</th>
+				</tr>
+				<tr>
+					<th class="mode">Mode</th>
+					<th class="group format">Format</th>
+					<th class="group value">Value</th>
+					<th class="group format">Format</th>
+					<th class="group value">Value</th>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Ubinary" type="radio" name="mode" value="binary" checked />
+                        <label for="Ubinary">&nbsp;</label>
+                    </td>
+					<td class="format">Binary</td>
+					<td class="value"><input type="text" name="binary" value="0" /></td>
+					<td class="format">Binary</td>
+					<td class="value" id="unsigned--binary">0000</td>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Udecimal" type="radio" name="mode" value="decimal" />
+                        <label for="Udecimal">&nbsp;</label>
+                    </td>
+					<td class="format">Decimal</td>
+					<td class="value"><input type="text" name="decimal" value="0" /></td>
+					<td class="format">Decimal</td>
+					<td class="value" id="unsigned--decimal">0</td>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Uhex" type="radio" name="mode" value="hex" />
+                        <label for="Uhex">&nbsp;</label>
+                    </td>
+					<td class="format">Hex</td>
+					<td class="value"><input type="text" name="hex" value="0" /></td>
+					<td class="format">Hex</td>
+					<td class="value" id="unsigned--hex">0</td>
+				</tr>
+				<tr>
+					<td class="size">Size</td>
+					<td class="format">
+						<select name="size" onchange="return cb(sizeChanged, 'unsigned')">
+							<option value="0" selected="selected">Varying</option>
+							<option value="4">4 Bits</option>
+							<option value="8">8 Bits</option>
+							<option value="16">16 Bits</option>
+							<option value="32">32 Bits</option>
+							<option value="c">Custom:</option>
+						</select>
+					</td>
+					<td class="value"><input type="text" name="size-custom" disabled="disabled" /></td>
+					<td class="blank"></td>
+					<td class="blank"></td>
+				</tr>
+			</table>
+		</form>
+		
+		<form name="twos" onSubmit="return cb(submitted, 'twos')">
+			<div class="title">Two's Complement Conversion</div>
+			<table>
+				<tr>
+					<th class="blank"></th>
+					<th colspan="2" class="group">Input</th>
+					<td rowspan="5" class="blank recalc"><input type="submit" value="Recalculate" /></td>
+					<th colspan="2" class="group">Output</th>
+				</tr>
+				<tr>
+					<th class="mode">Mode</th>
+					<th class="group format">Format</th>
+					<th class="group value">Value</th>
+					<th class="group format">Format</th>
+					<th class="group value">Value</th>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Tbinary" type="radio" name="mode" value="binary" checked />
+                        <label for="Tbinary">&nbsp;</label>
+                    </td>
+					<td class="format">Binary</td>
+					<td class="value"><input type="text" name="binary" value="0" /></td>
+					<td class="format">Binary</td>
+					<td class="value" id="twos--binary">0000|0000|0000|0000|0000|0000|0000|0000</td>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Tdecimal" type="radio" name="mode" value="decimal" />
+                        <label for="Tdecimal">&nbsp;</label>
+                    </td>
+					<td class="format">Decimal</td>
+					<td class="value"><input type="text" name="decimal" value="0" /></td>
+					<td class="format">Decimal</td>
+					<td class="value" id="twos--decimal">0</td>
+				</tr>
+				<tr>
+					<td class="mode">
+                        <input id="Thex" type="radio" name="mode" value="hex" />
+                        <label for="Thex">&nbsp;</label>
+                    </td>
+					<td class="format">Hex</td>
+					<td class="value"><input type="text" name="hex" value="0" /></td>
+					<td class="format">Hex</td>
+					<td class="value" id="twos--hex">00000000</td>
+				</tr>
+				<tr>
+					<td class="size">Size</td>
+					<td class="format">
+						<select name="size" onchange="return cb(sizeChanged, 'twos')">
+							<option value="4">4 Bits</option>
+							<option value="8">8 Bits</option>
+							<option value="16">16 Bits</option>
+							<option value="32" selected="selected">32 Bits</option>
+							<option value="c">Custom:</option>
+						</select>
+					</td>
+					<td class="value"><input type="text" name="size-custom" disabled="disabled" /></td>
+					<td class="blank"></td>
+					<td class="blank"></td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
