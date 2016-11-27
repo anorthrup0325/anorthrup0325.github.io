@@ -1,0 +1,89 @@
+html, body {
+	min-width: 500px;
+}
+
+h1 {
+	text-align: center;
+}
+
+#controls {
+	margin-bottom: 20px;
+	text-align: center;
+}
+#controls > * {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 400px;
+	width: 30%;
+}
+#cur {
+	padding: 5px 10px;
+	border: 5px solid green;
+	border-radius: 10px;
+	font-size: 25px;
+}
+#btn-prev, #btn-next {
+	padding: 10px;
+	background-color: gray;
+	color: white;
+	border: 0;
+	font-size: 20px;
+}
+/* CSS Triangle: https://css-tricks.com/snippets/css/css-triangle/ */
+#btn-prev:before {
+	content: ' ';
+	display: inline-block;
+	width: 0;
+	height: 0;
+	margin-right: 10px;
+	vertical-align: middle;
+	
+	border-top: 15px solid transparent;
+	border-bottom: 15px solid transparent;
+	border-right: 20px solid white;
+}
+#btn-next:after {
+	content: ' ';
+	display: inline-block;
+	width: 0;
+	height: 0;
+	margin-left: 10px;
+	vertical-align: middle;
+	
+	border-top: 15px solid transparent;
+	border-bottom: 15px solid transparent;
+	border-left: 20px solid white;
+}
+
+#frame {
+	display: block;
+	overflow: auto;
+	margin: 0 auto;
+	width: 90%;
+	height: 100%;
+	min-height: 750px;
+}
+
+h2 {
+	text-align: center;
+}
+#ep-list {
+	width: 90%;
+	max-width: 700px;
+	margin: 0 auto;
+	border-collapse: separate;
+	border-spacing: 0;
+	border: 1px solid black;
+	text-align: center;
+	font-size: 20px;
+}
+#ep-list th, #ep-list td {
+	padding: 5px;
+}
+#ep-list tr:nth-child(even) td {
+	background-color: lightgray;
+}
+#ep-list>tr:hover td {
+	background-color: darkgreen;
+	color: white;
+}

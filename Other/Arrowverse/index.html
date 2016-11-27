@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Arrow-verse Videos</title>
+		<link rel="stylesheet" href="styles.css" />
+		<script type="application/javascript" src="shows.js"></script>
+		<script type="application/javascript" src="main.js"></script>
+	</head>
+	<body onload="setup()">
+		<h1>Arrow-verse Video Links</h1>
+		<div id="controls">
+			<button id="btn-prev" onclick="goto_prev(); return false;">Previous: ???</button>
+			<span id="cur">LOADING DATA</span>
+			<button id="btn-next" onclick="goto_next(); return false;">Next: ???</button>
+		</div>
+		<iframe id="frame" src="missing.html"></iframe>
+		<div id="episodes">
+			<h2>Click to jump to an episode:</h2>
+			<table id="ep-list">
+				<thead>
+					<th>Show</th>
+					<th>Season</th>
+					<th>Episode</th>
+					<th>Title</th>
+				</thead>
+			</table>
+		</div>
+	</body>
+</html>
