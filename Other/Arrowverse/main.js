@@ -76,7 +76,7 @@ function refresh_display() {
 		dom_btn_next.innerHTML = "Next: N / A";
 	} else {
 		var next_info = show_order[index+1];
-		dom_btn_next.innerHTML = "Previous: " + next_info["show"] + " " + next_info["season"] + "-" + next_info["episode"];
+		dom_btn_next.innerHTML = "Next: " + next_info["show"] + " " + next_info["season"] + "-" + next_info["episode"];
 	}
 	
 	// Display video
