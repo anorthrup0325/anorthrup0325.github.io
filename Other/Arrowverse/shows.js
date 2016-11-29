@@ -686,97 +686,6 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/9d5e2f53d22e4d760b4cee676ba12c10"
 	},
 	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 1,
-		"title": "Non Est Asylum",
-		"link": "http://www.mycollection.net/new_files/92cfc49d590d2687e704c874bb87a048"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 2,
-		"title": "The Darkness Beneath",
-		"link": "http://www.mycollection.net/new_files/bc353b9550ec35b10f257ec372da6497"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 3,
-		"title": "The Devil's Vinyl",
-		"link": "http://www.mycollection.net/new_files/87e332075ef6b9435a5abf0ce9f4af92"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 4,
-		"title": "A Feast of Friends",
-		"link": "http://www.mycollection.net/new_files/961a6d1cd6b278de1f33c3bb25d65453"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 5,
-		"title": "Danse vaudou",
-		"link": "http://www.mycollection.net/new_files/218b466a67696f26b9a5c4bfc8cbf30b"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 6,
-		"title": "The Rage of Caliban",
-		"link": "http://www.mycollection.net/new_files/d20fac13a13ffab96bb5c7bfeed923d7"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 7,
-		"title": "Blessed are the Damned",
-		"link": "http://www.mycollection.net/new_files/ae2a9534d194be439dde47b9cdd579b1"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 8,
-		"title": "The Saint of Last Resorts (Part 1)",
-		"link": "http://www.mycollection.net/new_files/1732117671a64d9f0e3b2e389b41a3e0"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 9,
-		"title": "The Saint of Last Resorts (Part 2)",
-		"link": "http://www.mycollection.net/new_files/de714c1255b3a12ddebe8b10e1724e2c"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 10,
-		"title": "Quid Pro Quo",
-		"link": "http://www.mycollection.net/new_files/53a5e288086f3359b6c5ee975920c9af"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 11,
-		"title": "A Whole World Out There",
-		"link": "http://www.mycollection.net/new_files/57544ab82923de26ddaf6fec01b71eda"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 12,
-		"title": "Angels and Ministers of Grace",
-		"link": "http://www.mycollection.net/new_files/622d011372ce26cc6706a1948d77d423"
-	},
-	{
-		"show": "Constantine",
-		"season": 1,
-		"episode": 13,
-		"title": "Waiting for the Man",
-		"link": "http://www.mycollection.net/new_files/dba87fa6a7571eeb80521df4b333140f"
-	},
-	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 1,
@@ -791,11 +700,25 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/ea824e4af4b02ef62d16b51ebd4429e6"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 1,
+		"title": "Non Est Asylum",
+		"link": "http://www.mycollection.net/new_files/92cfc49d590d2687e704c874bb87a048"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 3,
 		"title": "Fight or Flight",
 		"link": "http://www.mycollection.net/new_files/3d149511dd5671323403e9444d4693b8"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 2,
+		"title": "The Darkness Beneath",
+		"link": "http://www.mycollection.net/new_files/bc353b9550ec35b10f257ec372da6497"
 	},
 	{
 		"show": "Supergirl",
@@ -805,11 +728,25 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/567849a24ad17e1cb811ac8532624e3e"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 3,
+		"title": "The Devil's Vinyl",
+		"link": "http://www.mycollection.net/new_files/87e332075ef6b9435a5abf0ce9f4af92"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 5,
 		"title": "Livewire",
 		"link": "http://www.mycollection.net/new_files/db9539a4e80d3d729f4a646029c51a87"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 4,
+		"title": "A Feast of Friends",
+		"link": "http://www.mycollection.net/new_files/961a6d1cd6b278de1f33c3bb25d65453"
 	},
 	{
 		"show": "Supergirl",
@@ -819,6 +756,13 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/2f69d4f2f6bbb8ceac7fe277a440ea70"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 5,
+		"title": "Danse vaudou",
+		"link": "http://www.mycollection.net/new_files/218b466a67696f26b9a5c4bfc8cbf30b"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 7,
@@ -826,11 +770,25 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/ae9712d6960257d1907a70a8f55b7288"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 6,
+		"title": "The Rage of Caliban",
+		"link": "http://www.mycollection.net/new_files/d20fac13a13ffab96bb5c7bfeed923d7"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 8,
 		"title": "Hostile Takeover",
 		"link": "http://www.mycollection.net/new_files/fc4e1fd25760b68bc0c0fa8a13c53fdb"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 7,
+		"title": "Blessed are the Damned",
+		"link": "http://www.mycollection.net/new_files/ae2a9534d194be439dde47b9cdd579b1"
 	},
 	{
 		"show": "Supergirl",
@@ -847,6 +805,20 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/e0a5ccad3441c113e7eb28561cfb5ba6"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 8,
+		"title": "The Saint of Last Resorts (Part 1)",
+		"link": "http://www.mycollection.net/new_files/1732117671a64d9f0e3b2e389b41a3e0"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 9,
+		"title": "The Saint of Last Resorts (Part 2)",
+		"link": "http://www.mycollection.net/new_files/de714c1255b3a12ddebe8b10e1724e2c"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 11,
@@ -861,11 +833,25 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/fc72343204b3c417469051a628d80e25"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 10,
+		"title": "Quid Pro Quo",
+		"link": "http://www.mycollection.net/new_files/53a5e288086f3359b6c5ee975920c9af"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 13,
 		"title": "For the Girl Who Has Everything",
 		"link": "http://www.mycollection.net/new_files/39ad743b7f99ecd886f598bf8ffdea03"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 11,
+		"title": "A Whole World Out There",
+		"link": "http://www.mycollection.net/new_files/57544ab82923de26ddaf6fec01b71eda"
 	},
 	{
 		"show": "Supergirl",
@@ -875,11 +861,25 @@ var show_order = [
 		"link": "http://www.mycollection.net/new_files/5654d9feaefb2ed870cc7bd099ccf85a"
 	},
 	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 12,
+		"title": "Angels and Ministers of Grace",
+		"link": "http://www.mycollection.net/new_files/622d011372ce26cc6706a1948d77d423"
+	},
+	{
 		"show": "Supergirl",
 		"season": 1,
 		"episode": 15,
 		"title": "Solitude",
 		"link": "http://www.mycollection.net/new_files/892c31aaeb8da0f504110bd98f6960ac"
+	},
+	{
+		"show": "Constantine",
+		"season": 1,
+		"episode": 13,
+		"title": "Waiting for the Man",
+		"link": "http://www.mycollection.net/new_files/dba87fa6a7571eeb80521df4b333140f"
 	},
 	{
 		"show": "Supergirl",
