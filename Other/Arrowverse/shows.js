@@ -907,7 +907,7 @@ var show_order = [
 		"season": 4,
 		"episode": 1,
 		"title": "Green Arrow",
-		"link": "http://www.mycollection.net/new_files/ae11a3a38cce8de7ec678b19e606b07c"
+		"link": "http://www.mycollection.net/new_files/84b115331e02206e6a2cd7aa544c1eed"
 	},
 	{
 		"show": "The Flash",
