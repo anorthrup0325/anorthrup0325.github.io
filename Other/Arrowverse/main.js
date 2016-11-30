@@ -15,12 +15,14 @@ window.onbeforeunload = function (e) {
 // DOM cache
 var dom_btn_prev = null,
 	dom_btn_next = null,
+	dom_cur_link = null,
 	dom_cur = null,
 	dom_frame = null,
 	dom_ep_list;
 function load_dom() {
 	dom_btn_prev = document.getElementById("btn-prev");
 	dom_btn_next = document.getElementById("btn-next");
+	dom_cur_link = document.getElementById("cur-link");
 	dom_cur = document.getElementById("cur");
 	dom_frame = document.getElementById("frame");
 	dom_ep_list = document.getElementById("ep-list");
@@ -45,6 +47,20 @@ function save() {
 	if(has_LS) {
 		window.localStorage.setItem(ls_item, index.toString());
 	}
+}
+
+// Video links
+var best_links = ["adhqmedia.com", "lolzor.com", "openload.co", "vidbaba.com"];
+function get_video_link(info) {
+	var res = "missing.html", site, site_link;
+	for(var i = 0; i < best_links.length && res == "missing.html"; i++) {
+		site = best_links[i];
+		site_link = info["vid_links"][site];
+		if(site_link !== undefined) {
+			res = site_link;
+		}
+	}
+	return res;
 }
 
 // Set display
@@ -80,11 +96,7 @@ function refresh_display() {
 	}
 	
 	// Display video
-	if(info["link"].length === 0) {
-		dom_frame.setAttribute("src", "missing.html");
-	} else {
-		dom_frame.setAttribute("src", info["link"]);
-	}
+	dom_frame.setAttribute("src", get_video_link(info));
 }
 
 // Callback to display episode
