@@ -1,0 +1,163 @@
+form {
+	margin: 0;
+	margin-bottom: 20px;
+	overflow-x: auto;
+}
+form:last-of-type {
+	margin-bottom: 0;
+}
+
+form div.title {
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 30px;
+}
+
+/* Float to Decimal */
+.table {
+	width: 100%;
+	min-width: 950px;
+}
+
+.table table {
+	margin: 0 auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 20px;
+}
+
+.table table th, .table table td {
+	border: 1px solid black;
+	line-height: 20px;
+	padding: 5px;
+}
+
+.table input {
+	font-family: monospace;
+}
+
+.table .config {
+	background-color: #ffffaf;
+}
+
+.table .config.part {
+	width: 9%;
+	min-width: 85px;
+}
+
+.table .config.bits {
+	width: 10%;
+	min-width: 100px;
+	text-align: center;
+}
+.table .config.bits select {
+	width: 100%;
+}
+.table .config.bits input{
+	width: 90%;
+}
+
+.table .input {
+	background-color: #afffaf;
+}
+#d2f .input {
+	text-align: center;
+}
+#d2f .input input {
+	width: 98%;
+	min-width: 700px;
+}
+
+.table .mode {
+	width: 10%;
+	min-width: 100px;
+}
+#d2f .mode {
+	text-align: center;
+}
+.table .mode input, .table .mode label {
+	vertical-align: middle;
+}
+
+.table .sign {
+	width: 3%;
+	min-width: 25px;
+	text-align: center;
+}
+#d2f td.sign {
+	text-align: left;
+	font-size: 14px;
+	font-family: monospace;
+}
+.table .sign input {
+	width: 80%;
+	min-width: 15px;
+}
+
+.table .exp {
+	width: 15%;
+	min-width: 150px;
+	text-align: center;
+}
+#d2f td.exp {
+	text-align: left;
+	font-size: 14px;
+	font-family: monospace;
+}
+.table .exp input {
+	width: 94%;
+	min-width: 140px;
+}
+
+.table .man {
+	width: 40%;
+	min-width: 400px;
+	text-align: center;
+}
+#d2f td.man {
+	text-align: left;
+	font-size: 14px;
+	font-family: monospace;
+}
+.table .man input {
+	width: 98%;
+	min-width: 390px;
+}
+
+.table .whole {
+	width: 60%;
+	min-width: 600px;
+	text-align: center;
+}
+#d2f td.whole {
+	text-align: left;
+	font-size: 14px;
+	font-family: monospace;
+}
+.table .whole input {
+	width: 98%;
+	min-width: 590px;
+}
+
+.table .recalc {
+	width: 72%;
+	min-width: 720px;
+	padding: 0;
+	background-color: none;
+	border: 0;
+	text-align: center;
+}
+.table .recalc input {
+	width: 98%;
+	min-width: 715px;
+	font-size: 14px;
+	border: 1px solid black;
+	background-color: #ffafaf;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-radius: 20px;
+}
+
+.table .output {
+	background-color: #afafff;
+}

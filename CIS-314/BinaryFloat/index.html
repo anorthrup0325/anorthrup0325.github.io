@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<title>Float Converter</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<script type="text/javascript" src="main.js"></script>
+	</head>
+	<body>
+		<h1>Float Converter</h1>
+		<h2>IEEE 754 or Custom</h2>
+		
+		<form id="f2d" class="table" name="f2d" onSubmit="return cb(floatToDecimal)">
+			<div class="title">Float to Decimal</div>
+			<table>
+				<tr>
+					<th colspan="2" class="config">Format Config</th>
+					<th colspan="4" class="input">Input</th>
+				</tr>
+				<tr>
+					<th class="config part">Format</th>
+					<td class="config bits">
+						<select name="format" onchange="return cb(formatChanged, 'f2d');">
+							<option value="Single" selected="selected">IEEE 754</option>
+							<option value="Double">Double Prec.</option>
+							<option value="Extended">Extended</option>
+							<option value="c">Custom:</option>
+						</select>
+					</td>
+					<th class="input mode">Mode</th>
+					<th class="input sign">S</th>
+					<th class="input exp">Exponent</th>
+					<th class="input man">Mantissa</th>
+				</tr>
+				<tr>
+					<th class="config part">Part</th>
+					<th class="config bits">Bits</th>
+					<td class="input mode">
+                        <input id="f2dMparts" type="radio" name="mode" value="parts" checked />
+                        <label for="f2dMparts">Parts</label>
+                    </td>
+					<td class="input sign"><input type="text" name="sign" maxlength="1" value="0" /></td>
+					<td class="input exp"><input type="text" name="exp" value="00000000" /></td>
+					<td class="input man"><input type="text" name="man" value="00000000000000000000000" /></td>
+				</tr>
+				<tr>
+					<td class="config part">Exponent</td>
+					<td class="config bits"><input type="text" name="bits-exp" value="8" disabled="disabled" /></td>
+					<td class="input mode">
+                        <input id="f2dMwhole" type="radio" name="mode" value="whole" />
+                        <label for="f2dMwhole">Whole</label>
+					</td>
+					<td colspan="3" class="input whole"><input type="text" name="whole" value="0|00000000|00000000000000000000000" /></td>
+				</tr>
+				<tr>
+					<td class="config part">Mantissa</td>
+					<td class="config bits"><input type="text" name="bits-man" value="23" disabled="disabled" /></td>
+					<td colspan="4" class="recalc"><input type="submit" value="Recalculate" /></td>
+				</tr>
+				<tr>
+					<th colspan="2" class="output">Output</th>
+					<td colspan="4" class="output" id="f2dOut">+0</td>
+				</tr>
+			</table>
+		</form>
+		
+		<form id="d2f" class="table" name="d2f" onSubmit="return cb(decimalToFloat)">
+			<div class="title">Decimal to Float</div>
+			<table>
+				<tr>
+					<th colspan="2" class="input">Input</th>
+					<td colspan="4" class="input"><input type="text" name="value" value="0.0" /></td>
+				</tr>
+				<tr>
+					<th colspan="2" class="config">Format Config</th>
+					<td colspan="4" class="recalc"><input type="submit" value="Recalculate" /></td>
+				</tr>
+				<tr>
+					<th class="config part">Format</th>
+					<td class="config bits">
+						<select name="format" onchange="return cb(formatChanged, 'd2f');">
+							<option value="Single" selected="selected">IEEE 754</option>
+							<option value="Double">Double Prec.</option>
+							<option value="Extended">Extended</option>
+							<option value="c">Custom:</option>
+						</select>
+					</td>
+					<th colspan="4" class="output">Output</th>
+				</tr>
+				<tr>
+					<th class="config part">Part</th>
+					<th class="config bits">Bits</th>
+					<th class="output mode">Mode</th>
+					<th class="output sign">S</th>
+					<th class="output exp">Exponent</th>
+					<th class="output man">Mantissa</th>
+				</tr>
+				<tr>
+					<td class="config part">Exponent</td>
+					<td class="config bits"><input type="text" name="bits-exp" value="8" disabled="disabled" /></td>
+					<td class="output mode">Parts</td>
+					<td class="output sign" id="d2fOut-sign">0</td>
+					<td class="output exp" id="d2fOut-exp">00000000</td>
+					<td class="output man" id="d2fOut-man">00000000000000000000000</td>
+				</tr>
+				<tr>
+					<td class="config part">Mantissa</td>
+					<td class="config bits"><input type="text" name="bits-man" value="23" disabled="disabled" /></td>
+					<td class="output mode">Whole</td>
+					<td colspan="3" class="output whole" id="d2fOut-whole">0|00000000|00000000000000000000000</td>
+				</tr>
+			</table>
+		</form>
+	</body>
+</html>
