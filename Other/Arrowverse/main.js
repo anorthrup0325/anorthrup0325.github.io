@@ -21,6 +21,7 @@ var dom_btn_prev = null,
 	dom_btn_source_next = null,
 	dom_source_link = null,
 	dom_source = null,
+	dom_frame_div = null,
 	dom_frame = null,
 	dom_ep_list = null;
 function load_dom() {
@@ -32,6 +33,7 @@ function load_dom() {
 	dom_btn_source_next = document.getElementById("btn-source-next");
 	dom_source_link = document.getElementById("source-link");
 	dom_source = document.getElementById("source");
+	dom_frame_div = document.getElementById("frame-div");
 	dom_frame = document.getElementById("frame");
 	dom_ep_list = document.getElementById("ep-list");
 }
@@ -198,6 +200,13 @@ function add_extras() {
 // Read from memory and init episode data
 function setup() {
 	load_dom();
+
+	var isSafari = navigator.vendor && navigator.vendor.indexOf('Apple') > -1 &&
+		navigator.userAgent && !!navigator.userAgent.match('Safari');
+	if(isSafari) {
+		dom_frame_div.className += " safari";
+	}
+
 	load();
 	add_extras();
 }

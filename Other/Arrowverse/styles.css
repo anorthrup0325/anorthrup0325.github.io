@@ -117,6 +117,10 @@ h1 {
 	height: 750px;
     border: 1px solid black;
 }
+#frame-div.safari {
+	-webkit-overflow-scrolling: touch;
+  	overflow: scroll;
+}
 #frame {
 	display: block;
 	margin: 0 auto;
