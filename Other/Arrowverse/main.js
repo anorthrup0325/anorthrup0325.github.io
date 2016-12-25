@@ -144,6 +144,10 @@ function refresh_display() {
 	if(used_source) {
 		source_content = " (" + used_source + ")";
 	}
+	if(sources.length == 0) {
+		source_content = "";
+		source_name = "N/A";
+	}
 	dom_source.innerHTML = "Source:" + source_content + "<br /><i>" + source_name + "</i>";
 
 	// Set previous source info
@@ -164,6 +168,8 @@ function refresh_display() {
 
 	// Set source link
 	var source_link = source_lookup[source_name];
+	if(source_link === undefined)
+		source_link = "missing.html";
 	dom_source_link.href = source_link;
 	
 	// Display video
