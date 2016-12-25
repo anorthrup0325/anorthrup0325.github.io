@@ -2390,12 +2390,14 @@ var show_order = [
 		}
 	},
 	{
-		"show": "Legends of Tommorow",
+		"show": "Legends of Tomorrow",
 		"season": 2,
 		"episode": 1,
 		"title": "Out of Time",
-		"ep_link": "",
+		"ep_link": "http://www.watchepisodes3.com/dcs-legends-of-tomorrow-season-2-episode-1-s02e01_324038",
 		"vid_links": {
+			"vidzi.tv": "http://vidzi.tv/6cvyz7fwfzc0.html",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/bf1e5b16ea7b6e41102337393400ee18",
 		}
 	},
 	{
