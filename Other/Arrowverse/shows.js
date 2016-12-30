@@ -79,8 +79,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-7-s01e07_2691",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/zaial1meql1x.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/f903327c2b4a7f36c9bad37917b226ab",
 			"lolzor.com": "http://www.lolzor.com/files/1baf34414c47db637c7bf7a2809ab949",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/f903327c2b4a7f36c9bad37917b226ab",
 		}
 	},
 	{
@@ -115,8 +115,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-10-s01e10_2698",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/4nfn67ph0as3.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/14f4e7fb7dce03d8db6ceec5153a3ffd",
 			"lolzor.com": "http://www.lolzor.com/files/9d3559480d2221b2aa5809e27538cee2",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/14f4e7fb7dce03d8db6ceec5153a3ffd",
 		}
 	},
 	{
@@ -127,8 +127,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-11-s01e11_2800",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/w3bqvts6j188.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/86f7bf064cd5d59b0028c2a65f6a7ff3",
 			"lolzor.com": "http://www.lolzor.com/files/2836fcad15b31d74d0995270097aed4d",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/86f7bf064cd5d59b0028c2a65f6a7ff3",
 		}
 	},
 	{
@@ -152,8 +152,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-13-s01e13_2810",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/ioocw8gfpvlw.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/17ff91482034124474f4eb32955990a4",
 			"lolzor.com": "http://www.lolzor.com/files/b5ce157bf106e7b3e6b4a8e7c9d7f86f",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/17ff91482034124474f4eb32955990a4",
 		}
 	},
 	{
@@ -164,8 +164,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-14-s01e14_2819",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/epuwm0ydlrjo.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/6aa383cbfec0c51a07c7d80eb4aa3b49",
 			"lolzor.com": "http://www.lolzor.com/files/2c78d8f31802e387fa281222bacce98d",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/6aa383cbfec0c51a07c7d80eb4aa3b49",
 		}
 	},
 	{
@@ -176,8 +176,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-15-s01e15_2813",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/5pgn827jao82.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/46216c04a44f6b9e77b244de529ffd85",
 			"lolzor.com": "http://www.lolzor.com/files/7dc30978589434951d886db749871eb5",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/46216c04a44f6b9e77b244de529ffd85",
 		}
 	},
 	{
@@ -274,8 +274,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-1-episode-23-s01e23_2904",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/zwo4siub4oo0.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/1c881cdc18b17a22b786114fbf8d4933",
 			"lolzor.com": "http://www.lolzor.com/files/6e901de8368aa5af08e0fd5b1749f876",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/1c881cdc18b17a22b786114fbf8d4933",
 		}
 	},
 	{
@@ -1910,8 +1910,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/the-flash-season-2-episode-13-s02e13_261093",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/x3jnmdgkx709.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/65c82a290eb9f8b35607853638cb14a0",
 			"lolzor.com": "http://www.lolzor.com/files/c318b3fcbf0f0dc51744746f19efc703",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/65c82a290eb9f8b35607853638cb14a0",
 		}
 	},
 	{
@@ -1981,8 +1981,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-4-episode-15-s04e15_278168",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/up2vchaxywxc.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/b4596628b95f7be01c8684283c98d552",
 			"lolzor.com": "http://www.lolzor.com/files/84d03e10f1873d95a2b9bdda0b31047a",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/b4596628b95f7be01c8684283c98d552",
 		}
 	},
 	{
@@ -2029,8 +2029,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/the-flash-season-2-episode-16-s02e16_261096",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/ys6sgvrl2d0x.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/da534f831e34940738f8ccc9712d3ceb",
 			"lolzor.com": "http://www.lolzor.com/files/eea4988a63885c8c0712c5129364ed4a",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/da534f831e34940738f8ccc9712d3ceb",
 		}
 	},
 	{
@@ -2065,8 +2065,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-4-episode-17-s04e17_278170",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/a4vobf6p6tx3.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/67271eec40eb47832abe2601c1c85800",
 			"lolzor.com": "http://www.lolzor.com/files/f4672c9cb4a7222defea8f0097757d4c",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/67271eec40eb47832abe2601c1c85800",
 		}
 	},
 	{
@@ -2157,8 +2157,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/supergirl-season-1-episode-18-s01e18_261824",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/kip6trv7z72o.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/7de16cc99c799b46696e1e3cb70fdd2c",
 			"lolzor.com": "http://www.lolzor.com/files/956505be66a8b5fc89fdf35bab3ba6fc",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/7de16cc99c799b46696e1e3cb70fdd2c",
 		}
 	},
 	{
@@ -2329,8 +2329,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes3.com/arrow-season-4-episode-23-s04e23_278176",
 		"vid_links": {
 			"vidzi.tv": "http://vidzi.tv/tfdrcfg35ly6.html",
-			"adhqmedia.com": "http://www.adhqmedia.com/files/70303a937fd4ffdecb2aa4c845bc3cd5",
 			"lolzor.com": "http://www.lolzor.com/files/03084c4e8f8eac698d9b0103535a073b",
+			"adhqmedia.com": "http://www.adhqmedia.com/files/70303a937fd4ffdecb2aa4c845bc3cd5",
 		}
 	},
 	{
