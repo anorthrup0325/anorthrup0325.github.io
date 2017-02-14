@@ -70,7 +70,7 @@ function save() {
 }
 
 // Video links
-var best_sources = ["adhqmedia.com", "vidzi.tv", "lolzor.com", "openload.co"];
+var best_sources = ["vidzi.tv", "lolzor.com", "adhqmedia.com", "openload.co"];
 function load_sources(info) {
 	source_lookup = info["vid_links"];
 	sources = Object.keys(source_lookup).sort();

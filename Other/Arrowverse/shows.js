@@ -6,15 +6,9 @@ var show_order = [
 		"title": "Pilot",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-1-s01e01_2693",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/8d6bb39c8e868",
-			"movshare.net": "http://www.movshare.net/video/zjjxpvszb2mls",
 			"vidzi.tv": "http://vidzi.cc/9okolewpzpyz.html/77",
-			"movpod.in": "http://movpod.in/y27hrkc3wwvg",
 			"lolzor.com": "http://www.lolzor.com/files/e37f87ff28e0f68db9724610ab510e3c",
-			"cloudyvideos.com": "http://cloudyvideos.com/x1lo850ryplp",
-			"filenuke.com": "http://filenuke.com/f/6JagjL3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ce2552bbee38ec0d568440d315177f7e",
-			"gorillavid.in": "http://gorillavid.in/mnx8cqnpzb3d",
 		}
 	},
 	{
@@ -24,15 +18,9 @@ var show_order = [
 		"title": "Honor Thy Father",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-2-s01e02_2717",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/ibx15p1rptt7",
-			"movshare.net": "http://www.movshare.net/video/bb1389854b94e",
 			"vidzi.tv": "http://vidzi.cc/8aefrtt1yk7x.html/77",
-			"movpod.in": "http://movpod.in/oqpocin6tguf",
 			"lolzor.com": "http://www.lolzor.com/files/2722308dbb08828f184a96eb927c7f88",
-			"cloudyvideos.com": "http://cloudyvideos.com/vu598w6rgfe9",
-			"filenuke.com": "http://filenuke.com/f/6AJqDY0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c590a0d28482f6bc611fa930fbd2cb98",
-			"gorillavid.in": "http://gorillavid.in/8njfwmrp2lfd",
 		}
 	},
 	{
@@ -42,15 +30,9 @@ var show_order = [
 		"title": "Lone Gunmen",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-3-s01e03_2700",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/0aac885feccd2",
-			"vidxden.to": "http://www.vidxden.to/h62ynhl8uwrh",
 			"vidzi.tv": "http://vidzi.cc/02bmxeahocof.html/77",
-			"movpod.in": "http://movpod.in/w7rs4n66rjdn",
 			"lolzor.com": "http://www.lolzor.com/files/cff6bb6821ffb3f4e18e9254b302ab89",
-			"novamov.com": "http://www.novamov.com/video/700e4baf0241a",
-			"cloudyvideos.com": "http://cloudyvideos.com/zdu5xcsw2b9r",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6146e8ddea66cc077c7c16e06b93ad12",
-			"gorillavid.in": "http://gorillavid.in/zlmb92nvmhfe",
 		}
 	},
 	{
@@ -60,16 +42,9 @@ var show_order = [
 		"title": "An Innocent Man",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-4-s01e04_2681",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/tmvg571we2ye",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/068b8cf37f039",
-			"mightyupload.com": "http://mightyupload.com/nrwxaw9mpvrc/Arrow.104.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/o9wa4qzgfysr.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/02407626ee9738e7493a2d846ca8e128",
-			"cloudyvideos.com": "http://cloudyvideos.com/b69ks2i3nk8w",
-			"filenuke.com": "http://filenuke.com/f/OWb8oG0",
-			"vidbux.com": "http://www.vidbux.com/zsd8jfjvgfrx",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/42e9a901f947d75ff396e9731ab4507c",
-			"gorillavid.in": "http://gorillavid.in/wl7teeew84bz",
 		}
 	},
 	{
@@ -79,15 +54,9 @@ var show_order = [
 		"title": "Damaged",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-5-s01e05_2680",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/ngd32800psz1",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c5266b13ed353",
-			"mightyupload.com": "http://mightyupload.com/ckfzq6sa6nq0/arrow.105.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/3s9f8na50lbp.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/554ead4a13fdc68868ce480af79164ea",
-			"cloudyvideos.com": "http://cloudyvideos.com/z9b1zhim9vq0",
-			"filenuke.com": "http://filenuke.com/f/05ENw20",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e1abd536c46a82d717095295d89f4eca",
-			"gorillavid.in": "http://gorillavid.in/wg2amip5s1xp",
 		}
 	},
 	{
@@ -97,15 +66,9 @@ var show_order = [
 		"title": "Legacies",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-6-s01e06_2707",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/ype1yzxxkzdv",
 			"vidzi.tv": "http://vidzi.cc/6mbaoipittpz.html/77",
-			"movpod.in": "http://movpod.in/vtylycr50grs",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4832ccfc64d3bcaa9eaf67f5564b1e7a",
 			"lolzor.com": "http://www.lolzor.com/files/7904b3efe9f0d8b4ef0c8af2abdc19c8",
-			"novamov.com": "http://www.novamov.com/video/77677b741b5d0",
-			"cloudyvideos.com": "http://cloudyvideos.com/irab3rq8buyg",
-			"vidto.me": "http://vidto.me/an18ai36qwp4.html",
-			"gorillavid.in": "http://gorillavid.in/gmj6g08peoce",
 		}
 	},
 	{
@@ -115,14 +78,9 @@ var show_order = [
 		"title": "Muse of Fire",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-7-s01e07_2691",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/89c3ae535f9f6",
-			"mightyupload.com": "http://mightyupload.com/9lmatoghsxso/arrow.107.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/do1yna8idz89.html/7",
-			"movpod.in": "http://movpod.in/9cjhu1ubihvp",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f903327c2b4a7f36c9bad37917b226ab",
 			"lolzor.com": "http://www.lolzor.com/files/1baf34414c47db637c7bf7a2809ab949",
-			"gorillavid.in": "http://gorillavid.in/ly2z58ez8d2k",
-			"vidto.me": "http://vidto.me/fkvo9biffehn.html",
 		}
 	},
 	{
@@ -132,14 +90,9 @@ var show_order = [
 		"title": "Vendetta",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-8-s01e08_2675",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/2ef3481cc8651",
 			"vidzi.tv": "http://vidzi.cc/rq9h8aguzaeu.html/77",
-			"movpod.in": "http://movpod.in/1lsq5kzl5j7d",
 			"lolzor.com": "http://www.lolzor.com/files/a5f6cb6634327762a73ef0fad9e53d6d",
-			"novamov.com": "http://www.novamov.com/video/2t579ua7hfjfr",
-			"cloudyvideos.com": "http://cloudyvideos.com/96oecq3eojls",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/beef27158efd01d98a56011e2c8134d1",
-			"gorillavid.in": "http://gorillavid.in/mwoiw3fz65c2",
 		}
 	},
 	{
@@ -149,14 +102,9 @@ var show_order = [
 		"title": "Year's End",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-9-s01e09_2730",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/0da159ad88d9c",
-			"filenuke.com": "http://filenuke.com/f/3YeE7Q3",
-			"vidxden.to": "http://www.vidxden.to/p8n531sbrnaz",
 			"vidzi.tv": "http://vidzi.cc/yh2j1hqx7leo.html/77",
-			"movpod.in": "http://movpod.in/jhwsp46wypjq",
 			"lolzor.com": "http://www.lolzor.com/files/233f8ce24b342b55a73c5b120efdf320",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7cbdbc6e2b4828e07ff097f9ee419b22",
-			"gorillavid.in": "http://gorillavid.in/p0gxfdtf2zrw",
 		}
 	},
 	{
@@ -166,14 +114,9 @@ var show_order = [
 		"title": "Burned",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-10-s01e10_2698",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/ea5e7ff35d599",
 			"vidzi.tv": "http://vidzi.cc/1nrfgw9noxco.html/77",
-			"movpod.in": "http://movpod.in/rrk3tbfbr8vy",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/14f4e7fb7dce03d8db6ceec5153a3ffd",
 			"lolzor.com": "http://www.lolzor.com/files/9d3559480d2221b2aa5809e27538cee2",
-			"novamov.com": "http://www.novamov.com/video/3788829cdfeaf",
-			"gorillavid.in": "http://gorillavid.in/g8ecib9lgn7h",
-			"vidto.me": "http://vidto.me/ucjximsube4j.html",
 		}
 	},
 	{
@@ -183,15 +126,9 @@ var show_order = [
 		"title": "Trust But Verify",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-11-s01e11_2800",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/hot7mgy6fin/Episode%2011%20-%20Trust%20But%20Verify.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/968fe92b69bb6",
 			"vidzi.tv": "http://vidzi.cc/hxnr500gf16q.html/7",
-			"movpod.in": "http://movpod.in/mn6k6iyhg3ew",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/86f7bf064cd5d59b0028c2a65f6a7ff3",
 			"lolzor.com": "http://www.lolzor.com/files/2836fcad15b31d74d0995270097aed4d",
-			"novamov.com": "http://www.novamov.com/video/7pkyscemjcdde",
-			"gorillavid.in": "http://gorillavid.in/b5b94v85v9lj",
-			"vidto.me": "http://vidto.me/5debu2emzxyk.html",
 		}
 	},
 	{
@@ -202,15 +139,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-12-s01e12_2791",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/b97ff9b7d1c7b",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b1022f0247a67",
-			"mightyupload.com": "http://mightyupload.com/fa3j0ig450cg/arrow.112.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/j6bxcmiu0nnh.html/77",
-			"movpod.in": "http://movpod.in/6namowx8res5",
 			"lolzor.com": "http://www.lolzor.com/files/ae27a06d087fe8fac40dbb776ff1e684",
-			"filenuke.com": "http://filenuke.com/f/0qRL4XO",
-			"cloudyvideos.com": "http://cloudyvideos.com/i6q73386dt2p",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/249220d105b9b8d070da761bd4d9410a",
-			"gorillavid.in": "http://gorillavid.in/8sybe14v74fy",
 		}
 	},
 	{
@@ -220,15 +151,9 @@ var show_order = [
 		"title": "Betrayal",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-13-s01e13_2810",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/210fu719bztl/Episode%2013%20-%20Betrayal.mkv",
 			"vidzi.tv": "http://vidzi.cc/zyszs6lxyibf.html/77",
-			"movpod.in": "http://movpod.in/3tvv43c0uzcr",
-			"vshare.eu": "http://vshare.eu/ejxkz8s31q4w.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/17ff91482034124474f4eb32955990a4",
 			"lolzor.com": "http://www.lolzor.com/files/b5ce157bf106e7b3e6b4a8e7c9d7f86f",
-			"cloudyvideos.com": "http://cloudyvideos.com/hxc4neufq389",
-			"gorillavid.in": "http://gorillavid.in/u81dm4ngj6kn",
-			"vidto.me": "http://vidto.me/6qgienc5ci3a.html",
 		}
 	},
 	{
@@ -238,15 +163,9 @@ var show_order = [
 		"title": "The Odyssey",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-14-s01e14_2819",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/16722xhpe33d/Episode%2014%20-%20The%20Odyssey.mkv",
 			"vidzi.tv": "http://vidzi.cc/tr1wpufqnh94.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/j2k2rmqccnk2",
-			"vshare.eu": "http://vshare.eu/1iu9xn62gi26.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6aa383cbfec0c51a07c7d80eb4aa3b49",
 			"lolzor.com": "http://www.lolzor.com/files/2c78d8f31802e387fa281222bacce98d",
-			"cloudyvideos.com": "http://cloudyvideos.com/9cnr0dqyvtkb",
-			"gorillavid.in": "http://gorillavid.in/byyujobtbg9o",
-			"vidto.me": "http://vidto.me/eyhf5ga62zgw.html",
 		}
 	},
 	{
@@ -256,16 +175,9 @@ var show_order = [
 		"title": "Dodger",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-15-s01e15_2813",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/3kwrhlktt1jx/Episode%2015%20-%20Dodger.mkv",
-			"vidxden.to": "http://www.vidxden.to/i9nb85ltj7w3",
 			"vidzi.tv": "http://vidzi.cc/gabj7kl0013u.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/yqirhrt5qz5n",
-			"vshare.eu": "http://vshare.eu/8ebxeee8it7h.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/46216c04a44f6b9e77b244de529ffd85",
 			"lolzor.com": "http://www.lolzor.com/files/7dc30978589434951d886db749871eb5",
-			"vodmine.com": "http://vodmine.com/video/rVm7LeLvD30wty9r",
-			"gorillavid.in": "http://gorillavid.in/hcwo2dih45k3",
-			"vidto.me": "http://vidto.me/ep1u08poj6pd.html",
 		}
 	},
 	{
@@ -275,15 +187,9 @@ var show_order = [
 		"title": "Dead to Rights",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-16-s01e16_2850",
 		"vid_links": {
-			"thefile.me": "http://thefile.me/lbva9u64f66v",
-			"mightyupload.com": "http://mightyupload.com/9gd4ebx4tp1k/Arrow.116.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/tgs4b8vl29v3.html/777",
-			"allmyvideos.net": "http://allmyvideos.net/g42kjmlqvama",
-			"vshare.eu": "http://vshare.eu/8cv8d8w68hns.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3818e2f869dff4a72e45ca5436b06d43",
 			"lolzor.com": "http://www.lolzor.com/files/62d35f5e336e64183175541ee0f2c743",
-			"filenuke.com": "http://filenuke.com/f/0qRLMNO",
-			"vidto.me": "http://vidto.me/olq2o8fiy7zl.html",
 		}
 	},
 	{
@@ -294,15 +200,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-17-s01e17_2831",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/706cf74501b3e",
-			"vidspot.net": "http://vidspot.net/e607sqznbn9g",
-			"mightyupload.com": "http://mightyupload.com/3wmmhauriydt/Arrow.117.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/zrrrt5atl84g.html/77",
-			"movpod.in": "http://movpod.in/k582enuyxzbt",
 			"lolzor.com": "http://www.lolzor.com/files/cdd738e37303b530b447e57c39c475b1",
-			"filenuke.com": "http://filenuke.com/f/64gN413",
-			"cloudyvideos.com": "http://cloudyvideos.com/yh9t3pn6js2x",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/716cb35ddfe2299cd8095aacd96fcfc7",
-			"gorillavid.in": "http://gorillavid.in/197wkvsxy7rf",
 		}
 	},
 	{
@@ -314,12 +214,7 @@ var show_order = [
 		"vid_links": {
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c207740c914a5a1b30ea4ca2a97596ae",
 			"vidzi.tv": "http://vidzi.cc/tib5tygjhyr6.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/l6q03r7fpc3e",
-			"vshare.eu": "http://vshare.eu/0899evjftyjt.htm",
 			"lolzor.com": "http://www.lolzor.com/files/a92f39ab5ede7c7e1c6cca743ccc08ab",
-			"gorillavid.in": "http://gorillavid.in/0lu7aianyxhf",
-			"v-vids.com": "http://v-vids.com/y9vit01hkmdu",
-			"vidto.me": "http://vidto.me/7vx7tx10rifa.html",
 		}
 	},
 	{
@@ -329,15 +224,9 @@ var show_order = [
 		"title": "Unifinished Business",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-19-s01e19_2829",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/xm48qqec0kva",
-			"mightyupload.com": "http://mightyupload.com/hv8b6mahw7ns/arrow.119.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/rucozamhcaji.html/77",
-			"movpod.in": "http://movpod.in/3u5drgy3ofm8",
 			"lolzor.com": "http://www.lolzor.com/files/faa51061f4cceb884d74b08f0d88abdb",
-			"filenuke.com": "http://filenuke.com/f/O87NLE0",
-			"cloudyvideos.com": "http://cloudyvideos.com/886vz9maoidn",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9b7454ae1bf9f2eeac6e02eba87947bb",
-			"gorillavid.in": "http://gorillavid.in/kzhn2m72b9wz",
 		}
 	},
 	{
@@ -348,16 +237,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-20-s01e20_2851",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/965ba0a9a776d",
-			"vidspot.net": "http://vidspot.net/920svsnjym2o",
-			"vidbux.com": "http://www.vidbux.com/5qzteruwnlvt",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/810e5717acb24",
-			"mightyupload.com": "http://mightyupload.com/ssa1bipbm9x2/arrow.120.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/6xvfgjy68df2.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/2bc2110ab23379455714eabeb135aba8",
-			"filenuke.com": "http://filenuke.com/f/6b2XJa6",
-			"cloudyvideos.com": "http://cloudyvideos.com/inul7w0ynqip",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/73d8fc441c8e83469a1f23892ed86aaa",
-			"gorillavid.in": "http://gorillavid.in/o385d8mjf7cr",
 		}
 	},
 	{
@@ -367,14 +249,8 @@ var show_order = [
 		"title": "The Undertaking",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-21-s01e21_2872",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/dc904423f8dfb",
 			"vidzi.tv": "http://vidzi.cc/nmuj4fdzlo4t.html/7",
-			"movpod.in": "http://movpod.in/6x1w78q2n04q",
 			"lolzor.com": "http://www.lolzor.com/files/f8445b4518ea829c802362181f7710bb",
-			"novamov.com": "http://www.novamov.com/video/6db511f506a02",
-			"cloudyvideos.com": "http://cloudyvideos.com/dubipwja60ms",
-			"gorillavid.in": "http://gorillavid.in/pjfsvljlnh7l",
-			"vidto.me": "http://vidto.me/ep8101ru0b71.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7e7a352739cdece93fb0ccc8e1328449",
 		}
 	},
@@ -385,16 +261,9 @@ var show_order = [
 		"title": "Darkness on the Edge of Town",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-22-s01e22_2889",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/d205kdq69j2r",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/d22077734a047",
-			"mightyupload.com": "http://mightyupload.com/kqutcfi0lco4/arrow.122.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/gpx3j3chlinx.html/7",
-			"movpod.in": "http://movpod.in/gb8s7p0kwnjk",
 			"lolzor.com": "http://www.lolzor.com/files/e3fa12e0cbb272562fe35a19845a8eaf",
-			"filenuke.com": "http://filenuke.com/f/O1R18N3",
-			"cloudyvideos.com": "http://cloudyvideos.com/7sul9xz31kih",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4dd09e4c6c72a9ac4ecc1e97aeac70d2",
-			"gorillavid.in": "http://gorillavid.in/i26uj6kqbemd",
 		}
 	},
 	{
@@ -404,14 +273,9 @@ var show_order = [
 		"title": "Sacrifice",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-1-episode-23-s01e23_2904",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/fce6aae18e5f7",
 			"vidzi.tv": "http://vidzi.cc/lxeg88jds533.html/77",
-			"movpod.in": "http://movpod.in/dmqztxgpywi2",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1c881cdc18b17a22b786114fbf8d4933",
 			"lolzor.com": "http://www.lolzor.com/files/6e901de8368aa5af08e0fd5b1749f876",
-			"novamov.com": "http://www.novamov.com/video/7ec773bd2cfd9",
-			"gorillavid.in": "http://gorillavid.in/y2h0mwir0tw5",
-			"vidto.me": "http://vidto.me/1cifqx6jpnfg.html",
 		}
 	},
 	{
@@ -421,16 +285,9 @@ var show_order = [
 		"title": "City of Heroes",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-1-s02e01_2770",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/7l4s7pqq2wt4",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/0124d2e70db53",
-			"movshare.net": "http://www.movshare.net/video/goe8wa1ng5p9v",
 			"vidzi.tv": "http://vidzi.cc/9ntwwkxnsy1w.html/7",
-			"movpod.in": "http://movpod.in/8aaxihcz9z9k",
 			"lolzor.com": "http://www.lolzor.com/files/fb199db656a9122a7f3c07176553fa94",
-			"cloudyvideos.com": "http://cloudyvideos.com/iryqvoyoh1ru",
-			"vidbux.com": "http://www.vidbux.com/vmbf84vykzxa",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6cc0dfa45df4a05261667c5206877f17",
-			"gorillavid.in": "http://gorillavid.in/c04r2rh7vn37",
 		}
 	},
 	{
@@ -440,15 +297,9 @@ var show_order = [
 		"title": "Identity",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-2-s02e02_2748",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/s2hn3ykvjm8m",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/cb3002130cb0e",
-			"mightyupload.com": "http://mightyupload.com/9snb3xjvlaym/Arrow.202.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/x9ahp30pv31f.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/38b6d48fa38ef7ad482a96d0f03fb684",
-			"cloudyvideos.com": "http://cloudyvideos.com/wtmhs8p8n3ff",
-			"filenuke.com": "http://filenuke.com/f/64gNox3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/5aea54784e039124a132dadb2e828a44",
-			"gorillavid.in": "http://gorillavid.in/mwwgfyg39tre",
 		}
 	},
 	{
@@ -458,16 +309,9 @@ var show_order = [
 		"title": "Broken Dolls",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-3-s02e03_2769",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/9kc3jou6elmu",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/e8e770316aa13",
-			"mightyupload.com": "http://mightyupload.com/ruyj6pm53xrz/Arrow.203.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/ih4t2z02n35s.html/777",
-			"movpod.in": "http://movpod.in/ddpza8o48yxl",
 			"lolzor.com": "http://www.lolzor.com/files/bd03e413128f90dbc2489400fa8421f4",
-			"filenuke.com": "http://filenuke.com/f/O87Nvd0",
-			"cloudyvideos.com": "http://cloudyvideos.com/mfng29ixd1eo",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/67e26979bd441964ddd122e7b1c8e817",
-			"gorillavid.in": "http://gorillavid.in/fmkurz4ds971",
 		}
 	},
 	{
@@ -477,16 +321,9 @@ var show_order = [
 		"title": "Crucible",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-4-s02e04_2760",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/4vimkf9p1zqf",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/6e02a9123000e",
-			"movshare.net": "http://www.movshare.net/video/c3a97dc465f8e",
 			"vidzi.tv": "http://vidzi.cc/fzfmd4utw9k3.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/d0480f364b85966d0c20ecd5f5236a51",
-			"cloudyvideos.com": "http://cloudyvideos.com/u2tjn65bwmsm",
-			"filenuke.com": "http://filenuke.com/f/0PArYAO",
-			"vidbux.com": "http://www.vidbux.com/s377jmje7gxj",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3d32cb7c818f7e15436c32639ed4cc11",
-			"gorillavid.in": "http://gorillavid.in/i7km1ruunkta",
 		}
 	},
 	{
@@ -496,16 +333,9 @@ var show_order = [
 		"title": "League of Assassins",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-5-s02e05_2756",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/16w9c7p80e7d",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3bd47079eaa08",
 			"vidzi.tv": "http://vidzi.cc/t2l0qzr5i86f.html/",
-			"movpod.in": "http://movpod.in/hk36avksjc6i",
 			"lolzor.com": "http://www.lolzor.com/files/5a8ee420a6ca5905134a2eefddffcc24",
-			"cloudyvideos.com": "http://cloudyvideos.com/5o7zhfv4o4jt",
-			"filenuke.com": "http://filenuke.com/f/0zNkq50",
-			"vidbux.com": "http://www.vidbux.com/9jn9cz245ase",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e37bf314b295b1742fa9c38ef8f0c73a",
-			"gorillavid.in": "http://gorillavid.in/aqod8ex8x969",
 		}
 	},
 	{
@@ -515,15 +345,9 @@ var show_order = [
 		"title": "Keep Your Enemies Closer",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-6-s02e06_2778",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b43c4f888ccf6",
-			"mightyupload.com": "http://mightyupload.com/wkgvz11pinfq/Arrow.206.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/l9nw5h7tvpul.html",
-			"movpod.in": "http://movpod.in/3wdwfyzmmg31",
 			"lolzor.com": "http://www.lolzor.com/files/20b495a2c6724892418a0069bf0aaa95",
-			"filenuke.com": "http://filenuke.com/f/OM4bV50",
-			"cloudyvideos.com": "http://cloudyvideos.com/nvvwvoo1kfa5",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c838dea062a325eb28141d6144437538",
-			"primeshare.tv": "http://primeshare.tv/download/9E42A468A0",
 		}
 	},
 	{
@@ -533,17 +357,9 @@ var show_order = [
 		"title": "State v. Queen",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-7-s02e07_2777",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/o9s8e1r2mkj5",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/30eb9683b51a5",
-			"mightyupload.com": "http://mightyupload.com/u8x0c16k6wb3/arrow.207.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/xd7wz4mfq9rg.html/7",
-			"mrfile.me": "http://mrfile.me/1s7rgl4pflj3",
 			"lolzor.com": "http://www.lolzor.com/files/52c6df0fc03af4d7068f5cc3736971f6",
-			"cloudyvideos.com": "http://cloudyvideos.com/mtlt99wpgcbs",
-			"filenuke.com": "http://filenuke.com/f/0VP25r3",
-			"vidbux.com": "http://www.vidbux.com/ulyrjod7fnfs",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d7fc575972dec01a5ef37e51f7483f5f",
-			"gorillavid.in": "http://gorillavid.in/xro3mwp76exf",
 		}
 	},
 	{
@@ -553,15 +369,9 @@ var show_order = [
 		"title": "The Scientist",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-8-s02e08_2776",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3502797f72ef5",
-			"mightyupload.com": "http://mightyupload.com/yij9ueam047n/Arrow.208.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/rgozfn9xcxxa.html/7",
-			"movpod.in": "http://movpod.in/e0irc1hrehi4",
 			"lolzor.com": "http://www.lolzor.com/files/0de70b8a43d5781687f38c585e85cd82",
-			"cloudyvideos.com": "http://cloudyvideos.com/y6bczxtdfjpy",
-			"vidbux.com": "http://www.vidbux.com/aav5yxhu02ym",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c0d729e87ed671f3bc461687b52e696b",
-			"gorillavid.in": "http://gorillavid.in/wuuxrqqkj4ma",
 		}
 	},
 	{
@@ -571,16 +381,9 @@ var show_order = [
 		"title": "Three Ghosts",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-9-s02e09_2768",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/e46k5vroghcc",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3a9765d990201",
-			"mightyupload.com": "http://mightyupload.com/346bk0kyxeq2/arrow.209.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/0epsjrvpu6sl.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/ae6301c1a510c771fad58c380450f9d0",
-			"cloudyvideos.com": "http://cloudyvideos.com/a42wrmohvz1k",
-			"filenuke.com": "http://filenuke.com/f/0Byree6",
-			"vidbux.com": "http://www.vidbux.com/rbz94obfz058",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1c2a2b84b354d6f7c6a3294b47a74a67",
-			"gorillavid.in": "http://gorillavid.in/jgtzzuplkoee",
 		}
 	},
 	{
@@ -590,16 +393,9 @@ var show_order = [
 		"title": "Blast Radius",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-10-s02e10_2759",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/hx55kvsc1jg1",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/m6oyqws85t5kh",
-			"mightyupload.com": "http://mightyupload.com/nun097mwuowk/arrow.210.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/kmtzszrpzj03.html/7",
-			"movpod.in": "http://movpod.in/uk8vywx6xjzg",
 			"lolzor.com": "http://www.lolzor.com/files/c507a40d6d26f5325c829c518785ad40",
-			"filenuke.com": "http://filenuke.com/f/OaRJWr3",
-			"cloudyvideos.com": "http://cloudyvideos.com/ga59okorjhmt",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1e77445d8e38f94421771823c9407d75",
-			"gorillavid.in": "http://gorillavid.in/43ym4w8jjyg3",
 		}
 	},
 	{
@@ -609,17 +405,9 @@ var show_order = [
 		"title": "Blind Spot",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-11-s02e11_2835",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/29imox4qj4ai.html",
-			"vidspot.net": "http://vidspot.net/tue0y7p7bh7c",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/f50ab623ee5ed",
-			"mightyupload.com": "http://mightyupload.com/9qak0fwbqnie/Arrow.211.hdtv-lol.mp4.html",
-			"videomega.tv": "http://videomega.tv/?ref=002LkMgeTkkTegMkL200",
 			"vidzi.tv": "http://vidzi.cc/9ki1n445pr05.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/8da8137bdea4273aad6d52006a361375",
-			"cloudyvideos.com": "http://cloudyvideos.com/jekp2tdc62ud",
-			"filenuke.com": "http://filenuke.com/f/6AJqoQ0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c46b8e7846d0253db0593cce49230627",
-			"gorillavid.in": "http://gorillavid.in/evpf4885li8l",
 		}
 	},
 	{
@@ -629,17 +417,9 @@ var show_order = [
 		"title": "Tremors",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-12-s02e12_2846",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/ablergmpuj8g.html",
-			"vidspot.net": "http://vidspot.net/5d5kastqgxeb",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/e311a0ccefc8e",
-			"mightyupload.com": "http://mightyupload.com/oqyt4dtbld4y/Arrow.213.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/23zcqcdv9joe.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/e6bf9d41de75baeec5ba0b41094b4971",
-			"cloudyvideos.com": "http://cloudyvideos.com/6zen1wq9bqto",
-			"filenuke.com": "http://filenuke.com/f/O7bNM20",
-			"vidbux.com": "http://www.vidbux.com/cq7i0aifo8tm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ad18e1c5c564197ae6ce27f82855fb49",
-			"gorillavid.in": "http://gorillavid.in/ji06kxvpg14s",
 		}
 	},
 	{
@@ -649,15 +429,8 @@ var show_order = [
 		"title": "Heir to the Demon",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-13-s02e13_2848",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/epr6pex1rjpa.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/0d51ed7c28fab",
-			"vidxden.to": "http://www.vidxden.to/re9g7tku8pt0",
 			"vidzi.tv": "http://vidzi.cc/zajf7n00imo3.html/77",
-			"movpod.in": "http://movpod.in/svzgpy0p7a1m",
 			"lolzor.com": "http://www.lolzor.com/files/12b3a89d36d4f63bf2eaf14ee2b5d3ed",
-			"novamov.com": "http://www.novamov.com/video/db117def47312",
-			"gorillavid.in": "http://gorillavid.in/vtv5mj81pzw8",
-			"vidbux.com": "http://www.vidbux.com/87n3eswlihdj",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9b41b41691cb2ba77b52d8e8f1e20e51",
 		}
 	},
@@ -668,16 +441,9 @@ var show_order = [
 		"title": "Time of Death",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-14-s02e14_2841",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/myr075zk2nrr.html",
-			"vidspot.net": "http://vidspot.net/cnmqwzkp6ygr",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/2b75e9a9206a4",
-			"mightyupload.com": "http://mightyupload.com/c9twufvsx0bw/arrow.214.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/0vkipwtzipu4.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/224330f672f8c6b5a9560195fcf69d20",
-			"cloudyvideos.com": "http://cloudyvideos.com/np7q4wfli70k",
-			"filenuke.com": "http://filenuke.com/f/0ovj1M6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9d7dcf137315a39ebe237dfc47e651da",
-			"gorillavid.in": "http://gorillavid.in/41swfhts4xec",
 		}
 	},
 	{
@@ -687,15 +453,9 @@ var show_order = [
 		"title": "The Promise",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-15-s02e15_2874",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b65447c7391b8",
-			"vidxden.to": "http://www.vidxden.to/oxghz5qi1osc",
 			"vidzi.tv": "http://vidzi.cc/opt8syw3mdxu.html/77",
-			"v-vids.com": "http://v-vids.com/3crbhfzwehds",
 			"lolzor.com": "http://www.lolzor.com/files/bb81ac13e15cb57bd73f144225b64eba",
-			"novamov.com": "http://www.novamov.com/video/5f1f100df7b42",
-			"vidbux.com": "http://www.vidbux.com/hrvlxp1549m8",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b1eadfe3f36cad1fbd5b9c7cd8307b8d",
-			"primeshare.tv": "http://primeshare.tv/download/40B5201F67",
 		}
 	},
 	{
@@ -705,16 +465,9 @@ var show_order = [
 		"title": "Suicide Squad",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-16-s02e16_2888",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/4B42A8D4310F616A",
-			"movreel.com": "http://movreel.com/tfs45wp7mm08.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b04eddbbe0910",
-			"mightyupload.com": "http://mightyupload.com/ygeuttfnpf07/arrow.216.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/ludsbl822teu.html/77",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2798c0dffa89cb2f63012457b2297c2b",
 			"lolzor.com": "http://www.lolzor.com/files/7c7de3ba1aa2312d13613fd9300d06f9",
-			"filenuke.com": "http://filenuke.com/f/6vPpAyO",
-			"cloudyvideos.com": "http://cloudyvideos.com/kuws6na4x04a",
-			"gorillavid.in": "http://gorillavid.in/054w1qxrixkp",
 		}
 	},
 	{
@@ -724,15 +477,9 @@ var show_order = [
 		"title": "Birds of Prey",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-17-s02e17_2853",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/6l2q8fg9qxn3.html",
-			"vidspot.net": "http://vidspot.net/0oc2p680d5dr",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/1b3289eecca18",
 			"vidzi.tv": "http://vidzi.cc/5l6iyll6irkf.html/",
 			"lolzor.com": "http://www.lolzor.com/files/0a4836e70343873ccb939b6c380b376b",
-			"cloudyvideos.com": "http://cloudyvideos.com/8q2e1lhxfxau",
-			"filenuke.com": "http://filenuke.com/f/O87pwd0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1168c0a9264ab4bc7b8eeddc255379ff",
-			"gorillavid.in": "http://gorillavid.in/qv0s0nrbtr3x",
 		}
 	},
 	{
@@ -742,17 +489,9 @@ var show_order = [
 		"title": "Deathstroke",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-18-s02e18_2866",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/A291D5197CF3B826",
-			"movreel.com": "http://movreel.com/1oxicreaitwt.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/ee4f1244f1b82",
-			"vidxden.to": "http://www.vidxden.to/nopcb3dpvqwq",
 			"vidzi.tv": "http://vidzi.cc/3zr055lxkn8o.html/7",
-			"movpod.in": "http://movpod.in/2c4wirpyafft",
 			"lolzor.com": "http://www.lolzor.com/files/d2f273386e3556c56090612ef0a385e1",
-			"cloudyvideos.com": "http://cloudyvideos.com/njd4a2y5t09z",
-			"vidbux.com": "http://www.vidbux.com/wa8y44dkgf7l",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1a5c75a2b225d43e1f347cbbb636d88a",
-			"gorillavid.in": "http://gorillavid.in/a0qvukkzg8o9",
 		}
 	},
 	{
@@ -762,18 +501,9 @@ var show_order = [
 		"title": "The Man Under the Hood",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-19-s02e19_2885",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/458E0380EA4B653C",
-			"movreel.com": "http://movreel.com/bk7hfjtfq5lr.html",
-			"vidspot.net": "http://vidspot.net/9oqfc8ypax38",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/7e0d6c265f729",
-			"mightyupload.com": "http://mightyupload.com/bkecbjazsk4s/arrow.219.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/ha2az37cz687.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/1c9b5e700d7b04a842d4a103ec9953b5",
-			"cloudyvideos.com": "http://cloudyvideos.com/jjdruxf3wxix",
-			"filenuke.com": "http://filenuke.com/f/64gk2q3",
-			"vidbux.com": "http://vidbux.com/hthv74dovbr1",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/169ac606f8a26073c55cd8d2d1f983b2",
-			"gorillavid.in": "http://gorillavid.in/6beq43vu60yk",
 		}
 	},
 	{
@@ -783,16 +513,9 @@ var show_order = [
 		"title": "Seeing Red",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-20-s02e20_2884",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/7E3B57911D2A9416",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/8e08dfaf5ce32",
-			"mightyupload.com": "http://mightyupload.com/evu99tuvkxoy/Arrow.220.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/341mp98aqwrz.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/41af3e5a63cbd7a3c56b5bde03409dd9",
-			"cloudyvideos.com": "http://cloudyvideos.com/zc19np2qngwr",
-			"filenuke.com": "http://filenuke.com/f/6AJp4n0",
-			"vidbux.com": "http://vidbux.com/3ed0un46d8di",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b0b3c8a09bc26401404a001a08ab0af1",
-			"gorillavid.in": "http://gorillavid.in/mjyy8nfmgycs",
 		}
 	},
 	{
@@ -802,16 +525,9 @@ var show_order = [
 		"title": "City of Blood",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-21-s02e21_2854",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/a85cf84fe1617",
-			"vidxden.to": "http://www.vidxden.to/atzcm2hgdfae",
-			"mightyupload.com": "http://mightyupload.com/o2qplthvwwa0/arrow.221.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/10zy5gevzvnh.html/77",
-			"movpod.in": "http://movpod.in/uj3o4n0z9yv0",
 			"lolzor.com": "http://www.lolzor.com/files/504a38fab2802982ce3eabd2a9bebf81",
-			"novamov.com": "http://www.novamov.com/video/2c381275aba26",
-			"vidbux.com": "http://vidbux.com/sv3pvfyyqagn",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/5e46e368736d3141f707fa1b1dee5242",
-			"gorillavid.in": "http://gorillavid.in/2ifktkcw3km0",
 		}
 	},
 	{
@@ -821,17 +537,9 @@ var show_order = [
 		"title": "The Streets of Fire",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-22-s02e22_2870",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/5C67303A188DD564",
-			"movreel.com": "http://movreel.com/1jcr12a9rtng.html",
-			"vidspot.net": "http://vidspot.net/qmdnm8f1mr66",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/9e703217e9d04",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/445de30716da277a053e77b01f6f724f",
-			"movshare.net": "http://www.movshare.net/video/3ae6d281d1d53",
 			"vidzi.tv": "http://vidzi.cc/1wlbrye2gj6d.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/a0adef5a67f8998a1b511f7bde8f9ea7",
-			"filenuke.com": "http://filenuke.com/f/0EMaR40",
-			"cloudyvideos.com": "http://cloudyvideos.com/gh6w2cxlx1ho",
-			"gorillavid.in": "http://gorillavid.in/pssxuvo5jby0",
 		}
 	},
 	{
@@ -841,17 +549,9 @@ var show_order = [
 		"title": "Unthinkable",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-2-episode-23-s02e23_2901",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/18E3737431D3B7F3",
-			"movreel.com": "http://movreel.com/bqzw1ouwez90.html",
-			"vidspot.net": "http://vidspot.net/20qyvhvgtbd8",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4fd07ce047329",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2a35541d66841153bda05cfd956b7e6d",
-			"mightyupload.com": "http://mightyupload.com/sdcra6vtfh9y/arrow.223.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/s9bohq04j0q3.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/ead531b6aeb6a3b6833c8b22a5d2480c",
-			"filenuke.com": "http://filenuke.com/f/O7bpxo0",
-			"cloudyvideos.com": "http://cloudyvideos.com/ij0kpmpg7je5",
-			"primeshare.tv": "http://primeshare.tv/download/DA9BFF784F",
 		}
 	},
 	{
@@ -861,18 +561,9 @@ var show_order = [
 		"title": "The Calm",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-1-s03e01_2696",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/335",
-			"movreel.com": "http://movreel.com/gjnqgvuc5xx4.html",
-			"vidspot.net": "http://vidspot.net/fc82rlt15hvn",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/735095ab32a31",
-			"mightyupload.com": "http://mightyupload.com/n6g7xla8asqd/Arrow.S03E01.The.Calm.WEB-DL.x264.AAC.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/18663vb9rd8s.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/59314f80b1a18a3d27baee8a1d5e3585",
-			"cloudyvideos.com": "http://cloudyvideos.com/xrm8putf75zy",
-			"filenuke.com": "http://filenuke.com/f/0PZabG3",
-			"primeshare.tv": "http://primeshare.tv/download/06A80A5367",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c7ffb6d3cc5424fa5cc744ed5597a5f4",
-			"promptfile.com": "http://www.promptfile.com/l/F7CB488C79-AB90899C2E",
 		}
 	},
 	{
@@ -882,17 +573,9 @@ var show_order = [
 		"title": "Pilot",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-1-s01e01_432",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1294",
-			"vidspot.net": "http://vidspot.net/17kn4xbbdcao",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4bf059cfbebbe",
-			"movshare.net": "http://www.movshare.net/video/1eb4b1d32c6d7",
 			"vidzi.tv": "http://vidzi.cc/zaj9rlc8son1.html/444",
 			"lolzor.com": "http://www.lolzor.com/files/26a470649f7dea9ff16a32532494c0af",
-			"cloudyvideos.com": "http://cloudyvideos.com/hnwue0im25zq",
-			"neodrive.co": "http://neodrive.co/share/file/IS34UYJHQZL4DBCGXIW5BAUTW",
-			"filenuke.com": "http://filenuke.com/f/0reyWe6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/11ac2e9cdb10a589060b39d634fed1d3",
-			"gorillavid.in": "http://gorillavid.in/ry7rzak9axp2",
 		}
 	},
 	{
@@ -902,15 +585,7 @@ var show_order = [
 		"title": "Fastest Man Alive",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-2-s01e02_433",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1292",
-			"vidspot.net": "http://vidspot.net/112nknucxx63",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/86ea87f7d7fd6",
-			"mightyupload.com": "http://mightyupload.com/sj1oyd923zn3",
 			"vidzi.tv": "http://vidzi.cc/6dqvyc59izph.html/4",
-			"sharesix.com": "http://sharesix.com/f/0qjQMXO",
-			"cloudyvideos.com": "http://cloudyvideos.com/zbycbw0zgsjm",
-			"filenuke.com": "http://filenuke.com/f/0q7lQ93",
-			"gorillavid.in": "http://gorillavid.in/0cqv007wcxfs",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/04a395f8bc5c6295758cf561e1ed7ef0",
 			"lolzor.com": "http://www.lolzor.com/files/c41c5132d8fd79996662cf7a1591ae17",
 		}
@@ -922,17 +597,9 @@ var show_order = [
 		"title": "Sara",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-2-s03e02_2703",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1370 ",
-			"movreel.com": "http://movreel.com/2fx2cj6fb8ii.html",
-			"vidspot.net": "http://vidspot.net/z4egm4hze5e0",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c2e9a7ba31877",
-			"mightyupload.com": "http://mightyupload.com/qs5atr3hwir6/Arrow.S03E02.Sara.WEB-DL.x264.AAC.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/e8kak5lwlqlq.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/7e36e91dd8fa6ed6099070a8152371bf",
-			"cloudyvideos.com": "http://cloudyvideos.com/ec483ksqxngq",
-			"filenuke.com": "http://filenuke.com/f/0E2yr2O",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/a8e22d76b57bc3d35cffedf5d6407439",
-			"gorillavid.in": "http://gorillavid.in/ctmca41yubkv",
 		}
 	},
 	{
@@ -942,14 +609,7 @@ var show_order = [
 		"title": "Things Your Can't Outrun",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-3-s01e03_786",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/zz2ex6sm2tit",
-			"teslavid.eu": "http://teslavid.eu/archives/1289",
-			"mightyupload.com": "http://mightyupload.com/ji1x2w7cycnm",
 			"vidzi.tv": "http://vidzi.cc/ldxqnb2otzyj.html/77",
-			"movpod.in": "http://movpod.in/ru2x1zor4rqg",
-			"sharesix.com": "http://sharesix.com/f/0rVllo0",
-			"filenuke.com": "http://filenuke.com/f/Oa1LvYO",
-			"gorillavid.in": "http://gorillavid.in/ov0il4xqma0t",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/40ad19b44503f61a62d69a403940f272",
 			"lolzor.com": "http://www.lolzor.com/files/ee9a91bd0bac9679d9bf4ff9eaa9ac52",
 		}
@@ -961,17 +621,9 @@ var show_order = [
 		"title": "Corto Maltese",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-3-s03e03_2699",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1367",
-			"movreel.com": "http://movreel.com/rybluake3bj0.html",
-			"vidspot.net": "http://vidspot.net/ghfjpfjk1tqw",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/7a9d210638e1f",
-			"mightyupload.com": "http://mightyupload.com/cn4depmnqlrv/Arrow_S03E03_Corto_Maltese_WEB-DL_AAC.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/kbjn1381tu3v.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/9862891a7ab66c19ed9d55571bba9de0",
-			"cloudyvideos.com": "http://cloudyvideos.com/9f0zjsla0vse",
-			"filenuke.com": "http://filenuke.com/f/6bpqnlO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7564ff109a698b89750070aac883b844",
-			"gorillavid.in": "http://gorillavid.in/jb42x7fe7wve",
 		}
 	},
 	{
@@ -981,17 +633,9 @@ var show_order = [
 		"title": "Going Rogue",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-4-s01e04_776",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/5x2wtlivj4a3.html",
-			"vidspot.net": "http://vidspot.net/a1mkzm2zdslg",
-			"teslavid.eu": "http://teslavid.eu/archives/1287",
-			"mightyupload.com": "http://mightyupload.com/c0c52gw2z0us",
 			"vidzi.tv": "http://vidzi.cc/1gj97ibus4qb.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/a39bc13b5d2b2471b1218cc6acb68082",
-			"cloudyvideos.com": "http://cloudyvideos.com/ruovv2ntp5w6",
-			"neodrive.co": "http://neodrive.co/share/file/DBBPIGEJV3TPA53FCJVQMKLE3",
-			"filenuke.com": "http://filenuke.com/f/32JgDk3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6fddcbec75426d329ac87e4d57d3049d",
-			"gorillavid.in": "http://gorillavid.in/xo9uejnaci79",
 		}
 	},
 	{
@@ -1001,16 +645,7 @@ var show_order = [
 		"title": "The Magician",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-4-s03e04_2688",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/wib0xry6d5oo.html",
-			"vidspot.net": "http://vidspot.net/nznwu8vc57o1",
-			"mightyupload.com": "http://mightyupload.com/t56xe1kr5c33/Arrow.S03E04.The.Magician.WEB-DL.x264.AAC.mp4.html",
-			"modovideo.com": "http://modovideo.com/video.php?v=p9hi03566lxb",
 			"vidzi.tv": "http://vidzi.cc/318cw8k6ncpy.html/77",
-			"video.tt": "http://www.video.tt/watch_video.php?v=lVpeeEwmU",
-			"cloudyvideos.com": "http://cloudyvideos.com/i90wb5hbuy2t",
-			"filenuke.com": "http://filenuke.com/f/OgpqNG3",
-			"gorillavid.in": "http://gorillavid.in/mbi9d8xs5yva",
-			"teslavid.eu": "http://teslavid.eu/archives/1365",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/dccf090efe05a4937468b852b54175cd",
 			"lolzor.com": "http://www.lolzor.com/files/8a0e8264d1a0dd3efeb33fd35bda7663",
 		}
@@ -1022,18 +657,9 @@ var show_order = [
 		"title": "The Secret Origin of Felicity Smoak",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-5-s03e05_2724",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1363",
-			"movreel.com": "http://movreel.com/jgtd0q6rezcz.html",
-			"vidspot.net": "http://vidspot.net/q46216z03uv5",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/fa934687fdd2e",
-			"mightyupload.com": "http://mightyupload.com/gu008i0foc1p",
-			"modovideo.com": "http://modovideo.com/video.php?v=1ywfcog8j805",
 			"vidzi.tv": "http://vidzi.cc/sify4l887l00.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/b9d920245d25bf3e3a26f8bf8993fc47",
-			"cloudyvideos.com": "http://cloudyvideos.com/fprlclhu85il",
-			"filenuke.com": "http://filenuke.com/f/O7YQ9X6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/276b7ad1562c4937c8014d28f9f24125",
-			"gorillavid.in": "http://gorillavid.in/jd68xl05zh2t",
 		}
 	},
 	{
@@ -1043,17 +669,9 @@ var show_order = [
 		"title": "Plastique",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-5-s01e05_525",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1286",
-			"vidspot.net": "http://vidspot.net/42b0je6y1pxk",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/1625b267cc687",
-			"movshare.net": "http://www.movshare.net/video/40237e2537f8d",
 			"vidzi.tv": "http://vidzi.cc/6pn3tzqc5k1s.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/41d09d7f2b95bd7e5d08329a6b74e0f4",
-			"cloudyvideos.com": "http://cloudyvideos.com/3gv4oddfsf4a",
-			"neodrive.co": "http://neodrive.co/share/file/FZHQZFOAOFV5FPGWG1XYZHT2U",
-			"filenuke.com": "http://filenuke.com/f/0oPpZrO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/0af8acd66abaafa392b64c0972515fec",
-			"promptfile.com": "http://www.promptfile.com/l/4AFF0C680B-5336B99BFF",
 		}
 	},
 	{
@@ -1063,17 +681,9 @@ var show_order = [
 		"title": "Guilty",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-6-s03e06_2687",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1361",
-			"movreel.com": "http://movreel.com/1z6xfs7042lb.html",
-			"vidspot.net": "http://vidspot.net/mbcra7qknmre",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4150b02bea51b",
-			"mightyupload.com": "http://mightyupload.com/37nudjtw91cs",
 			"vidzi.tv": "http://vidzi.cc/9lfgx76e5hwf.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/21d52dab4e51ac4b47469e6aefc79ed5",
-			"cloudyvideos.com": "http://cloudyvideos.com/b49kxqvbsddm",
-			"filenuke.com": "http://filenuke.com/f/0exRKD6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/26adbd56152f921cf19330799100aa98",
-			"promptfile.com": "http://www.promptfile.com/l/DE4CBBB517-F94F3AE89A",
 		}
 	},
 	{
@@ -1083,17 +693,9 @@ var show_order = [
 		"title": "The Flash is Born",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-6-s01e06_526",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/mjj5y06mk95x.html",
-			"vidspot.net": "http://vidspot.net/hu9o9mbhblhv",
-			"teslavid.eu": "http://teslavid.eu/archives/1283",
-			"mightyupload.com": "http://mightyupload.com/7r0sqbjiq61d/the.flash.2014.106.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/tgzrtakm4977.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/9006d5963f33a895bfdb0bce57ec5cc7",
-			"cloudyvideos.com": "http://cloudyvideos.com/xtji41p060m2",
-			"neodrive.co": "http://neodrive.co/share/file/ZOBV6MYWARNZ0Y261LF611S1I",
-			"filenuke.com": "http://filenuke.com/f/6GXnkQ0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3d15e028594ffe8762e80c0625479f34",
-			"gorillavid.in": "http://gorillavid.in/ivvcgybl2i80",
 		}
 	},
 	{
@@ -1103,17 +705,9 @@ var show_order = [
 		"title": "Draw Back Your Bow",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-7-s03e07_2690",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/nlukeejajga1.html",
-			"vidspot.net": "http://vidspot.net/j2wpqqwbpsq5",
-			"teslavid.eu": "http://teslavid.eu/archives/1359",
-			"mightyupload.com": "http://mightyupload.com/cd8bx0wgcesg/Arrow.S03E07.Draw.Back.Your.Bow.WEB-DL.x264.AAC.mp4.html",
-			"modovideo.com": "http://modovideo.com/video.php?v=n9javzqlayrn",
 			"vidzi.tv": "http://vidzi.cc/c1if42cnewje.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/b328a6d5663896af59c9443d748da141",
-			"cloudyvideos.com": "http://cloudyvideos.com/nde38rr8l0uf",
-			"filenuke.com": "http://filenuke.com/f/0Le185O",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c67c5f86d29967b51163856373a91b43",
-			"gorillavid.in": "http://gorillavid.in/gmnxfed3bcxq",
 		}
 	},
 	{
@@ -1123,16 +717,9 @@ var show_order = [
 		"title": "Power Outage",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-7-s01e07_721",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1281",
-			"vidspot.net": "http://vidspot.net/0jn1almrhx0l",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/95f13db7a9fe9",
-			"mightyupload.com": "http://mightyupload.com/xf8jw441bmrc/the.flash.2014.107.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/q295ez5fnmx3.html/zz",
 			"lolzor.com": "http://www.lolzor.com/files/005f48e9882748bc6629b2bc73915f72",
-			"neodrive.co": "http://neodrive.co/share/file/6WSZQM6N4FWQ5AGKD5YJATTQO",
-			"filenuke.com": "http://filenuke.com/f/Oa1LvPO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b97467a4e27d79ac980c9d3811626532",
-			"gorillavid.in": "http://gorillavid.in/stmlnqu7ttd9",
 		}
 	},
 	{
@@ -1142,15 +729,9 @@ var show_order = [
 		"title": "Flash vs. Arrow",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-8-s01e08_434",
 		"vid_links": {
-			"neodrive.co": "http://neodrive.co/share/file/SXMBO1QAVNTCJZIXBATQUB2P1",
-			"movreel.com": "http://movreel.com/xr4v3ifh5al8.html",
-			"vidspot.net": "http://vidspot.net/5ud9dax1lg8y",
-			"teslavid.eu": "http://teslavid.eu/archives/1279",
 			"vidzi.tv": "http://vidzi.cc/3l3z5qxd681j.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/21a01c8d501c1d5abbe74e49a0384dbb",
-			"filenuke.com": "http://filenuke.com/f/64ZPXDO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/44a34e9e7ff1fa8f09012a8dce6d0072",
-			"gorillavid.in": "http://gorillavid.in/uccongymscb1",
 		}
 	},
 	{
@@ -1160,17 +741,9 @@ var show_order = [
 		"title": "The Brave and the Bold",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-8-s03e08_2731",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1357",
-			"movreel.com": "http://movreel.com/zhv3cd30b78v.html",
-			"vidspot.net": "http://vidspot.net/l55c79mzyx5x",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b42988d5affa9",
-			"mightyupload.com": "http://mightyupload.com/1mre2himojso/Arrow.S03E08.The.Brave.and.the.Bold.WEB-DL.x264.AAC.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/i19nhfx4iagw.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/58596cecb5965f1e27a00be70ffefad2",
-			"cloudyvideos.com": "http://cloudyvideos.com/zjka1cuvsy97",
-			"filenuke.com": "http://filenuke.com/f/3NJL4n3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ac9c0f018f440b03e104afe6538362e1",
-			"gorillavid.in": "http://gorillavid.in/nudhfx12lx74",
 		}
 	},
 	{
@@ -1180,16 +753,9 @@ var show_order = [
 		"title": "The Man in the Yellow Suit",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-9-s01e09_431",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1277",
-			"vidspot.net": "http://vidspot.net/lmkf3901prwk",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/5fa58638f186f",
-			"mightyupload.com": "http://mightyupload.com/lnoqpcgorz9v/The.Flash.2014.S01E09.The.Man.in.the.Yellow.Suit.WEB-DL.x264.AAC.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/43kk4fux0pyf.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/f1d5f037d0d4274ebec70bce389f7bf8",
-			"neodrive.co": "http://neodrive.co/share/file/65UDAX5YGZELB6S5KBWTGUIUU",
-			"filenuke.com": "http://filenuke.com/f/0oPpZYO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/0abdc3680cc220f13977f0cf78cbde78",
-			"gorillavid.in": "http://gorillavid.in/96mbkuwryfj3",
 		}
 	},
 	{
@@ -1200,17 +766,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-9-s03e09_2709",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/2884dd9eea1a6",
-			"movreel.com": "http://movreel.com/8x0g5pexnm3y.html",
-			"teslavid.eu": "http://teslavid.eu/archives/1356",
-			"modovideo.com": "http://modovideo.com/video.php?v=ir61e6u8yftq",
-			"movshare.net": "http://www.movshare.net/video/68ce373b6ace2",
 			"vidzi.tv": "http://vidzi.cc/bk83jwwm6877.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/330db1dd27b795ec3874193876ec7d9b",
-			"cloudyvideos.com": "http://cloudyvideos.com/hkp4ixvzmytr",
-			"neodrive.co": "http://neodrive.co/share/file/6CU153ZNXA5OLX1HQ02S6DLQU",
-			"filenuke.com": "http://filenuke.com/f/3wdYeN6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2b80c7055fa93da7e2fb7aa885902e66",
-			"gorillavid.in": "http://gorillavid.in/oxpj8dksklrj",
 		}
 	},
 	{
@@ -1220,15 +778,9 @@ var show_order = [
 		"title": "Reveng of the Rogues",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-10-s01e10_435",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/634m7yv9epii",
 			"vidzi.tv": "http://vidzi.cc/ywnric3ljba6.html/77",
-			"movpod.in": "http://movpod.in/i38c21ojuwzk",
-			"openload.io": "https://openload.cc/f/i-mP1YRYS10",
 			"lolzor.com": "http://www.lolzor.com/files/bd7d9b78c29f41bd0dfa6e9c9d5c9d43",
-			"teslavid.eu": "http://teslavid.eu/archives/1276",
-			"filenuke.com": "http://filenuke.com/f/0reyWn6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/aa82cd2f089268d324dabeb117e6f43d",
-			"gorillavid.in": "http://gorillavid.in/qez7hxfd39pf",
 		}
 	},
 	{
@@ -1238,16 +790,9 @@ var show_order = [
 		"title": "Left Behind",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-10-s03e10_2682",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/315",
-			"movreel.com": "http://movreel.com/b588semwzcmh.html",
-			"vidspot.net": "http://vidspot.net/2t2un0oxujnf",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/a2ab4650e3379",
-			"mightyupload.com": "http://mightyupload.com/9fnrod9tcgxq/Watch_Arrow_S03E10_Left_Behind_WEB_x264_AAC_mp4.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/dbeyk6tg671p.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/5eec17e93a196ec7bda39630d5b8785d",
-			"filenuke.com": "http://filenuke.com/f/0rKZoLO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ed5ec1c7180d980df276b14138905170",
-			"gorillavid.in": "http://gorillavid.in/oogiyliyi35l",
 		}
 	},
 	{
@@ -1257,17 +802,9 @@ var show_order = [
 		"title": "The Sound and the Fury",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-11-s01e11_568",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1274",
-			"movreel.com": "http://movreel.com/f1433i4ualx0.html",
-			"vidspot.net": "http://vidspot.net/he8idhtymf2y",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/66d626d0a3119",
-			"mightyupload.com": "http://mightyupload.com/prbzxersz5s7",
 			"vidzi.tv": "http://vidzi.cc/7od0kecw1vru.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/73ddedf5829171c17b33f3902b790f0e",
-			"cloudyvideos.com": "http://cloudyvideos.com/t2jw4vjaeplo",
-			"filenuke.com": "http://filenuke.com/f/ORvo5DO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b717ff1d932312e72c10b46534259b1c",
-			"promptfile.com": "http://www.promptfile.com/l/0937B2A7FB-88A575FE09",
 		}
 	},
 	{
@@ -1277,17 +814,9 @@ var show_order = [
 		"title": "Midnight City",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-11-s03e11_2809",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1352",
-			"movreel.com": "http://movreel.com/tugnnvvefs73.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/29c2565369639",
-			"mightyupload.com": "http://mightyupload.com/mbai794irtl1/Watch_arrow_311_hdtv_lol_mp4.mp4.html",
-			"modovideo.com": "http://modovideo.com/video.php?v=329cklqlf6cm",
 			"vidzi.tv": "http://vidzi.cc/llgo1cquwq9y.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/e3a478430917cbe1e68623aa8145f0a7",
-			"cloudyvideos.com": "http://cloudyvideos.com/g31e2uca1828",
-			"primeshare.tv": "http://primeshare.tv/download/9D81F0DA9A",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/a53e4cb51038557f999b67e805a1af0b",
-			"promptfile.com": "http://www.promptfile.com/l/20413442B0-A9771852D1",
 		}
 	},
 	{
@@ -1297,14 +826,7 @@ var show_order = [
 		"title": "Crazy for You",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-12-s01e12_572",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1272",
-			"vidspot.net": "http://vidspot.net/quo5tn73u1e3",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/21af6dfbaec03",
-			"mightyupload.com": "http://mightyupload.com/d3wu7krtfrz1/the.flash.2014.112.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/3fuq0xjbnmfb.html/77",
-			"sharesix.com": "http://sharesix.com/f/0Eapog0",
-			"filenuke.com": "http://filenuke.com/f/6An9oj0",
-			"gorillavid.in": "http://gorillavid.in/hylzfcdfyr8l",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c539355de64d32217c6e7ba0a6953049",
 			"lolzor.com": "http://www.lolzor.com/files/d7bd4db4f60c85819fa49eddf022e9af",
 		}
@@ -1316,18 +838,9 @@ var show_order = [
 		"title": "Uprising",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-12-s03e12_2825",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1350",
-			"movreel.com": "http://movreel.com/1mmu19zz1x4k.html",
-			"vidspot.net": "http://vidspot.net/cc0z2w9300ax",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/190f0327720cc",
-			"modovideo.com": "http://modovideo.com/video.php?v=px9gzqk8mplt",
-			"movshare.net": "http://www.movshare.net/video/66d615e64f0f6",
-			"videomega.tv": "http://videomega.tv/?ref=i97vP3IebXXbeI3Pv79i",
 			"vidzi.tv": "http://vidzi.cc/h99widas8qnk.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/79cc7d6690fc27c8bc7a7e272509c5dd",
-			"cloudyvideos.com": "http://cloudyvideos.com/c12ieuhs9nid",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e220dc8feac4a7e8b790777e166e4e61",
-			"gorillavid.in": "http://gorillavid.in/uza9uaqsy6w9",
 		}
 	},
 	{
@@ -1337,17 +850,9 @@ var show_order = [
 		"title": "The Nuclear Man",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-13-s01e13_585",
 		"vid_links": {
-			"neodrive.co": "http://neodrive.co/share/file/PRNMQGDOEEMRQMGJJE1PB4EUO",
-			"movreel.com": "http://movreel.com/rxftojm0yx10.html",
-			"vidspot.net": "http://vidspot.net/uifsbuntjm3d",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/fd679b01ec3c6",
-			"mightyupload.com": "http://mightyupload.com/qqsbqc9z5f4f/the.flash.2014.113.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/0fg0ulllvqvk.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/3df8845adc7bb067c1cbbfd0ca77d7a2",
-			"teslavid.eu": "http://teslavid.eu/archives/1269",
-			"filenuke.com": "http://filenuke.com/f/0oPpReO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c53762da0bc1338f1bda25f122125a2f",
-			"gorillavid.in": "http://gorillavid.in/l8x2jirhsvf8",
 		}
 	},
 	{
@@ -1357,16 +862,9 @@ var show_order = [
 		"title": "Canaries",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-13-s03e13_2795",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/4rckgnjcl6am.html",
-			"vidspot.net": "http://vidspot.net/60d3zbur6out",
-			"teslavid.eu": "http://teslavid.eu/archives/1348",
-			"mightyupload.com": "http://mightyupload.com/xsay4iginxdg/arrow.313.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/gpwtuy3dxlos.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/8e5ee905b4b1342599156a6df495b64f",
-			"cloudyvideos.com": "http://cloudyvideos.com/jzg0mtbpfahs",
-			"gorillavid.in": "http://gorillavid.in/4nue291ybj1x",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/89aa7b9a4a6b4b22ea0ca36138876046",
-			"promptfile.com": "http://www.promptfile.com/l/172FEB3883-59E7A9F67D",
 		}
 	},
 	{
@@ -1376,15 +874,9 @@ var show_order = [
 		"title": "Fallout",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-14-s01e14_558",
 		"vid_links": {
-			"neodrive.co": "http://neodrive.co/share/file/JKS40KR0HCIDPV5K4M4VCZU1F",
-			"vidspot.net": "http://vidspot.net/gu5a6g99lkjk",
-			"teslavid.eu": "http://teslavid.eu/archives/1268",
-			"movshare.net": "http://www.movshare.net/video/1e35556dcd4db",
 			"vidzi.tv": "http://vidzi.cc/malxccgf9tze.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/266f44afe867c46c6ac8790f7699301d",
-			"filenuke.com": "http://filenuke.com/f/32Jg7a3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/86b3c54c379c1e555e9045455da0950e",
-			"gorillavid.in": "http://gorillavid.in/8mo6pyb79hxv",
 		}
 	},
 	{
@@ -1394,17 +886,9 @@ var show_order = [
 		"title": "The Return",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-14-s03e14_2806",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1346",
-			"movreel.com": "http://movreel.com/n93jzgib8jbr.html",
-			"vidspot.net": "http://vidspot.net/i3fkfhu6z3wt",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/927a500689b9e",
-			"movshare.net": "http://www.movshare.net/video/b1c147ae507c8",
 			"vidzi.tv": "http://vidzi.cc/7yxguwr4e6s3.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/1b2c60f9523279e9b785186c647a6187",
-			"cloudyvideos.com": "http://cloudyvideos.com/3tjzzbzuidw7",
-			"filenuke.com": "http://filenuke.com/f/0PE5RRO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9313440a1228492c7d5f6261d6677fbc",
-			"gorillavid.in": "http://gorillavid.in/y8q6z4iqadg6",
 		}
 	},
 	{
@@ -1415,16 +899,7 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-1-s01e01_233738",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/6e6792fdf0cf1",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3eb916b20b650/",
-			"gorillavid.in": "http://gorillavid.in/134pxlz5x05a",
-			"movshare.net": "http://www.movshare.net/video/639fc02d67471",
 			"vidzi.tv": "http://vidzi.cc/h17zh4wn4txf.html",
-			"movpod.in": "http://movpod.in/icyq5otw2xl8",
-			"sharesix.com": "http://sharesix.com/f/ko61lb",
-			"novamov.com": "http://www.novamov.com/video/ba8744aa77ca0",
-			"shared.sx": "http://shared.sx/44c7fc4305",
-			"v-vids.com": "http://v-vids.com/4gz5vj11brfj",
-			"vidto.me": "http://vidto.me/bg892a7g46xb.html",
 			"lolzor.com": "http://www.lolzor.com/files/661cc8cdecbecbf6d0b419217fd62d68",
 		}
 	},
@@ -1436,17 +911,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-2-s01e02_233740",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/9f2881988e6f9",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/cf03e44f834f5/",
-			"gorillavid.in": "http://gorillavid.in/pjl3p6880pb4",
-			"mightyupload.com": "http://mightyupload.com/j7b6rp53fwa2/vixen.s01e02.webrip.x264-deadpool.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/9wd2hzyx8gqd.html",
-			"movpod.in": "http://movpod.in/gkthkyjth9a5",
-			"streamin.to": "http://streamin.to/08d3rpargtzo",
 			"lolzor.com": "http://www.lolzor.com/files/2b1ebeda1df0461f440e6f50c4c672ee",
-			"novamov.com": "http://www.novamov.com/video/670e5f578e528",
-			"shared.sx": "http://shared.sx/62f4d96fbe",
-			"v-vids.com": "http://v-vids.com/sxz9hm7t41w8",
-			"vidto.me": "http://vidto.me/uu6n9rqxk35n",
 		}
 	},
 	{
@@ -1457,20 +923,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-3-s01e03_233742",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/498c2abdfb8ce",
-			"filefactory.com": "http://www.filefactory.com/file/3x4m7dyomr2f/n/Vixen.S01E03.480p.ARIZONE.mp4",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/7f965a816925f",
-			"mightyupload.com": "http://mightyupload.com/pasis4v9ryrz",
-			"vidspot.net": "http://vidspot.net/4uv74erday07",
-			"vshare.eu": "http://vshare.eu/g378ps7jfm84.htm",
 			"vidzi.tv": "http://vidzi.cc/hoduqhs6gh4h.html",
-			"movpod.in": "http://movpod.in/0zozyqc3aare",
-			"streamin.to": "http://streamin.to/sqp9ezsfb01s",
 			"lolzor.com": "http://www.lolzor.com/files/2e9f0d90849363a553bd623c094f3548",
-			"novamov.com": "http://www.novamov.com/video/c6331eddf3b34",
-			"vidlockers.ag": "http://vidlockers.ag/d2bnz99d55cv",
-			"xvidstage.com": "http://xvidstage.com/7y92h5b0wt8d",
-			"shared.sx": "http://shared.sx/bfa0fc2dd3",
-			"gorillavid.in": "http://gorillavid.in/rdj8j2k0avo2",
 		}
 	},
 	{
@@ -1481,20 +935,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-4-s01e04_233744",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/780984568b914",
-			"filefactory.com": "http://www.filefactory.com/file/12g7cwnvfjyj/n/Vixen.S01E04.480p.ARIZONE.mp4",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/f55d02a1abab2/",
-			"mightyupload.com": "http://mightyupload.com/9tewk8soata1/Vixen104.mp4.html",
-			"vidspot.net": "http://vidspot.net/912bcrzn2ap1",
-			"vshare.eu": "http://vshare.eu/j8qnufm92d1o.htm",
 			"vidzi.tv": "http://vidzi.cc/tk0c10hqvv9t.html",
-			"movpod.in": "http://movpod.in/e0nr93qr1v5b",
-			"streamin.to": "http://streamin.to/q57p363byglt",
 			"lolzor.com": "http://www.lolzor.com/files/d9365636d982b6edc717e71c38b31807",
-			"novamov.com": "http://www.novamov.com/video/3b0ef65d9b7ae",
-			"vidlockers.ag": "http://vidlockers.ag/mzbitw20okxh",
-			"xvidstage.com": "http://xvidstage.com/1l13ok6barpj",
-			"shared.sx": "http://shared.sx/5b23f92256",
-			"gorillavid.in": "http://gorillavid.in/tq5doipw1i1f",
 		}
 	},
 	{
@@ -1505,19 +947,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-5-s01e05_233746",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/76d216b676c64",
-			"vidspot.net": "http://vidspot.net/usfba4refjgs",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/05a51f0914831",
-			"movshare.net": "http://www.movshare.net/video/f3ceca3014ae8",
 			"vidzi.tv": "http://vidzi.cc/qzlq1fpm0eiv.html",
-			"movpod.in": "http://movpod.in/mbansiho77t0",
-			"streamin.to": "http://streamin.to/9weeiea1c1ss",
 			"lolzor.com": "http://www.lolzor.com/files/b6d55598ed41d0c5934424df9fa073d4",
-			"novamov.com": "http://www.novamov.com/video/9cc1a27f1a7c7",
-			"vidlockers.ag": "http://vidlockers.ag/br04td114ate",
-			"xvidstage.com": "http://xvidstage.com/x1yvjk4ou92n",
-			"shared.sx": "http://shared.sx/3a2f96dba5",
-			"vidto.me": "http://vidto.me/di1zv6dtmhff",
-			"gorillavid.in": "http://gorillavid.in/bi0hqah5dum2",
 		}
 	},
 	{
@@ -1528,20 +959,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/vixen-season-1-episode-6-s01e06_233748",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/f363ab6c8eef1",
-			"vidspot.net": "http://vidspot.net/pkyx35g97ck5",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/d2c4eb2f70590/",
-			"mightyupload.com": "http://mightyupload.com/ozlfxr6pf7ce",
-			"vshare.eu": "http://vshare.eu/v0row2oe8byb.htm",
 			"vidzi.tv": "http://vidzi.cc/t7mvcnwx35ln.html",
-			"movpod.in": "http://movpod.in/yj9zk3vrnyu2",
-			"streamin.to": "http://streamin.to/qwzduvdfpy6n",
 			"lolzor.com": "http://www.lolzor.com/files/c25fa7effcb0f5aed4553d3732ce9a6b",
-			"novamov.com": "http://www.novamov.com/video/b8768ca942733",
-			"vidlockers.ag": "http://vidlockers.ag/4du36d6ftli3",
-			"xvidstage.com": "http://xvidstage.com/lxxj8axtmlfs",
-			"shared.sx": "http://shared.sx/cc0134a964",
-			"vidto.me": "http://vidto.me/lhxx999vb3rz.html",
-			"gorillavid.in": "http://gorillavid.in/5ptnhda0ddw5",
 		}
 	},
 	{
@@ -1551,17 +970,9 @@ var show_order = [
 		"title": "Nanda Parbat",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-15-s03e15_2818",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1343",
-			"movreel.com": "http://movreel.com/9pzy5fes7vb8.html",
-			"vidspot.net": "http://vidspot.net/pxmqqvwzxjas",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/8f212a4406f08",
-			"mightyupload.com": "http://mightyupload.com/tsxvcamtj5dt.html",
 			"vidzi.tv": "http://vidzi.cc/g1p5ne6a5fm7.html/777",
 			"lolzor.com": "http://www.lolzor.com/files/80b48f0d7b829a86d14d9f6c768d2241",
-			"cloudyvideos.com": "http://cloudyvideos.com/nywrbvciw9lo",
-			"filenuke.com": "http://filenuke.com/f/6bB7dL6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6c16b86ae5c60a708b4458d9ee30639d",
-			"gorillavid.in": "http://gorillavid.in/6bwb4kouyg25",
 		}
 	},
 	{
@@ -1571,15 +982,9 @@ var show_order = [
 		"title": "Out of Time",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-15-s01e15_566",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1266",
-			"vidspot.net": "http://vidspot.net/9yydgpefrspj",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3c86eff05bee6",
-			"mightyupload.com": "http://mightyupload.com/b09e6a1unfnh",
 			"vidzi.tv": "http://vidzi.cc/0lybn61n4ao5.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/32411734975cfc3aa7178d9a49ba1451",
-			"filenuke.com": "http://filenuke.com/f/0reyba6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/18c82b63d317294983e0e16b0f6d2379",
-			"gorillavid.in": "http://gorillavid.in/k6936irz53bf",
 		}
 	},
 	{
@@ -1589,16 +994,9 @@ var show_order = [
 		"title": "Rogue Time",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-16-s01e16_661",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1264",
-			"movreel.com": "http://movreel.com/vq9xrhil72fk.html",
-			"vidspot.net": "http://vidspot.net/5iycp53wmqgi",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/6ced5ae900061",
-			"mightyupload.com": "http://mightyupload.com/12804p7jelua",
 			"vidzi.tv": "http://vidzi.cc/qv5cbxjx7qtq.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/40e57b7fe78f6159c26f411fd8f3ebad",
-			"filenuke.com": "http://filenuke.com/f/0P4jnq0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d690194f383946c49af82b951f8739c1",
-			"gorillavid.in": "http://gorillavid.in/zcz8d2ydn9is",
 		}
 	},
 	{
@@ -1608,16 +1006,9 @@ var show_order = [
 		"title": "The Offer",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-16-s03e16_2812",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/sl6v7cyvq0zw.html",
-			"vidspot.net": "http://vidspot.net/dl6jomhdhlkp",
-			"teslavid.eu": "http://teslavid.eu/archives/302",
-			"movshare.net": "http://www.movshare.net/video/92e63a17fcf2c",
 			"vidzi.tv": "http://vidzi.cc/b2ko7aygetis.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/510fc405fcfefb0c8a01f3700dfd90cb",
-			"cloudyvideos.com": "http://cloudyvideos.com/s67da8h6k7m3",
-			"filenuke.com": "http://filenuke.com/f/3jaVDJO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/38ae00d393a458871f45de4169e00901",
-			"primeshare.tv": "http://primeshare.tv/download/3A9076D313",
 		}
 	},
 	{
@@ -1627,15 +1018,9 @@ var show_order = [
 		"title": "Tricksters",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-17-s01e17_657",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/fn9hzt7d0d9t.html",
-			"vidspot.net": "http://vidspot.net/26cyom3e3unt",
-			"teslavid.eu": "http://teslavid.eu/archives/1261",
-			"mightyupload.com": "http://mightyupload.com/ydkafyko665j/the.flash.2014.117.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/9a4sbjoa8w3a.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/4c156ddf6565959b5f1c9ace408fca4d",
-			"filenuke.com": "http://filenuke.com/f/0EnY8mO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1b7c9837d16721cccb161013a103fe73",
-			"promptfile.com": "http://www.promptfile.com/l/6F4FA31C70-E78B5B2993",
 		}
 	},
 	{
@@ -1645,19 +1030,9 @@ var show_order = [
 		"title": "Suicidal Tendencies",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-17-s03e17_2839",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/ly7e63yukrwr.html",
-			"vidspot.net": "http://vidspot.net/z93zh1c1glir",
-			"teslavid.eu": "http://teslavid.eu/archives/1339",
-			"modovideo.com": "http://modovideo.com/video.php?v=kcpmt5vr3u1o",
-			"movshare.net": "http://www.movshare.net/video/2335d56b0fefa",
-			"vid.gg": "http://www.vid.gg/video/a1675b7c8ad42",
 			"vidzi.tv": "http://vidzi.cc/5cd8x3xwvd99.html/77",
-			"uploadc.com": "http://www.uploadc.com/d9o1iab8fech",
 			"lolzor.com": "http://www.lolzor.com/files/b7d0d22fb966862c490abf39416cc4c6",
-			"cloudyvideos.com": "http://cloudyvideos.com/s59nojodta7v",
-			"filenuke.com": "http://filenuke.com/f/0EMeJB0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/cb99bb9867bc62e380c61a3cdf1d66d4",
-			"primeshare.tv": "http://primeshare.tv/download/2E8229D5DC",
 		}
 	},
 	{
@@ -1667,16 +1042,9 @@ var show_order = [
 		"title": "Public Enemy",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-18-s03e18_2834",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/tw1t96ty3xmu.html",
-			"vidspot.net": "http://vidspot.net/zf2wpxy2hh1i",
-			"teslavid.eu": "http://teslavid.eu/archives/1338",
-			"movshare.net": "http://www.movshare.net/video/26eea9b767dc6",
 			"vidzi.tv": "http://vidzi.cc/6g46ewt50ck0.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/d0fdac130f8c9d2e39dda915c3d3f319",
-			"cloudyvideos.com": "http://cloudyvideos.com/3olafvr3lrdn",
-			"filenuke.com": "http://filenuke.com/f/64g1rk3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c4abf8ba9b1023602f83e2ea2ff240f9",
-			"gorillavid.in": "http://gorillavid.in/mjhfpmx4qmkv",
 		}
 	},
 	{
@@ -1687,17 +1055,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-18-s01e18_678",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/f11269b594e5c",
-			"teslavid.eu": "http://teslavid.eu/archives/1260",
-			"vidspot.net": "http://vidspot.net/38b2k95azztw",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/71e4cd97f2b11",
-			"mightyupload.com": "http://mightyupload.com/7kdnicap5k7b",
 			"vidzi.tv": "http://vidzi.cc/17z1xa9b6qgf.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/c660b249122c2f3a19da106c4abb54ab",
-			"cloudyvideos.com": "http://cloudyvideos.com/bmcmdfwww3f0",
-			"neodrive.co": "http://neodrive.co/share/file/1H1H2YRR2RMDYY12OX4NZBNWA",
-			"filenuke.com": "http://filenuke.com/f/6bQJMJ3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d635497f2f81d259720cb4160d784c83",
-			"promptfile.com": "http://www.promptfile.com/l/5DBA966518-A020975FE8",
 		}
 	},
 	{
@@ -1707,18 +1067,9 @@ var show_order = [
 		"title": "Broken Arrow",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-19-s03e19_2845",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/gqjc0ly6aue9.html",
-			"uploadc.com": "http://www.uploadc.com/4js3py13m9ie/arrow.319.hdtv-lol.mp4.htm",
-			"teslavid.eu": "http://teslavid.eu/archives/296",
-			"modovideo.com": "http://modovideo.com/video.php?v=37pl9s8vrjqf",
-			"movshare.net": "http://www.movshare.net/video/e67d689cf923a",
 			"vidzi.tv": "http://vidzi.cc/i5f4eir5cu0h.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/d0d5f6f2e2b931cad83623f298195eeb",
-			"cloudyvideos.com": "http://cloudyvideos.com/91pampep3irv",
-			"neodrive.co": "http://neodrive.co/share/file/NMFZ4FML2U4GRBBF5TEN3KFWR",
-			"filenuke.com": "http://filenuke.com/f/6bVXJg6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6d38deb31faa4ff54afa8b38d0b01193",
-			"gorillavid.in": "http://gorillavid.in/0gvcvqe9vyir",
 		}
 	},
 	{
@@ -1729,17 +1080,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-19-s01e19_171060",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/b32f385c56bee",
-			"movreel.com": "http://movreel.com/ciaazf5gfa7e.html",
-			"vidspot.net": "http://vidspot.net/6qaia8pleuhl",
-			"teslavid.eu": "http://teslavid.eu/archives/1258",
-			"mightyupload.com": "http://mightyupload.com/eff0nswfvown/the.flash.2014.119.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/gtw0d3jtzp8y.html/777",
 			"lolzor.com": "http://www.lolzor.com/files/f1d6ae469fe55bda288cb4d372569773",
-			"cloudyvideos.com": "http://cloudyvideos.com/srlpqto0cjyf",
-			"neodrive.co": "http://neodrive.co/share/file/ERXH2EDSTUR54N0FULYFKI30W",
-			"filenuke.com": "http://filenuke.com/f/0er1ppO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6d15ff65ca66bee4c0268f1acc33898a",
-			"gorillavid.in": "http://gorillavid.in/pr2cw00mar0i",
 		}
 	},
 	{
@@ -1749,17 +1092,9 @@ var show_order = [
 		"title": "The Fallen",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-20-s03e20_2840",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/nry53v2adpa7.html",
-			"teslavid.eu": "http://teslavid.eu/archives/1333",
-			"movshare.net": "http://www.movshare.net/video/f7115980f64aa",
 			"vidzi.tv": "http://vidzi.cc/ijsibmsjbddc.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/f22f8cf1be452567e409075eafec055d",
-			"cloudyvideos.com": "http://cloudyvideos.com/7lqa75gzgpok",
-			"neodrive.co": "http://neodrive.co/share/file/LWKFLQH3ITY3DD1UDNNNU3KKX",
-			"filenuke.com": "http://filenuke.com/f/OKB4AR0",
-			"modovideo.com": "http://modovideo.com/video.php?v=7pwqzrtd5idl",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c993956791e50be0584b8cdb00675d6c",
-			"gorillavid.in": "http://gorillavid.in/2e4n34r1c1tc",
 		}
 	},
 	{
@@ -1769,17 +1104,9 @@ var show_order = [
 		"title": "The Trap",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-20-s01e20_171064",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1256",
-			"movreel.com": "http://movreel.com/9ccqnm08vyza.html",
-			"vidspot.net": "http://vidspot.net/jqrnxaft3xla",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/53d9235287b96",
 			"vidzi.tv": "http://vidzi.cc/uyfru26jv7s4.html/7",
 			"lolzor.com": "http://www.lolzor.com/files/bcfa4fbba43b6475ed7854be78c77f23",
-			"cloudyvideos.com": "http://cloudyvideos.com/mv6ghbn33ppd",
-			"neodrive.co": "http://neodrive.co/share/file/00TC2B3KHMEN5PGBG5HASSTHK",
-			"filenuke.com": "http://filenuke.com/f/O7neMG0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1151549dece42b07496f4537bb9aeb08",
-			"gorillavid.in": "http://gorillavid.in/zyu7prykccsm",
 		}
 	},
 	{
@@ -1790,18 +1117,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-21-s03e21_171081",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/756342ffb8297",
-			"movreel.com": "http://movreel.com/7fyj8tev7qpz.html",
-			"teslavid.eu": "http://teslavid.eu/archives/292",
-			"mightyupload.com": "http://mightyupload.com/3q6lja02i34j/Arrow_Season_3_Episode_21.flv.html",
-			"modovideo.com": "http://modovideo.com/video.php?v=amjlh18an4ct",
-			"vid.gg": "http://www.vid.gg/video/35991e74a1810",
 			"vidzi.tv": "http://vidzi.cc/slygoyu3w0ax.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/d308c23fcdd87e20933e2b2790c867e8",
-			"cloudyvideos.com": "http://cloudyvideos.com/4geakd3hkh0n",
-			"neodrive.co": "http://neodrive.co/share/file/CKNCUL15KOYE2MR6TYRP5HXVC",
-			"filenuke.com": "http://filenuke.com/f/328eZW0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1cf635a2fac17d79fdb8a529da94e4ea",
-			"promptfile.com": "http://www.promptfile.com/l/353719993C-66C58E18A6",
 		}
 	},
 	{
@@ -1811,15 +1129,7 @@ var show_order = [
 		"title": "Grodd Livs",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-21-s01e21_171062",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/1253",
-			"vidspot.net": "http://vidspot.net/0lgmjtuwzi1k",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/6a4314cd2b7e5",
-			"mightyupload.com": "http://mightyupload.com/5xrlpe5v4axu/the.flash.2014.121.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/8ga192ubexh2.html/7",
-			"sharesix.com": "http://sharesix.com/f/OXBDWl6",
-			"filenuke.com": "http://filenuke.com/f/OZbxyJO",
-			"neodrive.co": "http://neodrive.co/share/file/D42P5J5X2NU1L5APQHBS1FG2C",
-			"gorillavid.in": "http://gorillavid.in/t3tcx2f9m6kl",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9398b36cda915c901346ceb39ac34e04",
 			"lolzor.com": "http://www.lolzor.com/files/1434fcae094085ea3cbb16738f08641e",
 		}
@@ -1832,16 +1142,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-22-s03e22_171082",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/c2388a37a48c5",
-			"movreel.com": "http://movreel.com/8vyd0voqt9c2.html",
-			"vidspot.net": "http://vidspot.net/5ljtn2fz9k2r",
-			"teslavid.eu": "http://teslavid.eu/archives/1330",
-			"movshare.net": "http://www.movshare.net/video/c2d4f0db2a0da",
 			"vidzi.tv": "http://vidzi.cc/omiebmc1t0zt.html/777",
 			"lolzor.com": "http://www.lolzor.com/files/0c950606858cbc9af548b4a44a41d659",
-			"cloudyvideos.com": "http://cloudyvideos.com/9yckqd5u2c56",
-			"neodrive.co": "http://neodrive.co/share/file/JEGGMSMR3MRDUHJJG3TTOIE65",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f97614c3ead72a96ae5715167491f3c1",
-			"promptfile.com": "http://www.promptfile.com/l/BFB7FAC714-639DB19032",
 		}
 	},
 	{
@@ -1851,15 +1154,7 @@ var show_order = [
 		"title": "Rogue Air",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-22-s01e22_171061",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/mm00qh8sdoi4",
-			"mightyupload.com": "http://mightyupload.com/nstp4u4lvbj6/the.flash.2014.122.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/3jqcyr6bxko2.html/7",
-			"video.tt": "http://www.video.tt/watch_video.php?v=xNZhhi592",
-			"cloudyvideos.com": "http://cloudyvideos.com/jtpde118cwz3",
-			"neodrive.co": "http://neodrive.co/share/file/AH6UYSJBSH2S1MTCEORJYLY22",
-			"filenuke.com": "http://filenuke.com/f/3yNdnM6",
-			"gorillavid.in": "http://gorillavid.in/a4vq592hzzts",
-			"teslavid.eu": "http://teslavid.eu/archives/1251",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/15db44bf27dab99c47c0b18e7ce2fe4d",
 			"lolzor.com": "http://www.lolzor.com/files/0e73a6b307fe756c0e8bb89540bd2d35",
 		}
@@ -1871,19 +1166,9 @@ var show_order = [
 		"title": "My Name Is Oliver Queen",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-3-episode-23-s03e23_171083",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/ewn0xhq1wp3g.html",
-			"vidspot.net": "http://vidspot.net/i66nfluykntw",
-			"teslavid.eu": "http://teslavid.eu/archives/1327",
-			"uploadc.com": "http://www.uploadc.com/x9z0ipn3s3zj.htm",
-			"movshare.net": "http://www.movshare.net/video/c5872784ada44",
 			"vidzi.tv": "http://vidzi.cc/lxo54vy9dodk.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/52ae743c81330005c17f97b852236e81",
-			"cloudyvideos.com": "http://cloudyvideos.com/mkw4357caukk",
-			"neodrive.co": "http://neodrive.co/share/file/AC1U51ZHKD635TSTPSSZG6UB6",
-			"filenuke.com": "http://filenuke.com/f/6GqKPzO",
-			"gorillavid.in": "http://gorillavid.in/vhxkz66y4las",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/dee01674a6dfe3c9f6df456dc2531192",
-			"promptfile.com": "http://www.promptfile.com/l/C333F8DD36-A012ECBE6F",
 		}
 	},
 	{
@@ -1893,17 +1178,9 @@ var show_order = [
 		"title": "Fast Enough",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-1-episode-23-s01e23_171063",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/6fir3mwydsco.html",
-			"vidspot.net": "http://vidspot.net/6f8lr88eqnu6",
-			"teslavid.eu": "http://teslavid.eu/archives/1249 ",
-			"movshare.net": "http://www.movshare.net/video/4b4e50cf9e626",
 			"vidzi.tv": "http://vidzi.cc/3kgdbqvf0bm8.html/4",
 			"lolzor.com": "http://www.lolzor.com/files/650330af01809a7e021e3ad5d227075d",
-			"cloudyvideos.com": "http://cloudyvideos.com/eszd8ds95mk2",
-			"neodrive.co": "http://neodrive.co/share/file/6Z5BFZX6DTOJVAXNAZO62N3CX",
-			"filenuke.com": "http://filenuke.com/f/OWgNJZO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c1d36a6dd27cdb821c30284fba5d4c2c",
-			"gorillavid.in": "http://gorillavid.in/eh7yrafbg1lv",
 		}
 	},
 	{
@@ -1914,18 +1191,7 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-1-s01e01_181517",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/fcc9262048035",
-			"teslavid.eu": "http://teslavid.eu/archives/5047",
-			"movreel.com": "http://movreel.com/7qncszfa3b9k.html",
-			"vidspot.net": "http://vidspot.net/wi0hby35dye6",
-			"youtube.com": "https://www.youtube.com/results?search_query=supergirl+episode+1",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/514125b1802fd",
-			"mightyupload.com": "http://mightyupload.com/supergirl.101.hdtv-lol.mp4",
-			"videomega.tv": "http://videomega.tv/?ref=1X4Hh7fdLkkLdf7hH4X1",
 			"vidzi.tv": "http://vidzi.cc/w68848qk0keh.html/aazz",
-			"shared.sx": "http://shared.sx/1d91c07f0f",
-			"video.tt": "http://www.video.tt/video/SZ600p0i3",
-			"cloudyvideos.com": "http://cloudyvideos.com/r1wbrzasaeed",
-			"promptfile.com": "http://www.promptfile.com/l/80E74324E5-65D1D108AB",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/12eac56e18fbb051e1cd18697cb1ab8a",
 			"lolzor.com": "http://www.lolzor.com/files/ad757a76dfd21675e138064f7c72eaa7",
 		}
@@ -1938,20 +1204,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-2-s01e02_204330",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/0b53283279e91",
-			"neodrive.co": "http://neodrive.co/share/file/O3KY15JQICR3NKB53HCJZRVBV",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/5a2c830033303",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/125d601b665f63ba2b994808d656bf6d",
-			"mightyupload.com": "http://mightyupload.com/8nh45bdk330k",
-			"videomega.tv": "http://videomega.tv/?ref=r1IN5pn4DmmD4np5NI1r",
 			"vidzi.tv": "http://vidzi.cc/inx3s38yggla.html/z",
-			"shared.sx": "http://shared.sx/94e2f9d8fd",
 			"lolzor.com": "http://www.lolzor.com/files/04e550b8c91971f80532c0f6dac5b4bf",
-			"teslavid.eu": "http://teslavid.eu/archives/5581",
-			"vidlockers.ag": "http://www.vidlockers.ag/hw092fxi88gb",
-			"filenuke.com": "http://filenuke.com/f/0VMrvx6",
-			"uploadc.com": "http://www.uploadc.com/2ps7j8mhuo5n.htm",
-			"playedto.me": "http://playedto.me/zs16vyl0jf88",
-			"primeshare.tv": "http://primeshare.tv/download/91B5816AA3",
 		}
 	},
 	{
@@ -1961,19 +1216,9 @@ var show_order = [
 		"title": "Non Est Asylum",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-1-s01e01_7692",
 		"vid_links": {
-			"firedrive.com": "http://www.firedrive.com/file/15645DABCE2A469D",
-			"movreel.com": "http://movreel.com/hj3o5uive00m.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/030176b950257",
-			"cloudzilla.to": "http://www.cloudzilla.to/share/file/VQ0NMAQJSP3K5NIFG6NW25MYY/",
-			"modovideo.com": "http://modovideo.com/video.php?v=txh7acxaegyo",
 			"vidzi.tv": "http://vidzi.cc/bcsjbwr2xmrs.html/444",
-			"movpod.in": "http://movpod.in/zakbfefkpb5b",
-			"streamin.to": "http://streamin.to/u737qmp8841r",
 			"lolzor.com": "http://www.lolzor.com/files/e2d3295873b4153d558330f84a38205a",
-			"novamov.com": "http://www.novamov.com/video/25c0f24151989",
-			"sharerepo.com": "http://sharerepo.com/f/O82qnz6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/db8b4d097a9d16078cc04801f030f73a",
-			"gorillavid.in": "http://gorillavid.in/3g2z115drtao",
 		}
 	},
 	{
@@ -1984,19 +1229,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-3-s01e03_213152",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/46ed82c0a0a74",
-			"likeafool.com": "http://www.likeafool.com/files/e61980710df1780e79c0cf4bcc4e2542",
-			"vidspot.net": "http://vidspot.net/sdv341r7seue",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/185121a9de819",
-			"netu.tv": "http://netu.tv/watch_video.php?v=NWK23GWB3229",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4cb59e9263aba5ca6059b609632ef587",
-			"mightyupload.com": "http://mightyupload.com/wovqffx0dncb",
-			"videomega.tv": "http://videomega.tv/?ref=A0wq5LfXv22vXfL5qw0A",
 			"vidzi.tv": "http://vidzi.cc/ruktyxsaqdi8.html/zz",
 			"lolzor.com": "http://www.lolzor.com/files/035e7eff1f8e9c007a6f5d762508a383",
-			"teslavid.eu": "http://teslavid.eu/archives/6360",
-			"vidlockers.ag": "http://www.vidlockers.ag/x45lvjsom4fq/supergirl.103.hdtv-lol.mp4.htm",
-			"playedto.me": "http://playedto.me/s1dctz9eq2bu",
-			"gorillavid.in": "http://gorillavid.in/6nsqbstvhf7i",
 		}
 	},
 	{
@@ -2006,18 +1241,9 @@ var show_order = [
 		"title": "The Darkness Beneath",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-2-s01e02_7734",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/frewafpekq3x.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/7f7ab5eb85b67",
-			"gorillavid.in": "http://gorillavid.in/uzt0rx5947wc",
-			"mightyupload.com": "http://mightyupload.com/42vot6zfy5eh/constantine.102.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/xcnvu6rq6tve.html/4",
-			"movpod.in": "http://movpod.in/r06if60dfemq",
 			"lolzor.com": "http://www.lolzor.com/files/c1b23e644e4a0e0c5b41494212f51975",
-			"novamov.com": "http://www.novamov.com/video/25fab4ec80a79",
-			"cloudyvideos.com": "http://cloudyvideos.com/2mhon213qrv7",
-			"modovideo.com": "http://modovideo.com/video.php?v=o64d3wz08vj6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/58ba56db20c9672a7a4ca17fc3a269e3",
-			"promptfile.com": "http://www.promptfile.com/l/F53D4C424E-8699D3DDFA",
 		}
 	},
 	{
@@ -2028,17 +1254,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-4-s01e04_249110",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/8b9a3659c27ae",
-			"likeafool.com": "http://www.likeafool.com/files/2db85f993242494366e6ca51b66bd913",
-			"vidspot.net": "http://vidspot.net/8bsajekfiyoo",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/6c622919ddc53",
-			"movshare.net": "http://www.movshare.net/video/0269dfe0559aa",
 			"vidzi.tv": "http://vidzi.cc/lk9qohptxouu.html/z",
-			"shared.sx": "http://shared.sx/da45bba151",
 			"lolzor.com": "http://www.lolzor.com/files/ff8d1af3da3eefc8ec39fb04923d55c0",
-			"teslavid.eu": "http://teslavid.eu/archives/7120",
-			"playedto.me": "http://playedto.me/pq97ciwufxxu",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b36f8686af1c63275f3bd468f17d0771",
-			"gorillavid.in": "http://gorillavid.in/o09rqjliw1eq",
 		}
 	},
 	{
@@ -2048,19 +1266,9 @@ var show_order = [
 		"title": "The Devil's Vinyl",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-3-s01e03_7685",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/gangkfcoj2q7.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/bd8a06bb05432",
-			"mightyupload.com": "http://mightyupload.com/wyrlq7iy6ust/constantine.103.hdtv-lol.mp4.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2d3bfe13a0807cefa86151c210b699f2",
-			"modovideo.com": "http://modovideo.com/video.php?v=1g26kpoql3ad",
 			"vidzi.tv": "http://vidzi.cc/bogpdimux6g5.html/44",
-			"movpod.in": "http://movpod.in/pc609l3zwje9",
-			"streamin.to": "http://streamin.to/sgqj5pxsd5hj",
 			"lolzor.com": "http://www.lolzor.com/files/c9467f33483341957bde6d5758c040b8",
-			"novamov.com": "http://www.novamov.com/video/ac90bdd89fe2d",
-			"cloudyvideos.com": "http://cloudyvideos.com/xmgc2924essj",
-			"gorillavid.in": "http://gorillavid.in/1glhvpbejyp6",
-			"vidto.me": "http://vidto.me/t9p8yz2wc76w.html",
 		}
 	},
 	{
@@ -2071,16 +1279,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-5-s01e05_249112",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/5c592a4b1944c",
-			"teslavid.eu": "http://teslavid.eu/archives/7641",
-			"vidspot.net": "http://vidspot.net/k9dn345tvb8q",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/908452c67de82",
-			"mightyupload.com": "http://mightyupload.com/l6jlsh5o6iwl/supergirl.105.hdtv-lol.mp4.html",
-			"videomega.tv": "http://videomega.tv/?ref=6cbE2uHO8zz8OHu2Ebc6",
 			"vidzi.tv": "http://vidzi.cc/vpwz98faefiw.html/z",
 			"lolzor.com": "http://www.lolzor.com/files/422db8fc3471e7e67030ddb5952b50e5",
-			"playedto.me": "http://playedto.me/6k3htti69188",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9e6feac7e10c601564068313f320ffc7",
-			"primeshare.tv": "http://primeshare.tv/download/E7C35533D6",
 		}
 	},
 	{
@@ -2090,20 +1291,9 @@ var show_order = [
 		"title": "A Feast of Friends",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-4-s01e04_7736",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/rryxzsdxbmv3.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/e5e31fa8581e0/",
-			"modovideo.com": "http://modovideo.com/video.php?v=hkzmooigk914",
-			"vidxden.to": "http://vidxden.to/1tn5nmyfbyvc",
-			"movshare.net": "http://www.movshare.net/video/72db18a29940e",
 			"vidzi.tv": "http://vidzi.cc/m745dvvz1kb1.html/4",
-			"movpod.in": "http://movpod.in/9clajrnwiaua",
-			"streamin.to": "http://streamin.to/12uhslo1g9nk",
 			"lolzor.com": "http://www.lolzor.com/files/b9e5e8d0c2ed62aa3db10768c197c517",
-			"novamov.com": "http://www.novamov.com/video/532183bbb9851",
-			"cloudyvideos.com": "http://cloudyvideos.com/qtwp7xils372",
-			"sharerepo.com": "http://sharerepo.com/f/0rJkeL0",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/8404f694654bc2b13ca104e5200a3467",
-			"gorillavid.in": "http://gorillavid.in/74buviqhsf5u",
 		}
 	},
 	{
@@ -2113,14 +1303,8 @@ var show_order = [
 		"title": "Red Faced",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-6-s01e06_249114",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/gqyi8vra7feh",
-			"videomega.tv": "http://videomega.tv/?ref=T4jSy35AahhaA53ySj4T",
 			"vidzi.tv": "http://vidzi.cc/fh3gryhbzeff.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/5e61a470ff26e04b89816d2e68ae2e65",
-			"sharesix.com": "http://sharesix.com/f/Oa8dLE0",
-			"playedto.me": "http://playedto.me/yiajp5gkff4r",
-			"teslavid.eu": "http://teslavid.eu/archives/8084",
-			"vidto.me": "http://vidto.me/fgbj0vis0w1m.html",
 			"lolzor.com": "http://www.lolzor.com/files/a6ce75ffdd578c89970eacd2742a3d27",
 		}
 	},
@@ -2131,18 +1315,9 @@ var show_order = [
 		"title": "Danse vaudou",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-5-s01e05_7725",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/g7d4lqp7shm6.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4c11d4606f9f8/",
-			"vidxden.to": "http://www.vidxden.to/v72vtvtclgv9",
-			"mightyupload.com": "http://mightyupload.com/0uiwp7r0xx3w/constantine.105.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/gohi0klvq892.html/kk",
-			"movpod.in": "http://movpod.in/dvseghrr5m17",
 			"lolzor.com": "http://www.lolzor.com/files/a3540d0884f677e29ed80e31c93e2033",
-			"novamov.com": "http://www.novamov.com/video/3417c6e223106",
-			"cloudyvideos.com": "http://cloudyvideos.com/4ayo166uf33d",
-			"modovideo.com": "http://modovideo.com/video.php?v=n0884kdxvjx2",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ec67cc1e89cd89cb936b65f011cfbeac",
-			"primeshare.tv": "http://primeshare.tv/download/8E8F336AA2",
 		}
 	},
 	{
@@ -2152,16 +1327,9 @@ var show_order = [
 		"title": "Human for a Day",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-7-s01e07_249116",
 		"vid_links": {
-			"neodrive.co": "http://neodrive.co/share/file/OA6A3MSM2BS6AWIQ5SB120YP4/",
-			"allvid.ch": "http://allvid.ch/l13flchtfq96",
-			"vidspot.net": "http://vidspot.net/pkii82ev81o4",
-			"teslavid.eu": "http://teslavid.eu/archives/8668",
-			"videomega.tv": "http://videomega.tv/?ref=llzOF911AvvA119FOzll",
 			"vidzi.tv": "http://vidzi.cc/nxgjhv0kz57w.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/97def241e22f260ec37016ae09a4e87d",
 			"lolzor.com": "http://www.lolzor.com/files/e4ec1c53c7d1d4e630bc56733123a2e2",
-			"playedto.me": "http://playedto.me/06d0yaxwxuo1",
-			"vidto.me": "http://vidto.me/atouu0zhyq21.html",
 		}
 	},
 	{
@@ -2171,19 +1339,9 @@ var show_order = [
 		"title": "The Rage of Caliban",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-6-s01e06_7746",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/fw1mkrpx0ylf.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/898821fa0341b",
-			"vidxden.to": "http://www.vidxden.to/mqujfi1qfe1v",
-			"mightyupload.com": "http://mightyupload.com/9xjz8gpotyym",
 			"vidzi.tv": "http://vidzi.cc/3a7r8ojs60kf.html/kkkk",
-			"movpod.in": "http://movpod.in/qd7n73qjy4y9",
-			"streamin.to": "http://streamin.to/hjdnjzfxf5ne",
 			"lolzor.com": "http://www.lolzor.com/files/097a0d55629beb71b2be7c12164e07e9",
-			"novamov.com": "http://www.novamov.com/video/3580c2557ef9d",
-			"cloudyvideos.com": "http://cloudyvideos.com/qx4t2psnoj5t",
-			"gorillavid.in": "http://gorillavid.in/9rf7hvxa28g7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4315553729ad8e3a5ab42b83ab466149",
-			"primeshare.tv": "http://primeshare.tv/download/2880B734DE",
 		}
 	},
 	{
@@ -2194,15 +1352,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-8-s01e08_249118",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/f3a7deb2b81ad",
-			"vidspot.net": "http://vidspot.net/yico5rnpq3rc",
-			"teslavid.eu": "http://teslavid.eu/archives/9219",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/d76d165fa21fa",
-			"videomega.tv": "http://videomega.tv/?ref=Jjanb1H3D44D3H1bnajJ",
 			"vidzi.tv": "http://vidzi.cc/ujp03yyyar0f.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1fccd052070ceafe0182e8344bc63782",
 			"lolzor.com": "http://www.lolzor.com/files/285f98e9040348fd1600b897bdfae81f",
-			"playedto.me": "http://playedto.me/l1ha6z6anxlu",
-			"vidto.me": "http://vidto.me/sa9emluwwjdu.html",
 		}
 	},
 	{
@@ -2212,18 +1364,9 @@ var show_order = [
 		"title": "Blessed are the Damned",
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-7-s01e07_7754",
 		"vid_links": {
-			"movreel.com": "http://movreel.com/mdq171fkecss.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4d7d2fdac1104",
-			"vidxden.to": "http://vidxden.to/tqmyma4pg23f",
-			"mightyupload.com": "http://mightyupload.com/lvvgaqqcyjkd/constantine.107.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/y9tcwcvgcsg2.html/kk",
-			"movpod.in": "http://movpod.in/t9rsvryk6gg7",
 			"lolzor.com": "http://www.lolzor.com/files/547287374c6cf33539d52ab193390ef6",
-			"novamov.com": "http://www.novamov.com/video/b7a8ea0561c5e",
-			"sharerepo.com": "http://sharerepo.com/f/0e9AAx0",
-			"gorillavid.in": "http://gorillavid.in/s88s8dntqims",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/fe2d297a313fc5eba7b2341d83b28ff7",
-			"primeshare.tv": "http://primeshare.tv/download/A6A899F74D",
 		}
 	},
 	{
@@ -2234,14 +1377,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-9-s01e09_249120",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/d124ac5cc9e28",
-			"vidspot.net": "http://vidspot.net/bip9yjukgkbj",
-			"videomega.tv": "http://videomega.tv/?ref=1lc7Is3JhMMhJ3sI7cl1",
 			"vidzi.tv": "http://vidzi.cc/ynwq74zj5cqs.html/z",
-			"movpod.in": "http://movpod.in/1k7rxj5za1sl",
 			"lolzor.com": "http://www.lolzor.com/files/5272f57fd9243b2d2193e70ecbebf104",
-			"gorillavid.in": "http://gorillavid.in/svcn8radod33",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f488221a8e731e3f81144fbdb79fe585",
-			"primeshare.tv": "http://primeshare.tv/download/80E59632B9",
 		}
 	},
 	{
@@ -2251,12 +1389,8 @@ var show_order = [
 		"title": "Childish Things",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-10-s01e10_249122",
 		"vid_links": {
-			"allvid.ch": "http://allvid.ch/nkxlmwo0sbul",
-			"videomega.tv": "http://videomega.tv/?ref=L6fR73dtpXXptd37Rf6L",
 			"vidzi.tv": "http://vidzi.cc/fqridugpwps2.html/z",
 			"lolzor.com": "http://www.lolzor.com/files/e8479a6b68ce0e03b8c8d28f2d490192",
-			"novamov.com": "http://www.novamov.com/video/431e07c12acf7 ",
-			"teslavid.eu": "http://teslavid.eu/archives/10310",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/beb25fd7184c720d7285495d3e4996ad",
 		}
 	},
@@ -2268,18 +1402,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-8-s01e08_7781",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/4a051304b4992",
-			"movreel.com": "http://movreel.com/tgo5qm3i2pti.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/ff82501ecb27c",
-			"vidxden.to": "http://www.vidxden.to/qo1gwawh75g1",
-			"mightyupload.com": "http://mightyupload.com/ce0s38lpv4m6/Watch_constantine_108_hdtv_lol_mp4.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/uici6n4hfx35.html/kk",
-			"movpod.in": "http://movpod.in/e6840hsdwmrz",
 			"lolzor.com": "http://www.lolzor.com/files/d2114f432dab41f5d5b2332ca73870e0",
-			"cloudzilla.to": "http://www.cloudzilla.to/share/file/GU6MYQRUX2OX2DYOS0IPWG3NJ/",
-			"cloudyvideos.com": "http://cloudyvideos.com/5a2jney7t8v1",
-			"gorillavid.in": "http://gorillavid.in/868jq3dd0fup",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/8d3e05359a614fc5609a8a8d520c7851",
-			"promptfile.com": "http://www.promptfile.com/l/F7BA6AB557-BD8EC20963",
 		}
 	},
 	{
@@ -2290,17 +1415,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-9-s01e09_7802",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/0d6a5954c5bed",
-			"movreel.com": "http://movreel.com/4d5t6sj7bntp.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/dfcf79e14de67",
-			"vidxden.to": "http://www.vidxden.to/4ddvdxs4dfmu",
-			"mightyupload.com": "http://mightyupload.com/kisx7iz7mzm1/constantine.109.hdtv-lol.mp4.html",
 			"vidzi.tv": "http://vidzi.cc/t1a1wszj5ecd.html/k",
-			"movpod.in": "http://movpod.in/yr3pgi6ittbs",
 			"lolzor.com": "http://www.lolzor.com/files/7c4cbbeeb135e0d6411bab9fe48dc565",
-			"novamov.com": "http://www.novamov.com/video/b7d83d3a136cf",
-			"cloudyvideos.com": "http://cloudyvideos.com/aavraqzyjb23",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e61dff7b351e7e7fa0059c2f6723c81b",
-			"gorillavid.in": "http://gorillavid.in/lgc9v12qo27b",
 		}
 	},
 	{
@@ -2310,13 +1427,9 @@ var show_order = [
 		"title": "Strange Visitor from Another Planet",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-11-s01e11_249124",
 		"vid_links": {
-			"allvid.ch": "http://allvid.ch/tekevtit6ove",
-			"vidspot.net": "http://vidspot.net/76thu6mqmngt",
 			"vidzi.tv": "http://vidzi.cc/mtmfjhx1xijn.html/aazz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c8acc09c9fe92e56904d5a02b65a8db2",
-			"vshare.eu": "http://vshare.eu/kfxhxr0mhczh.htm",
 			"lolzor.com": "http://www.lolzor.com/files/f178913039f532bff751874135940563",
-			"vidto.me": "http://vidto.me/64ovndchhb5o.html",
 		}
 	},
 	{
@@ -2326,15 +1439,9 @@ var show_order = [
 		"title": "Bizarro",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-12-s01e12_249126",
 		"vid_links": {
-			"allvid.ch": "http://allvid.ch/4m6g7t06a2mf",
-			"vidspot.net": "http://vidspot.net/hh9q74rgkj5e",
-			"videomega.tv": "http://videomega.tv/?ref=O0thT3yR8qq8Ry3Tht0O",
 			"vidzi.tv": "http://vidzi.cc/bzaf7cwm4d22.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/77238dbbf0afd02aece57f372ce09bfb",
-			"vshare.eu": "http://vshare.eu/0ltkp49kepgq.htm",
 			"lolzor.com": "http://www.lolzor.com/files/cf42b891ca7587664b9ca56e82929b9d",
-			"gorillavid.in": "http://gorillavid.in/95jdta9egj2a",
-			"vidto.me": "http://vidto.me/v3hdl8p5zylb.html",
 		}
 	},
 	{
@@ -2345,16 +1452,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-10-s01e10_7799",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/3ea214072aa86",
-			"movreel.com": "http://movreel.com/ggnsspoh76qh.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/33ce4a8de7f8b",
-			"vidxden.to": "http://www.vidxden.to/74y2mib2ltof",
-			"mightyupload.com": "http://mightyupload.com/jgnbchks3kws",
 			"vidzi.tv": "http://vidzi.cc/kdf52aag2vlh.html/kk",
-			"movpod.in": "http://movpod.in/h1qjhdxalx4o",
 			"lolzor.com": "http://www.lolzor.com/files/0ea7ade10ea50c391bafb3b23e292bb2",
-			"cloudyvideos.com": "http://cloudyvideos.com/6smc8utjhxml",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/817b652a45ddc954a4120deca96ec97b",
-			"gorillavid.in": "http://gorillavid.in/rjy5ltakn8ag",
 		}
 	},
 	{
@@ -2364,14 +1464,9 @@ var show_order = [
 		"title": "For the Girl Who Has Everything",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-13-s01e13_249128",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/ihspe5mtl13e",
-			"teslavid.eu": "http://teslavid.eu/archives/10717",
-			"videomega.tv": "http://videomega.tv/?ref=kA28hmyAV00VAymh82Ak",
 			"vidzi.tv": "http://vidzi.cc/oxdk8l903t9f.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/be35f501f265a2b090f5497660dac652",
-			"vshare.eu": "http://vshare.eu/bja4t7srzvrj.htm",
 			"lolzor.com": "http://www.lolzor.com/files/b87bc7f20f5054bfae2b8a1b7e050747",
-			"vidto.me": "http://vidto.me/77u2o5j8rx6b.html",
 		}
 	},
 	{
@@ -2382,17 +1477,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-11-s01e11_7808",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/4ca539a985f38",
-			"movreel.com": "http://movreel.com/lbfj173tut4z.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/848dc125cba1c",
-			"modovideo.com": "http://modovideo.com/video.php?v=2l5jpfqfatu3",
-			"movshare.net": "http://www.movshare.net/video/a9a4953824975",
-			"videomega.tv": "http://videomega.tv/?ref=MFSAF4AUA99AUA4FASFM",
 			"vidzi.tv": "http://vidzi.cc/kdf52aag2vlh.html/kkkm",
 			"lolzor.com": "http://www.lolzor.com/files/6d0f4b26111ea2f17e64cf3f39bda4ad",
-			"playedto.me": "http://playedto.me/h6tts2q35r7o	",
-			"gorillavid.in": "http://gorillavid.in/il403ppdapz1",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6347a30c89f3c643902776ed5c6e2df6",
-			"promptfile.com": "http://www.promptfile.com/l/6CCED987D6-B2559E06B6",
 		}
 	},
 	{
@@ -2402,12 +1489,9 @@ var show_order = [
 		"title": "Truth Justice and the American Way",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-14-s01e14_261820",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/7e7pddeue7s2",
-			"teslavid.eu": "http://teslavid.eu/archives/11257",
 			"vidzi.tv": "http://vidzi.cc/hl8yvj5hyz92.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2b947c427f972ba19c7399e988df0c09",
 			"lolzor.com": "http://www.lolzor.com/files/c54f0d9420a100095688cd6892dff225",
-			"vidto.me": "http://vidto.me/2wvrl3czuweu.html",
 		}
 	},
 	{
@@ -2418,18 +1502,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-12-s01e12_7817",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/73c99ea9738e7",
-			"movreel.com": "http://movreel.com/3awvggc8n0p8.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/64a7cd281317e/",
-			"mightyupload.com": "http://mightyupload.com/ytocj87ae33u/constantine.112.hdtv-lol.mp4.html",
-			"cloudzilla.to": "http://www.cloudzilla.to/share/file/KMHVET14MHRIJ6T54NZFJDY1N/",
-			"modovideo.com": "http://modovideo.com/video.php?v=q4y39onrg0zc",
-			"videomega.tv": "http://videomega.tv/?ref=SEKU6UVW6996WVU6UKES",
 			"vidzi.tv": "http://vidzi.cc/irpamioi1qpx.html/kk",
-			"vidplay.net": "http://vidplay.net/qjqvvn0mtng5",
 			"lolzor.com": "http://www.lolzor.com/files/d295b4532690cac83a99ff90b4ff39af",
-			"cloudyvideos.com": "http://cloudyvideos.com/31j3xth6srd6",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/dfb8a88fc8c7c360742224ded98c4fe4",
-			"gorillavid.in": "http://gorillavid.in/6jcs92ep4ewz",
 		}
 	},
 	{
@@ -2439,15 +1514,9 @@ var show_order = [
 		"title": "Solitude",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-15-s01e15_261821",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/5xk09zjb2ddl/supergirl.115.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/9irg4mpm7sbg",
-			"teslavid.eu": "http://teslavid.eu/archives/11762",
-			"vshare.eu": "http://vshare.eu/v7xsggytwhf9.htm",
-			"videomega.tv": "http://videomega.tv/?ref=1G02nnrABxxBArnn20G1",
 			"vidzi.tv": "http://vidzi.cc/b5hln8hfx6do.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f92b2c8e31bf9e4e433f04d1e9347c52",
 			"lolzor.com": "http://www.lolzor.com/files/0878c62d8d87775689a45d4bd5c5c498",
-			"vidto.me": "http://vidto.me/g1lcwttalvej.html",
 		}
 	},
 	{
@@ -2458,15 +1527,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/constantine-season-1-episode-13-s01e13_7845",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/7601a053e7eac",
-			"movreel.com": "http://movreel.com/1i9xakw6u33t.html",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/8ec6e4b2167af",
-			"movshare.net": "http://www.movshare.net/video/70b1c69c75ae0",
 			"vidzi.tv": "http://vidzi.cc/p1axzd65hnbe.html/k",
-			"movpod.in": "http://movpod.in/e3yinfryve2f",
 			"lolzor.com": "http://www.lolzor.com/files/eb3ec4a61a63afb6e9b85a7d5a6a6ade",
-			"cloudyvideos.com": "http://cloudyvideos.com/q9g8ni7g08ck",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d837211eaf37bac5429bf2e8cc4744b9",
-			"gorillavid.in": "http://gorillavid.in/8xhi3ag7c9on",
 		}
 	},
 	{
@@ -2476,15 +1539,9 @@ var show_order = [
 		"title": "Falling",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-16-s01e16_261822",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/67aaeeeb6bebf9b764b5c69d8941a787",
-			"vidspot.net": "http://vidspot.net/z66nd2a2du5t",
-			"vshare.eu": "http://vshare.eu/2otntfllgw8l.htm",
-			"videomega.tv": "http://videomega.tv/?ref=C6O6cr6yeVVey6rc6O6C",
 			"vidzi.tv": "http://vidzi.cc/lfv7mdejd37y.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/994ccbb688a3f045d4cb145608b30fb3",
 			"lolzor.com": "http://www.lolzor.com/files/8eedb8b612648594503199f305f2f41d",
-			"teslavid.eu": "http://teslavid.eu/archives/12642",
-			"vidto.me": "http://vidto.me/fl75170uqhne.html",
 		}
 	},
 	{
@@ -2494,15 +1551,9 @@ var show_order = [
 		"title": "Manhunter",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-17-s01e17_261823",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/3c8270f02a0b4840423b03ec5fcf9700",
-			"filefactory.com": "http://www.filefactory.com/file/76u9988x99c1/supergirl.117.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/g4796ydi3sn1",
-			"vshare.eu": "http://vshare.eu/wcxt1197aqfz.htm",
-			"videomega.tv": "http://videomega.tv/?ref=3oBg2YUyg77gyUY2gBo3",
 			"vidzi.tv": "http://vidzi.cc/ylnjk2c5ht10.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/eeff054ce811084e806a314ef01bef04",
 			"lolzor.com": "http://www.lolzor.com/files/daa493bce9968bb0a1dfb093155d0abc",
-			"vidto.me": "http://vidto.me/usbwd1crz16r.html",
 		}
 	},
 	{
@@ -2513,18 +1564,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-1-s02e01_172257",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/037ac346ef5a6",
-			"neodrive.co": "http://neodrive.co/share/file/ZX322FLH3VS1TQCRBIR2TFNQN",
-			"vidspot.net": "http://vidspot.net/x86ybccevkwl",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/aca5830bd5a67",
-			"movshare.net": "http://www.movshare.net/video/759afe8407c79",
-			"vidzi.net": "http://vidzi.net/cwmonle7rdnj/The.Flash.2014.S02E01.HDTV.x264-_L215_.mp4.html",
-			"videomega.tv": "http://videomega.tv/?ref=mnPL24vjK44Kjv42LPnm",
 			"vidzi.tv": "http://vidzi.cc/0tnqc0qj4wtg.html/zz",
-			"shared.sx": "http://shared.sx/6702142c85",
 			"lolzor.com": "http://www.lolzor.com/files/c79239729d77c66709b5d765bc5c7bc1",
-			"vidlockers.ag": "http://www.vidlockers.ag/4j08ut579wqn/the.flash.2014.201.hdtv-lol.mp4.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3b77deaf0a20283605d16693bd24f307",
-			"gorillavid.in": "http://gorillavid.in/s1o3l31ig9mo",
 		}
 	},
 	{
@@ -2535,20 +1577,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-1-s04e01_197086",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/89250893e47ee",
-			"neodrive.co": "http://neodrive.co/share/file/JSNTPM2T60WUOVCLNW5LQECK4",
-			"vidspot.net": "http://vidspot.net/zyrnz3kxfs0p",
-			"netu.tv": "http://netu.tv/watch_video.php?v=55B4ASS58S8B",
-			"uploadc.com": "http://www.uploadc.com/hlgoted39pei.htm",
-			"movshare.net": "http://www.movshare.net/video/3dcfe4c1e31f8",
-			"videomega.tv": "http://videomega.tv/?ref=6nZ2qfx4PJJP4xfq2Zn6",
 			"vidzi.tv": "http://vidzi.cc/tf7m0i3qe1cd.html/7",
-			"movpod.in": "http://movpod.in/y2a7xgonfq9j",
-			"vidzi.net": "http://vidzi.net/l2u83zbenonn/Arrow.S04E01.HDTV.x264-_L215_.mp4.html",
 			"lolzor.com": "http://www.lolzor.com/files/7f2d1b1865c9e6a93fbd37c590926f24",
-			"vidlockers.ag": "http://www.vidlockers.ag/6w5u02a6ap11/arrow.401.hdtv-lol.mp4.htm",
-			"filenuke.com": "http://filenuke.com/f/6GeMlyO",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d5f961838fd37b97dd38bf11049eb1ae",
-			"promptfile.com": "http://www.promptfile.com/l/C2974C13F4-2CAC6EA7E8",
 		}
 	},
 	{
@@ -2558,17 +1589,9 @@ var show_order = [
 		"title": "Flash of Two Worlds",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-2-s02e02_172256",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/608styszh3qr/the.flash.2014.202.hdtv.mp4",
-			"vshare.eu": "http://vshare.eu/s3yetm6dm9xe",
-			"videomega.tv": "http://videomega.tv/?ref=2nfTB7m2mTTm2m7BTfn2",
 			"vidzi.tv": "http://vidzi.cc/haugalqap61r.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e041be4ed99ac3aa5f2c7dbb4e3bd571",
-			"openload.io": "https://openload.cc/f/yqE8pQviufw",
 			"lolzor.com": "http://www.lolzor.com/files/fe0b3540f46e330d7aa7d3ec832fc0ad",
-			"cloudyvideos.com": "http://cloudyvideos.com/oqu6xyp5zumr",
-			"gorillavid.in": "http://gorillavid.in/migdlxg42ew2",
-			"teslavid.eu": "http://teslavid.eu/archives/3797",
-			"vidto.me": "http://vidto.me/nh1ejxisxof4.html",
 		}
 	},
 	{
@@ -2579,20 +1602,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-2-s04e02_205590",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/2a48381043df4",
-			"neodrive.co": "http://neodrive.co/share/file/2HFP3TITBQIKQ3LNR1TMTIB11",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/9523f96e7e1e2",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ab2318c3b3ad78e22035df9fce0a9e46",
-			"movshare.net": "http://www.movshare.net/video/76833348b04af",
-			"videomega.tv": "http://videomega.tv/?ref=Ve4Q13aeiQQiea31Q4eV",
 			"vidzi.tv": "http://vidzi.cc/asj0yfigap0n.html/777",
-			"shared.sx": "http://shared.sx/f1ea25cd02",
 			"lolzor.com": "http://www.lolzor.com/files/6166dafb4db6b48f764f8d6de181511a",
-			"teslavid.eu": "http://teslavid.eu/archives/3980",
-			"vidlockers.ag": "http://www.vidlockers.ag/pvl4xfloaro5.htm",
-			"filenuke.com": "http://filenuke.com/f/OZVLlYO",
-			"uploadc.com": "http://www.uploadc.com/be9dp2wtgmda.htm",
-			"playedto.me": "http://playedto.me/f2pjiltcs1s6	",
-			"gorillavid.in": "http://gorillavid.in/daj9sblojifs",
 		}
 	},
 	{
@@ -2602,16 +1614,9 @@ var show_order = [
 		"title": "Family of Rogues",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-3-s02e03_204334",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/19emc6qjh75x/the.flash.2014.203.hdtv.mp4",
-			"videomega.tv": "http://videomega.tv/?ref=HMFw2lc74rr47cl2wFMH",
 			"vidzi.tv": "http://vidzi.cc/rt5nejjcrjw3.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/526a37ea16c41e08ccfce3364921a70f",
-			"vshare.eu": "http://vshare.eu/n2wxg9u742au.htm",
-			"openload.io": "https://openload.cc/f/wZXDE14mkz4",
 			"lolzor.com": "http://www.lolzor.com/files/4f89b45b7a6af2c556a0d67e05d76258",
-			"cloudyvideos.com": "http://cloudyvideos.com/9qv1xmw2ib6k",
-			"teslavid.eu": "http://teslavid.eu/archives/4805",
-			"vidto.me": "http://vidto.me/wnoyptz2sp6w.html",
 		}
 	},
 	{
@@ -2622,18 +1627,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-3-s04e03_211142",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/9c3565aca500f",
-			"neodrive.co": "http://neodrive.co/share/file/5UEWEHQSTSJ4NBIUQMZVR1RNF",
-			"vidspot.net": "http://vidspot.net/4ughjh3ipyn0",
-			"teslavid.eu": "http://teslavid.eu/archives/4554",
-			"movshare.net": "http://www.movshare.net/video/dbb7181ff79ca",
-			"videomega.tv": "http://videomega.tv/?ref=3pLU8eLfg66gfLe8ULp3",
 			"vidzi.tv": "http://vidzi.cc/qcidggh1hu4z.html/7",
-			"movpod.in": "http://movpod.in/ttpbbxbj91hy",
 			"lolzor.com": "http://www.lolzor.com/files/afae4506f38be5faf08afe5a0360da7f",
-			"vidlockers.ag": "http://vidlockers.ag/933hwae2xxbj",
-			"filenuke.com": "http://filenuke.com/f/O1beGG3",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/a49a976d14e8d9cd9cc9274ea5d460a7",
-			"gorillavid.in": "http://gorillavid.in/xcdjsz6t4lvl",
 		}
 	},
 	{
@@ -2643,15 +1639,9 @@ var show_order = [
 		"title": "The Fury of Firestorm",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-4-s02e04_212014",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/122mm6i45bmz",
-			"teslavid.eu": "http://teslavid.eu/archives/5143",
-			"videomega.tv": "http://videomega.tv/?ref=a32D9VVsriirsVV9D23a",
 			"vidzi.tv": "http://vidzi.cc/rsnml4wjls4a.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2bc7aa7fd0c6651c2944d5006fdd9505",
-			"openload.io": "https://openload.cc/f/JdzIuMpgeWc",
 			"lolzor.com": "http://www.lolzor.com/files/a95b95a7395752afe90d8a20e0fae5ac",
-			"cloudyvideos.com": "http://cloudyvideos.com/ekgf553gvhnj",
-			"vidto.me": "http://vidto.me/8hb00wlst18a.html",
 		}
 	},
 	{
@@ -2662,19 +1652,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-4-s04e04_212016",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/c141553abdf9c",
-			"ishared.eu": "http://ishared.eu/video/jDJur2k4Js_LK26rB88spf8TW7VcHlzjq6NBWmbKgRc",
-			"vidspot.net": "http://vidspot.net/hiurgytfvizf",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/5ac9251d8e85a",
-			"movshare.net": "http://www.movshare.net/video/5d6a2ba3ae625",
-			"videomega.tv": "http://videomega.tv/?ref=3ahX8c4wXOOXw4c8Xha3",
 			"vidzi.tv": "http://vidzi.cc/z0ko31zeez3h.html/7",
-			"shared.sx": "http://shared.sx/5e44a58262",
 			"lolzor.com": "http://www.lolzor.com/files/295ac7b010825f32bb99e77fc3fe52e5",
-			"cloudyvideos.com": "http://cloudyvideos.com/24kq2goui5tp",
-			"vidlockers.ag": "http://www.vidlockers.ag/m3mufx6msdi7/arrow.404.hdtv-lol.mp4.htm",
-			"neodrive.co": "http://neodrive.co/share/file/VY6LMRLWHMVWFXV6X6N02E6TQ",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c6429cf44aaa2c703c55ce7e3b1dffb7",
-			"primeshare.tv": "http://primeshare.tv/download/FF38E7A14B",
 		}
 	},
 	{
@@ -2684,16 +1664,9 @@ var show_order = [
 		"title": "The Darkness and the Light",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-5-s02e05_241932",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/m1x207vcotrg",
-			"teslavid.eu": "http://teslavid.eu/archives/5721 ",
-			"videomega.tv": "http://videomega.tv/?ref=z7pSfbC1H33H1CbfSp7z",
 			"vidzi.tv": "http://vidzi.cc/76uvae12khxa.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9d2cf1f1b58246c0331f1d0830180ac0",
-			"openload.io": "https://openload.cc/f/Zd9aXU7xDJw",
 			"lolzor.com": "http://www.lolzor.com/files/872296c9f2d7000ab7a5d74258c227db",
-			"cloudyvideos.com": "http://cloudyvideos.com/tqhcl0cek7t2",
-			"gorillavid.in": "http://gorillavid.in/8j7fyy85qvtj",
-			"vidto.me": "http://vidto.me/w2c19onh2is6.html",
 		}
 	},
 	{
@@ -2704,19 +1677,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-5-s04e05_213140",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/c3dd11124f8da",
-			"neodrive.co": "http://neodrive.co/share/file/GAI1EXYIBVZVNC0KLWHHUFAKZ",
-			"ishared.eu": "http://ishared.eu/video/TBz9quTLrOpLoL5xZDUEZmYwHQNFYi5wl0iiLpGMefM",
-			"vidspot.net": "http://vidspot.net/13hx529jf09a",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/fa065f0126e41",
-			"netu.tv": "http://netu.tv/watch_video.php?v=BO4G5XY72YKD",
-			"movshare.net": "http://www.movshare.net/video/bb6e869d2a10d",
-			"videomega.tv": "http://videomega.tv/?ref=6kAPWxeu8888uexWPAk6",
 			"vidzi.tv": "http://vidzi.cc/2vdjmrcmohfn.html/77",
-			"movpod.in": "http://movpod.in/ajvmliuf1zid",
 			"lolzor.com": "http://www.lolzor.com/files/5f5c05aacd87899a85bea8134f6c1adf",
-			"vidlockers.ag": "http://www.vidlockers.ag/44pzi9rohltn/arw405.mp4.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/8bac7d2cf7b909014385c9a95ad83de5",
-			"primeshare.tv": "http://primeshare.tv/download/E093368E58",
 		}
 	},
 	{
@@ -2726,16 +1689,9 @@ var show_order = [
 		"title": "Enter Zoom",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-6-s02e06_251238",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/xfcn4l5705cl",
-			"youtube.com": "https://www.youtube.com/watch?v=DOUvhHh9yMw",
-			"videomega.tv": "http://videomega.tv/?ref=6E6CtvfPv44vPfvtC6E6",
 			"vidzi.tv": "http://vidzi.cc/xsca48bkjoh2.html/zz",
-			"openload.io": "https://openload.cc/f/1WI9H6YqZoY",
 			"lolzor.com": "http://www.lolzor.com/files/605f9ec8f09377e36442da0c45ba467f",
-			"cloudyvideos.com": "http://cloudyvideos.com/1ry2fo09d7dt",
-			"vidlockers.ag": "http://www.vidlockers.ag/4f7xpm7jio2j/the.flash.2014.206.hdtv-lol.mp4.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4ea442567867eadb95ec0c6572567056",
-			"gorillavid.in": "http://gorillavid.in/s6a6s67229g8",
 		}
 	},
 	{
@@ -2746,17 +1702,9 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-6-s04e06_229758",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/cb306e3ea6955",
-			"neodrive.co": "http://neodrive.co/share/file/MF4WCO46CJLDF5YJZZZWCZF2G/",
-			"vidspot.net": "http://vidspot.net/7acxtlu2hajb",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/2bd46e65b823d",
-			"movshare.net": "http://www.movshare.net/video/3990c46596d39",
-			"videomega.tv": "http://videomega.tv/?ref=Ep892YrWelleWrY298pE",
 			"vidzi.tv": "http://vidzi.cc/5nn67onc0x1m.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/d0be2fd93376ce61f30868ff98c77bff",
-			"vidlockers.ag": "http://www.vidlockers.ag/36jny7ok8piw/arrow.406.hdtv-lol.mp4.htm",
-			"playedto.me": "http://playedto.me/5kenooqwnr28",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/5e90a2ecb5c62c711454f7e5dacd0144",
-			"gorillavid.in": "http://gorillavid.in/96y29n0bykiz",
 		}
 	},
 	{
@@ -2766,16 +1714,9 @@ var show_order = [
 		"title": "Gorilla Warfare",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-7-s02e07_252274",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/b3ray1t3w2vx",
-			"teslavid.eu": " http://teslavid.eu/archives/7050",
-			"youtube.com": "https://www.youtube.com/channel/UChjhi0WSf9MiPuufE8PYVXg",
-			"videomega.tv": "http://videomega.tv/?ref=zK60fJZt6uu6tZJf06Kz",
 			"vidzi.tv": "http://vidzi.cc/ir66yvbja3yj.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c9a88bee10a73128a1ffd215826dd9f8",
-			"openload.io": "https://openload.cc/f/rh6bzEcFHMo",
 			"lolzor.com": "http://www.lolzor.com/files/4f9ab2eb43852a11a58fd2433afce44b",
-			"cloudyvideos.com": "http://cloudyvideos.com/mbltujg4kwnj",
-			"vidto.me": "http://vidto.me/azfnc3gxjseb.html",
 		}
 	},
 	{
@@ -2785,14 +1726,9 @@ var show_order = [
 		"title": "Brotherhood",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-7-s04e07_236292",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/fjrx6uz60ld0",
-			"teslavid.eu": "http://teslavid.eu/archives/7176",
-			"videomega.tv": "http://videomega.tv/?ref=U9Vm7gfB0rr0Bfg7mV9U",
 			"vidzi.tv": "http://vidzi.cc/b7upbmejx4le.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/8507a7572a3365ba75c1106370d89d37",
 			"lolzor.com": "http://www.lolzor.com/files/cf8ab5cfb732877d209958da4be100f3",
-			"playedto.me": "http://playedto.me/c2jscg71murz",
-			"vidto.me": "http://vidto.me/gp6882y8x9y8.html",
 		}
 	},
 	{
@@ -2802,15 +1738,9 @@ var show_order = [
 		"title": "Legends of Today",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-8-s02e08_252275",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/pnjbzle0o4pr",
-			"teslavid.eu": "http://teslavid.eu/archives/8233",
-			"videomega.tv": "http://videomega.tv/?ref=R9kOtl4u2TT2u4ltOk9R",
 			"vidzi.tv": "http://vidzi.cc/zytr0rb44jln.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4b1e6d1b903afe9390c0f1ed6936324f",
-			"openload.io": "https://openload.cc/f/xmduQK6QDwE",
 			"lolzor.com": "http://www.lolzor.com/files/f5f9acb7b4350f6aaddce07afd23e7bc",
-			"cloudyvideos.com": "http://cloudyvideos.com/w1c5ea1bkwl7",
-			"vidto.me": "http://vidto.me/33lca01yz1fn.html",
 		}
 	},
 	{
@@ -2820,14 +1750,9 @@ var show_order = [
 		"title": "Legends of Yesterday",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-8-s04e08_241934",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/pkf56nrgip6h",
-			"teslavid.eu": "http://teslavid.eu/archives/8240",
-			"videomega.tv": "http://videomega.tv/?ref=9J5l4lztQNNQtzl4l5J9",
 			"vidzi.tv": "http://vidzi.cc/vwwu8lka9z68.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/77d6e0438fb12595e709a1a4d5d0f9e1",
 			"lolzor.com": "http://www.lolzor.com/files/72f1998b2ed53d49b52f19920c85d6a9",
-			"playedto.me": "http://playedto.me/sstuu1vq7a2p",
-			"vidto.me": "http://vidto.me/isoirx1y0liq.html",
 		}
 	},
 	{
@@ -2838,13 +1763,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-9-s02e09_252913",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/5e9a0c2212439",
-			"vidspot.net": "http://vidspot.net/uhm5gr32rw9l",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3d0739575286d",
-			"youtube.com": "https://www.youtube.com/watch?v=Zh8sonSHAe8&amp;feature=youtu.be",
-			"videomega.tv": "http://videomega.tv/?ref=0JnYwi3s9YY9s3iwYnJ0",
 			"vidzi.tv": "http://vidzi.cc/6simzw5qh9i3.html/zz",
 			"lolzor.com": "http://www.lolzor.com/files/7d799b74ce3f014bea74e4e0947b2a84",
-			"cloudyvideos.com": "http://cloudyvideos.com/3oxd9n1kxhkb",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7945cae394875694f588bb31826085e1",
 		}
 	},
@@ -2856,12 +1776,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-9-s04e09_249660",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/08fec07546ad6",
-			"teslavid.eu": "http://teslavid.eu/archives/8837",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/0fdcffb691754",
-			"videomega.tv": "http://videomega.tv/?ref=1xjaW9UCc44cCU9Wajx1",
 			"vidzi.tv": "http://vidzi.cc/xjl5dgw4hg2f.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/7437bfcfaeeb7dafbaeac7afeb5f605e",
-			"playedto.me": "http://playedto.me/go0b64mjkrr9",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3a24fc93234504dae42ab397626e9c37",
 		}
 	},
@@ -2872,15 +1788,9 @@ var show_order = [
 		"title": "Potential Energy",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-10-s02e10_252914",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/10437",
-			"nowvideo.sx": " http://www.nowvideo.sx/video/a650f9fd77209 ",
-			"videomega.tv": "http://videomega.tv/?ref=750KqLInshhsnILqK057",
 			"vidzi.tv": "http://vidzi.cc/vvlm94u7yruu.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4af78fb8dd58ba50c55166ce878b4f69",
-			"openload.io": "https://openload.cc/f/UezUgme0im4",
 			"lolzor.com": "http://www.lolzor.com/files/3558d38044ebbcabeb08e905eb9f1b2b",
-			"vidto.me": "http://vidto.me/dvsv8dafca7h.html",
-			"gorillavid.in": "http://gorillavid.in/iwa638whc65p",
 		}
 	},
 	{
@@ -2890,13 +1800,9 @@ var show_order = [
 		"title": "Blood Debts",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-10-s04e10_253303",
 		"vid_links": {
-			"teslavid.eu": "http://teslavid.eu/archives/10475",
-			"nowvideo.sx": " http://www.nowvideo.sx/video/da8f9984a0bc2 ",
-			"videomega.tv": "http://videomega.tv/?ref=2qYHh6wCm11mCw6hHYq2",
 			"vidzi.tv": "http://vidzi.cc/34bwh7hcg9sv.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3482fc5f66f7f594b9c963abb3d939b5",
 			"lolzor.com": "http://www.lolzor.com/files/172a4c561b595205863adb663953bcbc",
-			"vidto.me": "http://vidto.me/cvhp1yzkjleh.html",
 		}
 	},
 	{
@@ -2907,10 +1813,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-1-s01e01_265207",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/028a952f772e2 ",
-			"videomega.tv": "http://videomega.tv/?ref=vLL5lg76TddT67gl5LLv",
 			"vidzi.tv": "http://vidzi.cc/i1o3qd1pzlpz.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/e95f077eadba4277c99fa59ca7cc8143",
-			"novamov.com": "http://www.novamov.com/video/291959ef07b8c ",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/1373162336117dc876285bcfc3c5ced1",
 		}
 	},
@@ -2921,14 +1825,9 @@ var show_order = [
 		"title": "Pilot (Part 2)",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-2-s01e02_265208",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/56b6u0n0yujr/dcs.legends.of.tomorrow.102.hdtv-lol.mp4",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c8fc5f05acb25",
-			"vidspot.net": "http://vidspot.net/3oofaseixyrv",
-			"videomega.tv": "http://videomega.tv/?ref=6Dvt2o8QSwwSQ8o2tvD6",
 			"vidzi.tv": "http://vidzi.cc/b8mwbya1j4s1.html/777",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b0bc412295857f36f0415c06ffdc9322",
 			"lolzor.com": "http://www.lolzor.com/files/d6c22a15a672ed49e1881c7f655e7dd0",
-			"vidto.me": "http://vidto.me/bchlgq8v5r1e.html",
 		}
 	},
 	{
@@ -2938,14 +1837,9 @@ var show_order = [
 		"title": "The Reverse-Flash Returns",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-11-s02e11_256561",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/23bbdb7ac03dc",
-			"videomega.tv": "http://videomega.tv/?ref=dT77n6SkoBBokS6n77Td",
 			"vidzi.tv": "http://vidzi.cc/oavfebrmilrt.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3320a304b003bf3285e9707cf43b4b0c",
-			"openload.io": "https://openload.cc/f/c9kpyBVy1J4",
 			"lolzor.com": "http://www.lolzor.com/files/59bc4b73af79dcff306b950cc4a37d00",
-			"vidto.me": "http://vidto.me/gghqobzat682.html",
-			"gorillavid.in": "http://gorillavid.in/kmqji90gh0x7",
 		}
 	},
 	{
@@ -2955,13 +1849,8 @@ var show_order = [
 		"title": "A.W.O.L.",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-11-s04e11_254418",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/46f0ec3ab3b4288a942566927f0bb2b1",
-			"allvid.ch": "http://allvid.ch/ey547rtcqjrp",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/64be6093a130e",
-			"videomega.tv": "http://videomega.tv/?ref=GO4g1zjG6ss6Gjz1g4OG",
 			"vidzi.tv": "http://vidzi.cc/xno3h84kfyhd.html/77",
 			"lolzor.com": "http://www.lolzor.com/files/41ab85d1e8e49e2eb14fc6331672f1ca",
-			"vodmine.com": "http://vodmine.com/video/wLvy126fKrlKLTXF8sNo",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7b257d362f1e0a0e2a6a50e0f63537c0",
 		}
 	},
@@ -2972,15 +1861,9 @@ var show_order = [
 		"title": "Fast Lane",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-12-s02e12_256562",
 		"vid_links": {
-			"allvid.ch": "http://allvid.ch/akkw5b98hdtq",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/bd959aed00c7d",
-			"videomega.tv": "http://videomega.tv/?ref=4wsG8x2XjGGjX2x8Gsw4",
 			"vidzi.tv": "http://vidzi.cc/hkgnh3gvtbc8.html/z",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7f76ea3c69874369996dcef890dd11bc",
-			"openload.io": "https://openload.cc/f/l6EMwFiHJZ4",
 			"lolzor.com": "http://www.lolzor.com/files/0c9b61179c50be4d09d3769f31e5514f",
-			"gorillavid.in": "http://gorillavid.in/0h8wln2b4l3o",
-			"vidto.me": "http://vidto.me/1hoy1n2agjzv.html",
 		}
 	},
 	{
@@ -2990,14 +1873,8 @@ var show_order = [
 		"title": "Unchained",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-12-s04e12_258615",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/cfc04692aae94ca5f2d2a76bab5881e3",
-			"allvid.ch": "http://allvid.ch/u3qyupcao9m3",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/808f33211e531",
-			"videomega.tv": "http://videomega.tv/?ref=86AZdt3yjWWjy3tdZA68",
 			"vidzi.tv": "http://vidzi.cc/baid0rr9dlma.html/77",
-			"dailymotion.com": "http://www.dailymotion.com/video/x3qhp7u_arrow-season-4-episode-12-s04-e12_shortfilms",
 			"lolzor.com": "http://www.lolzor.com/files/4a90d647a95fe5223ec1d1225e4b1c35",
-			"vidto.me": "http://vidto.me/e7o5ql1gpddt.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/229d99ef45e4eb4c860db53f367604ae",
 		}
 	},
@@ -3008,13 +1885,9 @@ var show_order = [
 		"title": "Sins of the Father",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-13-s04e13_263562",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/cfcthb904t1q",
-			"videomega.tv": "http://videomega.tv/?ref=GL5wKn3w8tt8w3nKw5LG",
 			"vidzi.tv": "http://vidzi.cc/l0km8tbil1db.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/25195bf6afe92c4b941a41af0149acb8",
-			"vshare.eu": "http://vshare.eu/pfbqdifly4oz.htm",
 			"lolzor.com": "http://www.lolzor.com/files/feb06ec0749139b421df3a0cc69a0067",
-			"vidto.me": "http://vidto.me/ofxb1w7msw2o.html",
 		}
 	},
 	{
@@ -3024,13 +1897,9 @@ var show_order = [
 		"title": "Blood Ties",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-3-s01e03_265209",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/8k1fmntul1f8",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/8b0b44bca98c1",
-			"videomega.tv": " http://videomega.tv/?ref=bf7LAdDd2332dDdAL7fb",
 			"vidzi.tv": "http://vidzi.cc/aq1nzlteo96a.html/77",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/0bf6b88e636f8c923128326c503d195f",
 			"lolzor.com": "http://www.lolzor.com/files/42bd3e466d43e107237da639b5da27c2",
-			"vidto.me": "http://vidto.me/1p5xw6q5zdkw.html",
 		}
 	},
 	{
@@ -3040,15 +1909,9 @@ var show_order = [
 		"title": "Welcome to Earth-2",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-13-s02e13_261093",
 		"vid_links": {
-			"allvid.ch": "http://allvid.ch/22mwv5wm9owv",
-			"vidspot.net": "http://vidspot.net/l967aidp0s95",
-			"vshare.eu": "http://vshare.eu/aeyuaiimxxqk.htm",
-			"videomega.tv": "http://videomega.tv/?ref=W7KJu6k4tkkt4k6uJK7W",
 			"vidzi.tv": "http://vidzi.cc/sydd271lvsqd.html/zz",
-			"openload.io": "https://openload.cc/f/eUko21AzUj4",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/65c82a290eb9f8b35607853638cb14a0",
 			"lolzor.com": "http://www.lolzor.com/files/c318b3fcbf0f0dc51744746f19efc703",
-			"vidto.me": "http://vidto.me/fkzv9ztcwc3u.html",
 		}
 	},
 	{
@@ -3058,16 +1921,9 @@ var show_order = [
 		"title": "Escape from Earth-2",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-14-s02e14_261094",
 		"vid_links": {
-			"neodrive.co": "http://neodrive.co/share/file/D6SZW6W1N66LW16J2MKY52XO016BS/",
-			"allvid.ch": "http://allvid.ch/ct4q0zf1hlpg",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/e3e919e7c3197",
-			"videomega.tv": "http://videomega.tv/?ref=bZ1dpF7Y7dd7Y7Fpd1Zb",
 			"vidzi.tv": "http://vidzi.cc/86sww3ggehfw.html/z",
-			"openload.io": "https://openload.cc/f/PcVtrJyL8pM",
 			"lolzor.com": "http://www.lolzor.com/files/90ef6f215afbaf5324e2cb4731ca53a3",
-			"teslavid.eu": "http://teslavid.eu/archives/10844",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9330815d47f21cddf66793958946ae90",
-			"gorillavid.in": "http://gorillavid.in/thig2r1qs3xp",
 		}
 	},
 	{
@@ -3077,13 +1933,9 @@ var show_order = [
 		"title": "White Knights",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-4-s01e04_265210",
 		"vid_links": {
-			"nowvideo.sx": "http://www.nowvideo.sx/video/87cbb55affa04",
-			"videomega.tv": "http://videomega.tv/?ref=2M0BpEt3wjjw3tEpB0M2",
 			"vidzi.tv": "http://vidzi.cc/9d14ydlwphff.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/61a53f05ad90862ad720e9ebedc3895e",
-			"vshare.eu": "http://vshare.eu/brtkjgumhra6.htm",
 			"lolzor.com": "http://www.lolzor.com/files/7a9e44e15becbd9a3332f65635e91a35",
-			"vidto.me": "http://vidto.me/5emxqn63naag.html",
 		}
 	},
 	{
@@ -3093,13 +1945,9 @@ var show_order = [
 		"title": "Fail-Safe",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-5-s01e05_265211",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/4tw3p17z1iv/dcs.legends.of.tomorrow.105.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/d66te0rafm0m",
-			"teslavid.eu": "http://teslavid.eu/archives/11036",
 			"vidzi.tv": "http://vidzi.cc/1xhwbefp34ae.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/81c6578ee05798db5b99e57e270f6f5e",
 			"lolzor.com": "http://www.lolzor.com/files/f921603d69253ae91e6f4c33946c8e3b",
-			"vidto.me": "http://vidto.me/e5b56ld5b69j.html",
 		}
 	},
 	{
@@ -3109,14 +1957,9 @@ var show_order = [
 		"title": "Code of Silence",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-14-s04e14_268010",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/8a6aee1016f70a08b4b65198629717c3",
-			"vidspot.net": "http://vidspot.net/dn9782brlupw",
-			"videomega.tv": "http://videomega.tv/?ref=T4L9k2qUzddzUq2k9L4T",
 			"vidzi.tv": "http://vidzi.cc/ni0mwop0u97y.html/77",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/fd5580be088d11384cce79440b9af904",
 			"lolzor.com": "http://www.lolzor.com/files/fc3eff6d22703b4b959388ae31e9622f",
-			"teslavid.eu": "http://teslavid.eu/archives/10896",
-			"vidto.me": "http://vidto.me/plzxpqx1hwx0.html",
 		}
 	},
 	{
@@ -3126,17 +1969,8 @@ var show_order = [
 		"title": "King Shark",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-15-s02e15_261095",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/2f85e61c9b9bf5197af221eb0edfabed",
-			"allvid.ch": "http://allvid.ch/iw3qjpf24az0",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b7ce94541b43a",
-			"youtube.com": "https://www.youtube.com/channel/UC_kMpiwn0L9uK7eSWXovxyQ",
-			"videomega.tv": "http://videomega.tv/?ref=9sm2HuVA6pp6AVuH2ms9",
 			"vidzi.tv": "http://vidzi.cc/m8iu7vczdwib.html/z",
-			"openload.io": "https://openload.cc/f/Q4IWdV9VPVk",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3b8e04baaadc449c87bd7e49a6928c41",
-			"teslavid.eu": "http://teslavid.eu/archives/11455",
-			"vidto.me": "http://vidto.me/5tj1dhzkld7i.html",
-			"gorillavid.in": "http://gorillavid.in/11zxd1pjqhm0",
 		}
 	},
 	{
@@ -3146,15 +1980,9 @@ var show_order = [
 		"title": "Taken",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-15-s04e15_278168",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/1bf6a7f82cfd31373be47abb1c167a8a",
-			"allvid.ch": "http://allvid.ch/4na1xm6i3c9z",
-			"videomega.tv": "http://videomega.tv/?ref=3Ywavl0W9YY9W0lvawY3",
 			"vidzi.tv": "http://vidzi.cc/6jo5bjlm1ure.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/b4596628b95f7be01c8684283c98d552",
 			"lolzor.com": "http://www.lolzor.com/files/84d03e10f1873d95a2b9bdda0b31047a",
-			"teslavid.eu": "http://teslavid.eu/archives/11562",
-			"gorillavid.in": "http://gorillavid.in/fn49k9mwcj4i",
-			"vidto.me": "http://vidto.me/6vkxx7d1uzql.html",
 		}
 	},
 	{
@@ -3164,14 +1992,9 @@ var show_order = [
 		"title": "Star City 2046",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-6-s01e06_265212",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/s6jtg0oa66y2",
-			"teslavid.eu": "http://teslavid.eu/archives/11673",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/b9e4d531b2dda",
 			"vidzi.tv": "http://vidzi.cc/taljb11z0etl.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/99703e513c6eaed0e0fae8a58bdeab2e",
-			"dailymotion.com": "http://www.dailymotion.com/video/x3u945e_dc-s-legends-of-tomorrow-season-1-episode-6-full-hd_tv",
 			"lolzor.com": "http://www.lolzor.com/files/28881cb0bbdb6a8c386910c4b25b88a4",
-			"vidto.me": "http://vidto.me/7dm5q0ilf9rr.html",
 		}
 	},
 	{
@@ -3181,13 +2004,9 @@ var show_order = [
 		"title": "Marooned",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-7-s01e07_265213",
 		"vid_links": {
-			"vidspot.net": "http://vidspot.net/lmbcxot8goeh",
-			"teslavid.eu": "http://teslavid.eu/archives/11991",
 			"vidzi.tv": "http://vidzi.cc/8c4ybiuxqd1g.html/77",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/706530239f010bfc8608d2f7d0834476",
-			"vshare.eu": "http://vshare.eu/fin6ka9zxkin.htm",
 			"lolzor.com": "http://www.lolzor.com/files/b7e77499733b87587ae755f63bafc597",
-			"vidto.me": "http://vidto.me/rr18igcoilgh.html",
 		}
 	},
 	{
@@ -3197,14 +2016,8 @@ var show_order = [
 		"title": "Night of the Hawk",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-8-s01e08_265214",
 		"vid_links": {
-			"filefactory.com": "http://www.filefactory.com/file/1yktylvhvwlf/dcs.legends.of.tomorrow.108.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/w55o8qfynmdi",
-			"teslavid.eu": "http://teslavid.eu/archives/12331",
-			"vshare.eu": "http://vshare.eu/jenoyji8zh7o.htm",
 			"vidzi.tv": "http://vidzi.cc/0m3mgjmd81no.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/hxlls21oiqhh",
 			"lolzor.com": "http://www.lolzor.com/files/e81b5d488ba94b0fd9e2698db81c4d90",
-			"vidto.me": "http://vidto.me/gwc25wdd60sp.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9dafb93a0f794c86329e988dff5be8b5",
 		}
 	},
@@ -3215,16 +2028,9 @@ var show_order = [
 		"title": "Trajectory",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-16-s02e16_261096",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c3c9756cbe04d77a744f6553007082ac",
-			"allvid.ch": "http://allvid.ch/cje15y9c39xx",
-			"filefactory.com": "http://www.filefactory.com/file/2w7xk6lvguux/the.flash.2014.216.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/j2y85yzpzffc",
-			"videomega.tv": "http://videomega.tv/?ref=2tK57FpNwwwwNpF75Kt2",
 			"vidzi.tv": "http://vidzi.cc/umwxlro4qk4y.html/zz",
-			"openload.io": "https://openload.cc/f/cA42SeEyFKU",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/da534f831e34940738f8ccc9712d3ceb",
 			"lolzor.com": "http://www.lolzor.com/files/eea4988a63885c8c0712c5129364ed4a",
-			"vidto.me": "http://vidto.me/lnw3bprkek9p.html",
 		}
 	},
 	{
@@ -3234,14 +2040,8 @@ var show_order = [
 		"title": "Broken Hearts",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-16-s04e16_278169",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/0e2b925ad004f4fb6c0dce79f1109086",
-			"vidspot.net": "http://vidspot.net/sk3xgxw7s151",
-			"vshare.eu": "http://vshare.eu/uu4g1xmt8ifw.htm",
-			"videomega.tv": "http://videomega.tv/?ref=DG2hFzo9u88u9ozFh2GD",
 			"vidzi.tv": "http://vidzi.cc/pw8cy5iwvx77.html/777",
-			"allmyvideos.net": "http://allmyvideos.net/3owlx06wmts4",
 			"lolzor.com": "http://www.lolzor.com/files/ffe5045a46fea44da090a061205aba33",
-			"vidto.me": "http://vidto.me/i35m3an289gy.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/9fe41acf362ac8da8df03f5a2c41f207",
 		}
 	},
@@ -3252,16 +2052,9 @@ var show_order = [
 		"title": "Flash Back",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-17-s02e17_261097",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/72127a181bc2011562bafdf3b9d6ce24",
-			"allvid.ch": "http://allvid.ch/z1samh2a1xz7",
-			"filefactory.com": "http://www.filefactory.com/file/217yfd89l7bd/the.flash.2014.217.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/4c7w40tn09h3",
-			"videomega.tv": "http://videomega.tv/?ref=72YDd9fxRyyRxf9dDY27",
 			"vidzi.tv": "http://vidzi.cc/74ovmgqjl0cf.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ce610d0e427d8d629cd98fd36797980d",
-			"openload.io": "https://openload.cc/f/UZCpzYLRS_0",
 			"lolzor.com": "http://www.lolzor.com/files/0f2b53a198d36c56f0c53e9844806e52",
-			"vidto.me": "http://vidto.me/nrrbxkoof25o.html",
 		}
 	},
 	{
@@ -3271,16 +2064,9 @@ var show_order = [
 		"title": "Beacon of Hope",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-17-s04e17_278170",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/23ce96caa0201d6789c4334e0015cc23",
-			"exashare.com": "http://exashare.com/lyg722daoghd",
-			"filefactory.com": "http://www.filefactory.com/file/2yhq4a1ma0xr/arrow.417.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/pvaeqg71acm8",
-			"vshare.eu": "http://vshare.eu/3hd8t0qnpnki.htm",
-			"videomega.tv": "http://videomega.tv/?ref=aW2b9Bk2NyyN2kB9b2Wa",
 			"vidzi.tv": "http://vidzi.cc/jbp4dmacv9sy.html/7",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/67271eec40eb47832abe2601c1c85800",
 			"lolzor.com": "http://www.lolzor.com/files/f4672c9cb4a7222defea8f0097757d4c",
-			"vidto.me": "http://vidto.me/90eef4ww1pgy.html",
 		}
 	},
 	{
@@ -3290,16 +2076,9 @@ var show_order = [
 		"title": "Left Behind",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-9-s01e09_268270",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/30f3538e9880f17197e557d2ded75115",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/cfabc8ea7b7d4bdb45166717882c2633",
-			"filefactory.com": "http://www.filefactory.com/file/5z5twov8xv3p/dcs.legends.of.tomorrow.109.hdtv-lol.mp4",
-			"vidspot.net": "http://vidspot.net/izggw0t508s4",
-			"vshare.eu": "http://vshare.eu/s0mfs1b9b9pt.htm",
-			"videomega.tv": "http://videomega.tv/?ref=3VXS7ssyd33dyss7SXV3",
 			"vidzi.tv": "http://vidzi.cc/kccrgbhghcaa.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/icmditxee9u6",
 			"lolzor.com": "http://www.lolzor.com/files/e5dadc15ca60edbc54a73b3334ffb4ee",
-			"vidto.me": "http://vidto.me/ll8bfy14heqh.html",
 		}
 	},
 	{
@@ -3309,15 +2088,9 @@ var show_order = [
 		"title": "Eleven-Fifty-Nine",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-18-s04e18_278171",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/2abb0ce668cd6e5096d2ec6db4edd8a6",
-			"vidspot.net": "http://vidspot.net/ni0l8recajqu",
-			"youtube.com": "http://www.youtube.com/847583hsieudn",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/361fb9d856035",
-			"videomega.tv": "http://videomega.tv/?ref=sb2hh21RSOOSR12hh2bs",
 			"vidzi.tv": "http://vidzi.cc/70hhwnq9i9ek.html/77777",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e33f391e352ae5ff067e7a5559c7273f",
 			"lolzor.com": "http://www.lolzor.com/files/0c0f076de65c8a1fabd7c25b3b26515b",
-			"vidto.me": "http://vidto.me/9qfxscr0bdla.html",
 		}
 	},
 	{
@@ -3327,15 +2100,7 @@ var show_order = [
 		"title": "Progeny",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-10-s01e10_278144",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/bcafb36d667b99aadae550e30b01869f",
-			"videomega.tv": "http://videomega.tv/?ref=bMTHp9d43ll34d9pHTMb",
 			"vidzi.tv": "http://vidzi.cc/gkfcfooiri84.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/l76rjbn817gs",
-			"vshare.eu": "http://vshare.eu/bee8fdbdyoxi.htm",
-			"uploadc.ch": "http://www.uploadc.ch/lcidmqvd7413/_5Bexrapidleech_5D_dcs.legends.of.tomorrow.110.hdtv-lol__5Bexrapidleech.info_5D.mp4.htm",
-			"vidto.me": "http://vidto.me/thkdfi8ggj9n.html",
-			"vid.ag": "http://vid.ag/voqmns2f6f86.html",
-			"playedto.me": "http://playedto.me/852xl203aw5g",
 		}
 	},
 	{
@@ -3345,17 +2110,9 @@ var show_order = [
 		"title": "The Magnificent Eight",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-11-s01e11_280826",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/7ea9d4eaaa7ca7328a1a1707b5def2bb",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c6d96b78f47e0e390e4bde63805bc2cd",
-			"vidspot.net": "http://vidspot.net/kru6wxj8aaeq",
-			"vshare.eu": "http://vshare.eu/1x15aznyges0.htm",
 			"vidzi.tv": "http://vidzi.cc/li4ueij6kbmo.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/yv13cb11y6hi",
-			"uploadc.ch": "http://www.uploadc.ch/3ekapzafkx3w/Legends_of_tomorrow_s1e11_mp4.mp4.htm",
 			"lolzor.com": "http://www.lolzor.com/files/e244b5cf28ca110ca3d5c3a575fbfd04",
-			"vid.ag": "http://vid.ag/az59w9uxtumw.html",
-			"playedto.me": "http://playedto.me/3lgwr5hj8onr",
-			"vidto.me": "http://vidto.me/vvpdl1c0en8l.html",
 		}
 	},
 	{
@@ -3365,15 +2122,7 @@ var show_order = [
 		"title": "Last Refuge",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-12-s01e12_287530",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/ceb9a3f2768cefaf5f66cbb9caeaf3f8",
-			"vidspot.net": "http://vidspot.net/zly7mfup4tmd",
-			"videomega.tv": "http://videomega.tv/?ref=w0unI7UR8pp8RU7Inu0w",
 			"vidzi.tv": "http://vidzi.cc/sx6uakfekj2a.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/txvpzaif7lhq",
-			"vshare.eu": "http://vshare.eu/a6jmwst7d2vj",
-			"vidto.me": "http://vidto.me/0q86pvw8re6d.html",
-			"vid.ag": "http://vid.ag/jrs6pw60b6fw.html",
-			"playedto.me": "http://playedto.me/ne4kmxnqnjvq",
 		}
 	},
 	{
@@ -3383,17 +2132,9 @@ var show_order = [
 		"title": "Canary Cry",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-19-s04e19_278172",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/0a17b5a521eddd9b7f760ef14553c660",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/83503d29d7958be14d5644baee005832",
-			"filefactory.com": "http://www.filefactory.com/file/1j7pznprdjcf/arrow.419.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/2687kx1qfp5y",
-			"vshare.eu": "http://vshare.eu/umyias32293e.htm",
 			"vidzi.tv": "http://vidzi.cc/lxxg8xhwpa7v.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/ug3g6g7ymusn",
 			"lolzor.com": "http://www.lolzor.com/files/c7f2337d42d7525bab0379b7e1db2af1",
-			"playedto.me": "http://playedto.me/0i8ozd93r28d",
-			"watchers.to": "http://watchers.to/1x3fkn7bx1dh.html",
-			"vidto.me": "http://vidto.me/x2hu4otci9h3.html",
 		}
 	},
 	{
@@ -3403,15 +2144,8 @@ var show_order = [
 		"title": "Versus Zoom",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-18-s02e18_261098",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/490b98d33994e3f54e406488073b8f1e",
-			"vidspot.net": "http://vidspot.net/1w2ein6ft9ec",
-			"netu.tv": "http://netu.tv/watch_video.php?v=LOonJwkRzhV5",
 			"vidzi.tv": "http://vidzi.cc/4efv9gds0cpf.html/zz",
-			"allmyvideos.net": "http://allmyvideos.net/cdynkyiaj4oi",
-			"vshare.eu": "http://vshare.eu/cdghryhk2vqf.htm",
-			"openload.io": "https://openload.cc/f/lD7GYuZoSiU",
 			"lolzor.com": "http://www.lolzor.com/files/2270eb69766a8924ab0743a34949b980",
-			"vidto.me": "http://vidto.me/0t2kiaalr8fr.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/3f06a3890d3aec1bebe1373f9002d87a",
 		}
 	},
@@ -3422,15 +2156,9 @@ var show_order = [
 		"title": "Worlds Finest",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-18-s01e18_261824",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/1f3f5d0f42a7dc841b31a88d21c94899",
-			"allvid.ch": "http://allvid.ch/aa49wfi66woi",
-			"vidspot.net": "http://vidspot.net/8677yzbcw9la",
-			"youtube.com": "https://www.youtube.com/watch?v=KGXNlXr-nlA",
-			"videomega.tv": "http://videomega.tv/?ref=syd0wV19DIID91Vw0dys",
 			"vidzi.tv": "http://vidzi.cc/mj8ufl1n75uy.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7de16cc99c799b46696e1e3cb70fdd2c",
 			"lolzor.com": "http://www.lolzor.com/files/956505be66a8b5fc89fdf35bab3ba6fc",
-			"vidto.me": "http://vidto.me/bs59tcwrsder.html",
 		}
 	},
 	{
@@ -3440,17 +2168,9 @@ var show_order = [
 		"title": "Back to Normal",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-19-s02e19_261099",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c733a64856b87e525fdac6d51868a5bf",
-			"filefactory.com": "http://www.filefactory.com/file/45p0drcsfmnr/the.flash.2014.219.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/go24n75ufbv7",
-			"youtube.com": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
 			"vidzi.tv": "http://vidzi.cc/aaobcwak6e8b.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/288106b45d1efdebfb5e95b9cf3a7a05",
-			"openload.io": "https://openload.cc/f/0Zuy1qWqqqw",
 			"lolzor.com": "http://www.lolzor.com/files/6edefd20aa1b585fbb0469f9d98131e0",
-			"xvidstage.com": "http://xvidstage.com/cuyycoi9ldsu",
-			"gorillavid.in": "http://gorillavid.in/gngzaad3ycux",
-			"vidto.me": "http://vidto.me/rjit65zrwo6r.html",
 		}
 	},
 	{
@@ -3460,15 +2180,7 @@ var show_order = [
 		"title": "Leviathan",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-13-s01e13_287531",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/6b4c6ccb23178ee6f39092200dbc6e84",
-			"filefactory.com": "http://www.filefactory.com/file/3wndk7ctt4x1/dcs.legends.of.tomorrow.113.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/mn4ti600dix2",
-			"vshare.eu": "http://vshare.eu/ho5akdau1jch.htm",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/adea07f984beb",
 			"vidzi.tv": "http://vidzi.cc/cx646fi56oho.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/5s135ufiuhu3",
-			"playedto.me": "http://playedto.me/0jyfdqdir2o8",
-			"vidto.me": "http://vidto.me/jx2fg97ap1xg.html",
 		}
 	},
 	{
@@ -3478,15 +2190,8 @@ var show_order = [
 		"title": "Rupture",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-20-s02e20_261100",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/fc1db2a625a26bfb3e9bf6a9b0d8b188",
-			"filefactory.com": "http://www.filefactory.com/file/3nkv32vb7zyv/the.flash.2014.220.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/jvbvvmoht0s7",
-			"vshare.eu": "http://vshare.eu/utyarr90exwf.htm",
 			"vidzi.tv": "http://vidzi.cc/p5x29e2sva2g.html/z",
-			"allmyvideos.net": "http://allmyvideos.net/7d0njsfjaw5i",
-			"openload.io": "https://openload.cc/f/X8Ym0MoGu2s",
 			"lolzor.com": "http://www.lolzor.com/files/5a01907ec7f90cd0bf118684b86402be",
-			"vidto.me": "http://vidto.me/5xlrjourblbk.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/63ad052267e3fd8b847acff94ac78a7b",
 		}
 	},
@@ -3497,17 +2202,9 @@ var show_order = [
 		"title": "Genesis",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-20-s04e20_278173",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/4d5d8947da970305689588ddbbf124c2",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7adee2dfbf27ffca2b32d8d1d4c6d222",
-			"filefactory.com": "http://www.filefactory.com/file/6j77uyh2gk8p/arrow.420.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/8dh2vzint2gp",
-			"vshare.eu": "http://vshare.eu/hetjdjmsgdu9.htm",
-			"videomega.tv": "http://videomega.tv/?ref=E90I9mbjVyyVjbm9I09E",
 			"vidzi.tv": "http://vidzi.cc/0rhbsd8a7cq0.html/777",
-			"allmyvideos.net": "http://allmyvideos.net/ckycy2sfhi58",
 			"lolzor.com": "http://www.lolzor.com/files/ecad1bf3471e4a3b3a1aa260c66d17f5",
-			"rapidvideo.ws": "http://rapidvideo.ws/wtrrwgc5f7sj",
-			"vidto.me": "http://vidto.me/16ivtf5r8lkd.html",
 		}
 	},
 	{
@@ -3517,15 +2214,7 @@ var show_order = [
 		"title": "River of Time",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-14-s01e14_290396",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/75690176f68768a9c12b4993d72e481b",
-			"vidspot.net": "http://vidspot.net/25lmw1liubha",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/aaeffc95ce717",
 			"vidzi.tv": "http://vidzi.cc/yjmwtv1acrtx.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/bhgyey9obf5o",
-			"vshare.eu": "http://vshare.eu/vnsckqybmpgz.htm",
-			"vidto.me": "http://vidto.me/pmvwnl3kh67e.html",
-			"vid.ag": "http://vid.ag/cges6d9amxct.html",
-			"playedto.me": "http://playedto.me/fa8bsxf7j3ok",
 		}
 	},
 	{
@@ -3535,16 +2224,9 @@ var show_order = [
 		"title": "The Runaway Dinosaur",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-21-s02e21_261101",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/50fd0490b05f38713ad8847a334495fa",
-			"filefactory.com": "http://www.filefactory.com/file/5au8cnxsmuol/the.flash.2014.221.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/prnvygd9aum8",
-			"vshare.eu": "http://vshare.eu/mjhgmxb5q4kq.htm",
 			"vidzi.tv": "http://vidzi.cc/r850liikodn6.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/c00b42b7c1b2f5ed60f7ed74c1532514",
-			"openload.io": "https://openload.cc/f/c9xOrQWUp8E",
 			"lolzor.com": "http://www.lolzor.com/files/c2d9146564ac8eb558f487ebbd886d6e",
-			"youtube.com": "https://www.youtube.com/watch?v=hLTru0XUYko",
-			"vidto.me": "http://vidto.me/amaer0bxn9pz.html",
 		}
 	},
 	{
@@ -3554,16 +2236,9 @@ var show_order = [
 		"title": "Monument Point",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-21-s04e21_278174",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/7219a032d109a7d6728fd9f56857d6cc",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/de18717089d4b4e177d27ed2634b5fe4",
-			"filefactory.com": "http://www.filefactory.com/file/4sbwzkvpxfjx/arrow.421.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/i3mst7btm6hn",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/992d626007263",
 			"vidzi.tv": "http://vidzi.cc/lznq17wctnzz.html/7777",
-			"watchers.to": "http://watchers.to/y7jqpfck771q.html",
 			"lolzor.com": "http://www.lolzor.com/files/a000777e10e2a28feb70a31cda9e8f6d",
-			"xvidstage.com": "http://xvidstage.com/8l48y3a4pp45",
-			"vidto.me": "http://vidto.me/u4buecuydd35.html",
 		}
 	},
 	{
@@ -3573,14 +2248,8 @@ var show_order = [
 		"title": "Myriad",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-19-s01e19_261825",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/12c98d7d56915cffb23895f8c610039e",
-			"vidspot.net": "http://vidspot.net/zex6v3y9xw3s",
-			"vshare.eu": "http://vshare.eu/rfci5x66zc70.htm",
-			"videomega.tv": "http://videomega.tv/?ref=xz8Y73ncKQQKcn37Y8zx",
 			"vidzi.tv": "http://vidzi.cc/zzzjx9s442gj.html/zz",
-			"allmyvideos.net": "http://allmyvideos.net/nuf59cf0jigp",
 			"lolzor.com": "http://www.lolzor.com/files/97adce779991062070ca53fdb2f20368",
-			"vidto.me": "http://vidto.me/lv1sxediferb.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f697dba40f8af293e64be1cd3d503f5e",
 		}
 	},
@@ -3591,15 +2260,8 @@ var show_order = [
 		"title": "Better Angels",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-1-episode-20-s01e20_261826",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/3f653b91dee4b284f6e618caba219729",
-			"filefactory.com": "http://www.filefactory.com/file/6idvn8xhzz9d/Supergirl.S01E20.HDTV.x264.LOL.mkv",
-			"vidspot.net": "http://vidspot.net/r63txirv265v",
-			"vshare.eu": "http://vshare.eu/vc4u51xxglcg.htm",
 			"vidzi.tv": "http://vidzi.cc/aeqb5aykqjb0.html/z",
-			"allmyvideos.net": "http://allmyvideos.net/elplwem72c3j",
 			"lolzor.com": "http://www.lolzor.com/files/c9ed77ce14deb0d56894d93c66f902a9",
-			"filenuke.com": "http://filenuke.com/f/32lr1o0",
-			"vidto.me": "http://vidto.me/djj4f3390syf.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ce8f37df2781db7712f45dc2f843b6f1",
 		}
 	},
@@ -3610,17 +2272,7 @@ var show_order = [
 		"title": "Destiny",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-15-s01e15_293485",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c37554e8314e2d8818f10b9056995cfa",
-			"vidspot.net": "http://vidspot.net/1w8vcsb22r39",
-			"vshare.eu": "http://vshare.eu/wa1j3w37v3lu.htm",
-			"videomega.tv": "http://videomega.tv/?ref=TcRpzd14S22S41dzpRcT",
 			"vidzi.tv": "http://vidzi.cc/tb81bjz36z7r.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/ygsgk5u1sea9",
-			"goodvideohost.com": "http://goodvideohost.com/79i7klf3do9p",
-			"vid.ag": "http://vid.ag/c4p89p42tig1.html",
-			"rapidvideo.ws": "http://rapidvideo.ws/vhe5ud9syy3k",
-			"playedto.me": "http://playedto.me/1v3q9og1tgnz",
-			"vidto.me": "http://vidto.me/vkbyae0k5fzc.html",
 		}
 	},
 	{
@@ -3630,16 +2282,7 @@ var show_order = [
 		"title": "Legendary",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-1-episode-16-s01e16_293486",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/f399ca7b4fa39601f0053c576486af70",
-			"filefactory.com": "http://www.filefactory.com/file/18zz5o7pqgzj/dcs.legends.of.tomorrow.116.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/6eybtcfm2slq",
-			"vshare.eu": "http://vshare.eu/rl7mfpaufccy.htm",
 			"vidzi.tv": "http://vidzi.cc/kkxyl0ksylgg.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/huyglp4ituid",
-			"goodvideohost.com": "http://goodvideohost.com/3qzwu7f5whjb",
-			"rapidvideo.ws": "http://rapidvideo.ws/ujrtoqqvcwzf",
-			"playedto.me": "http://playedto.me/1jql8tb0hd4p",
-			"vidto.me": "http://vidto.me/m3jxa5ympzp5.html",
 		}
 	},
 	{
@@ -3649,16 +2292,9 @@ var show_order = [
 		"title": "Invincible",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-22-s02e22_261102",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/e0272602134c436255267fb41aaee77a",
-			"filefactory.com": "http://www.filefactory.com/file/3nkcec6zk3un/the.flash.2014.222.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/nwee2520pk8x",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/2d46d56eac0c8",
-			"vshare.eu": "http://vshare.eu/4p0os8d8fdd3.htm",
 			"vidzi.tv": "http://vidzi.cc/gyqxm7sbtykw.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d428cc7d5d7113cad87a73a7dd464ffd",
-			"openload.io": "https://openload.cc/f/m6pWzDf_ERs",
 			"lolzor.com": "http://www.lolzor.com/files/e69982bd1966687401d794edde3c664b",
-			"vidto.me": "http://vidto.me/tin6zzaj1rm8.html",
 		}
 	},
 	{
@@ -3668,16 +2304,9 @@ var show_order = [
 		"title": "The Race of His Life",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-2-episode-23-s02e23_261103",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/3a313962fdb67a547ccf3934af75db32",
-			"filefactory.com": "http://www.filefactory.com/file/3fd44qorlnpv/the.flash.2014.223.hdtv-lol.mkv.mp4",
-			"vidspot.net": "http://vidspot.net/iqx8l8acuxv7",
-			"vshare.eu": "http://vshare.eu/s5xptzasl30c.htm",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/60e6cb6ac4db9",
 			"vidzi.tv": "http://vidzi.cc/9e36npxu6qf6.html/zz",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/eab065892276c2f68c141a07b5b7d6ab",
-			"openload.io": "https://openload.cc/f/hTM7wfIJnig",
 			"lolzor.com": "http://www.lolzor.com/files/35f5aa65d172b1624e8c9d09db0fb849",
-			"vidto.me": "http://vidto.me/5haiifpwalsd.html",
 		}
 	},
 	{
@@ -3687,16 +2316,9 @@ var show_order = [
 		"title": "Lost in the Flood",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-22-s04e22_278175",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/436704c609699da6e797b657ad342946",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e2c5e320f2ac53177f222bf1e48815dc",
-			"filefactory.com": "http://www.filefactory.com/file/5zdh2dxdbosr/arrow.422.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/h32u31w6w1gz",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c0df86955329f",
-			"vshare.eu": "http://vshare.eu/1o6a4xehsjdw.htm",
 			"vidzi.tv": "http://vidzi.cc/piakatzsebht.html/77",
-			"watchers.to": "http://watchers.to/galwqb9o7fq4.html",
 			"lolzor.com": "http://www.lolzor.com/files/ec721f769db0f20f14827563969e9b63",
-			"vidto.me": "http://vidto.me/qiy9b0jb7jvp.html",
 		}
 	},
 	{
@@ -3706,13 +2328,8 @@ var show_order = [
 		"title": "Schism",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-4-episode-23-s04e23_278176",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/7daf64efaa22137723ab7fd9e9278a10",
-			"vidspot.net": "http://vidspot.net/9ysuwcsgvcr8",
-			"vshare.eu": "http://vshare.eu/cjvfav30adb8.htm",
 			"vidzi.tv": "http://vidzi.cc/37tqr069g45h.html/777",
-			"watchers.to": "http://watchers.to/muoae6qqzpco.html",
 			"lolzor.com": "http://www.lolzor.com/files/7fd85fd73f3be4ac1dc223fdb4121ad7",
-			"vidto.me": "http://vidto.me/o7dzrfwz7fk7.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/70303a937fd4ffdecb2aa4c845bc3cd5",
 		}
 	},
@@ -3723,15 +2340,8 @@ var show_order = [
 		"title": "Flashpoint",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-1-s03e01_297897",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/896a3b9746effbbc40fa46ba8348b1fa",
-			"filefactory.com": "http://www.filefactory.com/file/6ol00cbkpfit/Flash.2014.S03E01.m720p.Vose.mkv",
-			"vshare.eu": "http://vshare.eu/tdozkwqiit4v.htm",
 			"vidzi.tv": "http://vidzi.cc/0vzjwz6qy7gs.html/44",
-			"allmyvideos.net": "http://allmyvideos.net/d4kc255zdhyh",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f23293e27345edae3efe49003b40a6ed",
-			"youtube.com": "https://www.youtube.com/channel/UCaEC6n_rG9XrDOhsrpI6hoQ",
-			"watchers.to": "http://watchers.to/wpsc9qojmvky.html",
-			"vidto.me": "http://vidto.me/fnmiv856wnev.html",
 		}
 	},
 	{
@@ -3741,14 +2351,8 @@ var show_order = [
 		"title": "Legacy",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-1-s05e01_323733",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/ce04ae4ebd3cf608c5fb97f4ecbd9934",
-			"filefactory.com": "http://www.filefactory.com/file/1252zwnaj7mx/arrow.501.hdtv-lol.mkv.mp4.mp4",
-			"vidspot.net": "http://vidspot.net/xgaucw84bllt",
 			"vidzi.tv": "http://vidzi.cc/495ootivm4dy.html/7",
-			"watchers.to": "http://watchers.to/t6lm51l2vdd3.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/75c6ae766c0d4e3b9ce3e193db80ff05",
-			"gorillavid.in": "http://gorillavid.in/7sunes0xsl2a",
-			"vidto.me": "http://vidto.me/k3ajq6jeku4t.html",
 		}
 	},
 	{
@@ -3758,16 +2362,8 @@ var show_order = [
 		"title": "The Adventures of Supergirl",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-1-s02e01_315286",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/24e4a5db9a122c81410c972de617941b",
-			"filefactory.com": "http://www.filefactory.com/file/zbyxqpzma69/supergirl.201.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/xblwdzdwn5b9",
-			"vshare.eu": "http://vshare.eu/hv603b26jgvw.htm",
 			"vidzi.tv": "http://vidzi.cc/fuvg9novfjuo.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/x8dh4atwmrfb",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/387849af1d06ef884087114ef0f9e400",
-			"playedto.me": "http://playedto.me/h24ipt2ug9ky",
-			"watchers.to": "http://watchers.to/zuxxg8t2lkxg.html",
-			"vidto.me": "http://vidto.me/i23ebssj5v7v.html",
 		}
 	},
 	{
@@ -3778,14 +2374,8 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-2-s03e02_329180",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/823cc704e21b2",
-			"likeafool.com": "http://www.likeafool.com/files/8d7dcb589f59d387d65203163bc6454f",
-			"filefactory.com": "http://www.filefactory.com/file/3rjbzzo5zdof/the.flash.2014.302.hdtv-lol.mkv",
-			"vidspot.net": "http://vidspot.net/qtm8q4tg3tqt",
-			"vshare.eu": "http://vshare.eu/83v1pdbkt86x.htm",
 			"vidzi.tv": "http://vidzi.cc/w3h2rs0agi2l.html/4",
-			"watchers.to": "http://watchers.to/fp66wjecfe6a.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/244e9017e619e937ddb02256d1cfc7ec",
-			"vidto.me": "http://vidto.me/h0fwzaexhpm7.html",
 		}
 	},
 	{
@@ -3796,12 +2386,7 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-2-s05e02_329186",
 		"vid_links": {
 			"vidgg.to": "http://www.vidgg.to/video/c7aadca1812c8",
-			"likeafool.com": "http://www.likeafool.com/files/3d12b7be0648b27b58680becd222de33",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/4d743d87c6c82",
 			"vidzi.tv": "http://vidzi.cc/htsp3aft7ep4.html/7",
-			"watchers.to": "http://watchers.to/rljeo29qe0bl.html",
-			"novamov.com": "http://www.novamov.com/video/322054bb83d3d",
-			"vidto.me": "http://vidto.me/35ijlnf94zzh.html",
 		}
 	},
 	{
@@ -3811,16 +2396,8 @@ var show_order = [
 		"title": "Out of Time",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-1-s02e01_324038",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/8faf23c0d91a7e061062722c1b429c49",
-			"filefactory.com": "http://www.filefactory.com/file/11nvzbpvz47r/dcs.legends.of.tomorrow.201.hdtv.Subt..avi",
-			"vshare.eu": "http://vshare.eu/rwa4hhtkjf3m.htm",
 			"vidzi.tv": "http://vidzi.cc/r3lo3f9qdmvm.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/t312hz0i694z",
-			"yourvideohost.com": "http://yourvideohost.com/hn375pnfoyj5",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/bf1e5b16ea7b6e41102337393400ee18",
-			"playedto.me": "http://playedto.me/zts008o32rlo",
-			"watchers.to": "http://watchers.to/zhba5qzynz7j.html",
-			"vidto.me": "http://vidto.me/m8x1gaiwm292.html",
 		}
 	},
 	{
@@ -3830,16 +2407,8 @@ var show_order = [
 		"title": "The Last Children of Krypton",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-2-s02e02_340299",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/175e322a3e47cf3aa9acf98111244529",
-			"filefactory.com": "http://www.filefactory.com/file/dkd0bvt4et7/supergirl.202.hdtv-lol.mkv",
-			"vshare.eu": "http://vshare.eu/8g7jwlgfhccr.htm",
 			"vidzi.tv": "http://vidzi.cc/c4ot5pi372se.html/7",
-			"allmyvideos.net": "http://allmyvideos.net/abaf2mz1fas6",
-			"streamin.to": "http://streamin.to/ifdumcd9sj6b",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/5e6b19b589aee2684e192af84b4a0d98",
-			"playedto.me": "http://playedto.me/xdke75j3ogyz",
-			"watchers.to": "http://watchers.to/b7h968031rqt.html",
-			"vidto.me": "http://vidto.me/uqtdbnm3ab69.html",
 		}
 	},
 	{
@@ -3849,15 +2418,8 @@ var show_order = [
 		"title": "Magenta",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-3-s03e03_329181",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/8b54fb6baa22096403f965bff4eaac06",
-			"filefactory.com": "http://www.filefactory.com/file/6haiqv8h5nuz/the.flash.2014.303.hdtv-lol.mkv",
 			"vidzi.tv": "http://vidzi.cc/c2zy11fe53gn.html/44",
-			"allmyvideos.net": "http://allmyvideos.net/tq2256a0n9oq",
-			"vshare.eu": "http://vshare.eu/8xjrdu3hozwn.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/691329159f8d633f5ab7c6a8a62f4e09",
-			"rapidvideo.ws": "http://rapidvideo.ws/upa5p4wh8gk1",
-			"watchers.to": "http://watchers.to/bh7u2ddbz5yq.html",
-			"vidto.me": "http://vidto.me/kgcqon2d45rm.html",
 		}
 	},
 	{
@@ -3867,14 +2429,8 @@ var show_order = [
 		"title": "A Matter of Trust",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-3-s05e03_329187",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c8b26c9a6a947e1dea47c6fad89cfa66",
-			"filefactory.com": "http://www.filefactory.com/file/53zuc6hbx42x/Arrow.S05E03.720p.HDTV.X264-DIMENSION.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c28e8c23276ff",
 			"vidzi.tv": "http://vidzi.cc/b2kjoimwq750.html/77",
-			"watchers.to": "http://watchers.to/395z2vubg2iz.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7ffd400ef07e71c514cceda827c4e3e1",
-			"novamov.com": "http://www.novamov.com/video/529351a27584e",
-			"vidto.me": "http://vidto.me/899ytew4rk7s.html",
 		}
 	},
 	{
@@ -3884,15 +2440,8 @@ var show_order = [
 		"title": "The Justice Society of America",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-2-s02e02_333580",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/ccbf040ff4dffd354e446d56c94a0a78",
-			"allvid.ch": "http://allvid.ch/pyroa0yuah1j",
-			"filefactory.com": "http://www.filefactory.com/file/3636e9uoy1dn/dcs.legends.of.tomorrow.202.hdtv-lol.mkv",
-			"vshare.eu": "http://vshare.eu/vpgfm3rtjog5.htm",
 			"vidzi.tv": "http://vidzi.cc/1jn98h6yn72c.html/77",
-			"allmyvideos.net": "http://allmyvideos.net/2ndod6v6vaab",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/810bbae1337daaa82a998f344c1ba7fe",
-			"watchers.to": "http://watchers.to/cr03li7vys0f.html",
-			"vidto.me": "http://vidto.me/8ekz91jm1kz1.html",
 		}
 	},
 	{
@@ -3902,14 +2451,8 @@ var show_order = [
 		"title": "Welcome to Earth",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-3-s02e03_340300",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/2c38a471af4d174c122da0e7e438657f",
-			"filefactory.com": "http://www.filefactory.com/file/6446uot0xgyf/Supergirl.S02E03.720p.HDTV.X264-DIMENSION.mkv.mp4.mp4",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/16325301c0a52",
 			"vidzi.tv": "http://vidzi.cc/5uddopc2ep1h.html/7",
-			"watchers.to": "http://watchers.to/hbrjefofj0c4.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/20bb72cddad0eb10ed3636332e65583b",
-			"novamov.com": "http://www.novamov.com/video/701d153b0f31a",
-			"vidto.me": "http://vidto.me/y6xi3x6adckj.html",
 		}
 	},
 	{
@@ -3919,15 +2462,8 @@ var show_order = [
 		"title": "The New Rogues",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-4-s03e04_329182",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/8ecc1d53b378e1fb27992223d5fe8698",
-			"allvid.ch": "http://allvid.ch/fmi3wc5d8g49",
-			"filefactory.com": "http://www.filefactory.com/file/thm651nw9st/The.Flash.2014.S03E04.720p.HDTV.Subt..avi",
-			"gorillavid.in": "http://gorillavid.in/404.html",
 			"vidzi.tv": "http://vidzi.cc/ayzqtuelmev8.html/44",
-			"watchers.to": "http://watchers.to/k2s3ku9u00xg.html",
-			"vshare.eu": "http://vshare.eu/5n4sldphg9r4.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/29e7b3d2d89a57fa89c6dd494bc93bbc",
-			"vidto.me": "http://vidto.me/cooo77l9btvp.html",
 		}
 	},
 	{
@@ -3937,16 +2473,8 @@ var show_order = [
 		"title": "Penance",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-4-s05e04_329188",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/bcfcf870c4cb144a547c6dbdb0494eb7",
-			"exashare.com": "http://exashare.com/ze57vs6776o6",
-			"filefactory.com": "http://www.filefactory.com/file/758bympotm5j/arrow.504.hdtv-lol.mkv",
-			"allvid.ch": "http://allvid.ch/znhxu6oo3slt",
 			"vidzi.tv": "http://vidzi.cc/5s0m5swuxb7v.html",
-			"watchers.to": "http://watchers.to/m0dl9jwhajvl.html",
-			"vshare.eu": "http://vshare.eu/9jwyqywzt1ti.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7b1325043e5ec75a23ec04be51c82074",
-			"playedto.me": "http://playedto.me/r7t2gxnamw9r",
-			"vidto.me": "http://vidto.me/1lf359i223os.html",
 		}
 	},
 	{
@@ -3956,15 +2484,8 @@ var show_order = [
 		"title": "Shogun",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-3-s02e03_338607",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/5687bde47910d251e63a77436ca33b17",
-			"exashare.com": "http://exashare.com/8lqxuudcah6a",
-			"filefactory.com": "http://www.filefactory.com/file/2mth73fzg4in/dcs.legends.of.tomorrow.203.hdtv-lol.mkv",
-			"vshare.eu": "http://vshare.eu/qa4ge8qpi7qu.htm",
 			"vidzi.tv": "http://vidzi.cc/l35zgydki7e4.html/777",
-			"watchers.to": "http://watchers.to/om4y1mfmmq7x.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/2ec28a4b5d6be285a128bd3ebe90b83b",
-			"playedto.me": "http://playedto.me/cqmj3t1jgi9j",
-			"vidto.me": "http://vidto.me/oav1xwqby6nv.html",
 		}
 	},
 	{
@@ -3974,15 +2495,8 @@ var show_order = [
 		"title": "Survivors",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-4-s02e04_340301",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/f92e6287f4ca0eecdcbabe3e20f01c66",
-			"filefactory.com": "https://www.filefactory.com/file/50xv5fm10xct/Supergirl.S02E04.720p.HDTV.X264-DIMENSION.mkv",
-			"netu.tv": "http://netu.tv/watch_video.php?v=pxLAuYT7F0zz",
 			"vidzi.tv": "http://vidzi.cc/kvaq6gjg99kg.html/7",
-			"vshare.eu": "http://vshare.eu/re7t8hfxd601.htm",
-			"streamin.to": "http://streamin.to/1ffvca8f9dnx",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6311cb704390af0708b8a56328c2611e",
-			"playedto.me": "http://playedto.me/j7tsd9605grs",
-			"vidto.me": "http://vidto.me/tu2my3gtqpc2.html",
 		}
 	},
 	{
@@ -3992,15 +2506,8 @@ var show_order = [
 		"title": "Monster",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-5-s03e05_329183",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/bd25cc1ed1f3d31d6b21d2ad7e0f83ef",
-			"exashare.com": "http://exashare.com/tx02qsdcn5ml",
-			"filefactory.com": "http://www.filefactory.com/file/wsix3ufbohp/the.flash.2014.305.hdtv-lol.mkv",
-			"gorillavid.in": "http://gorillavid.in/qs8ktn6g2r8y",
 			"vidzi.tv": "http://vidzi.cc/0rjig32ykqyu.html/44",
-			"watchers.to": "http://watchers.to/4nopl9peq3jx.html",
-			"vshare.eu": "http://vshare.eu/lauu30njn84p.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/ece20e3b2c37f5d26cb0ad06c4e3e4f4",
-			"vidto.me": "http://vidto.me/iz2xm2rpdn0d.html",
 		}
 	},
 	{
@@ -4010,14 +2517,8 @@ var show_order = [
 		"title": "Human Target",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-5-s05e05_329189",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/5f5f8969d47b761b46694a05354a0dde",
-			"allvid.ch": "http://allvid.ch/oiqvoolq8pxg",
-			"filefactory.com": "http://www.filefactory.com/file/1e64zlubfr8j/arrow.505.hdtv-lol.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/3eb9617efa9cd",
 			"vidzi.tv": "http://vidzi.cc/wsif6o4v0wq1.html/77",
-			"watchers.to": "http://watchers.to/gtzmz94qycd0.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/7b89136856d4e9e23b8ae4d08266e7a2",
-			"vidto.me": "http://vidto.me/02hy9oynyhr1.html",
 		}
 	},
 	{
@@ -4027,15 +2528,8 @@ var show_order = [
 		"title": "Abominations",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-4-s02e04_340604",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/72133c67546e27d5c9040f3bdb1dc896",
-			"filefactory.com": "http://www.filefactory.com/file/7ku8xw1w1219/dcs.legends.of.tomorrow.204.hdtv-lol.mkv",
 			"vidzi.tv": "http://vidzi.cc/y9ku1ikssmvu.html/7",
-			"watchers.to": "http://watchers.to/upa95m1hlaxg.html",
-			"vshare.eu": "http://vshare.eu/1nzmsec5lngm.htm",
-			"streamin.to": "http://streamin.to/40wvauazkr53",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/47532cde94e20a0abcb7c349d1ec07a3",
-			"playedto.me": "http://playedto.me/8qfo4zxuwdq2",
-			"vidto.me": "http://vidto.me/wyo9o3wuzzvb.html",
 		}
 	},
 	{
@@ -4045,14 +2539,8 @@ var show_order = [
 		"title": "Crossfire",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-5-s02e05_340302",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/e67b7b57205fb97d1f4e94f0dbad25fa",
-			"filefactory.com": "http://www.filefactory.com/file/10kl9eux4nb/supergirl.205.hdtv-lol.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/58fe5c075340f",
 			"vidzi.tv": "http://vidzi.cc/xueav115lhyi.html/77",
-			"watchers.to": "http://watchers.to/i4z5fyvhxtzb.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/f8d57f4d98c6b57fd1a02440003b2bcd",
-			"youtube.com": "https://www.youtube.com/watch?v=NIHWC4kZXfQ",
-			"vidto.me": "http://vidto.me/i13t3y0tgujw.html",
 		}
 	},
 	{
@@ -4062,16 +2550,8 @@ var show_order = [
 		"title": "So It Begins",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-6-s05e06_329190",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/163a0d1f388275d3143f3a33d1087eba",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/ac491d7781316",
-			"movshare.net": "https://www.movshare.net/video/94f8baa37f6e8",
 			"vidzi.tv": "http://vidzi.cc/7sp0jbp3z6hu.html/7",
-			"watchers.to": "http://watchers.to/pnf34m780k5a.html",
-			"vshare.eu": "http://vshare.eu/2o76vf21a0sq.htm",
-			"streamin.to": "http://streamin.to/dh4fzb45wbcs",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/e0cd11a8316d1069a194e0f94f814a5a",
-			"playedto.me": "http://playedto.me/k303yr0lj4xk",
-			"vidto.me": "http://vidto.me/55tkh80j0p1i.html",
 		}
 	},
 	{
@@ -4081,14 +2561,8 @@ var show_order = [
 		"title": "Compromised",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-5-s02e05_340605",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/501545d15c84bb52df6da4905cca75bd",
-			"filefactory.com": "http://www.filefactory.com/file/8dxhe5eddzv/",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/c5ae96ad1ab2f",
 			"vidzi.tv": "http://vidzi.cc/wsf7c27bhvn4.html/77",
-			"watchers.to": "http://watchers.to/gdtr8zujl3y8.html",
-			"vshare.eu": "http://vshare.eu/yer2awyp62c5.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/805bbfdf3bfb22dc71a732026d6c2f65",
-			"vidto.me": "http://vidto.me/vme8zkcr8pke.html",
 		}
 	},
 	{
@@ -4098,14 +2572,8 @@ var show_order = [
 		"title": "Changing",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-6-s02e06_340303",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/1264983a3c04eb9caca585eb054e3d3d",
-			"allvid.ch": "http://allvid.ch/7oynnhvcgfty",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/aba6183f3c8c4",
 			"vidzi.tv": "http://vidzi.cc/giavfyagyway.html/7",
-			"watchers.to": "http://watchers.to/s5v2y3je3ych.html",
-			"vshare.eu": "http://vshare.eu/kue2e756vxj4.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/34528ca9b3e3c2b5ceeab876cbf1bbdc",
-			"vidto.me": "http://vidto.me/ey89mrfb8sqn.html",
 		}
 	},
 	{
@@ -4115,14 +2583,8 @@ var show_order = [
 		"title": "Shade",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-6-s03e06_329184",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/6972175b63093bfd1340b6574cc58c69",
-			"exashare.com": "http://exashare.com/4v38ijfvb0m5",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/dcb58f22e4703",
 			"vidzi.tv": "http://vidzi.cc/7q1axp83ld15.html/44",
-			"watchers.to": "http://watchers.to/soipawdc5n8g.html",
-			"vshare.eu": "http://vshare.eu/g6pcazc0zyvj.htm",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/df7b87676df430edaa7b73877c1b0dac",
-			"vidto.me": "http://vidto.me/90d9wbd3t0zt.html",
 		}
 	},
 	{
@@ -4132,15 +2594,8 @@ var show_order = [
 		"title": "Vigilante",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-7-s05e07_340229",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/ed41af1eb5307e1851507f3ad39eb42d",
-			"exashare.com": "http://exashare.com/rn6h8dxxdluy",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/254ed91251e84",
-			"vshare.eu": "http://vshare.eu/qjnhctbhwsy7.htm",
 			"vidzi.tv": "http://vidzi.cc/3ps1xb0yv8q3.html/77",
-			"watchers.to": "http://watchers.to/30yprmaw942t.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/d8ec15d93816b0b1199bc176e36e3cee",
-			"rapidvideo.ws": "http://rapidvideo.ws/0ue40ga0wjsn",
-			"vidto.me": "http://vidto.me/4kxdzuiyawtq.html",
 		}
 	},
 	{
@@ -4150,14 +2605,8 @@ var show_order = [
 		"title": "Outlaw Contry",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-6-s02e06_340606",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/1db9e3590c4f65bd1c6211c57cf8fd56",
-			"allvid.ch": "http://allvid.ch/j9prg3gvmlc9",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/effddbef012d4",
 			"vidzi.tv": "http://vidzi.cc/7ongn91pxk65.html/77",
-			"watchers.to": "http://watchers.to/unkl27lz4i0i.html",
-			"vshare.eu": "http://vshare.eu/aqxb7388n0os.htm",
 			"lolzor.com": "http://www.lolzor.com/files/a5112fca5ce37dfb3a306a4ebe6967e1",
-			"vidto.me": "http://vidto.me/b62lfj8lte9i.html",
 		}
 	},
 	{
@@ -4167,15 +2616,8 @@ var show_order = [
 		"title": "The Darkest Place",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-7-s02e07_340304",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c8f7e6766954911a7ff64d843d73f390",
-			"exashare.com": "http://exashare.com/lzfzzlnml0g6",
-			"filefactory.com": "http://www.filefactory.com/file/49kt3u6tr8f1/supergirl.207.hdtv-lol.mkv.mp4",
-			"vshare.eu": "http://vshare.eu/wvtx88a3gtg8.htm",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/f22b1beafc32b",
 			"vidzi.tv": "http://vidzi.cc/feq9em5e7cbc.html/77",
-			"watchers.to": "http://watchers.to/u7jeqkqakizo.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6007a6c895afa4c131308322971d0781",
-			"vidto.me": "http://vidto.me/f5fp72vwynl7",
 		}
 	},
 	{
@@ -4185,16 +2627,8 @@ var show_order = [
 		"title": "Killer Frost!",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-7-s03e07_329185",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/8fc3adbb7fdd66c0b1d59c448a09cda4",
-			"allvid.ch": "http://allvid.ch/5k4c3b915e75",
-			"filefactory.com": "http://www.filefactory.com/file/445n1flpi235/the.flash.2014.307.hdtv-lol.mkv",
-			"vshare.eu": "http://vshare.eu/xu5j8zviy8ct.htm",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/9a00c968381ef",
 			"vidzi.tv": "http://vidzi.cc/4dehd6p6nzjh.html/44",
-			"watchers.to": "http://watchers.to/c23l08ussc8a.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/6dbe787abee762e109de9870a0a7f3c2",
-			"youtube.com": "https://www.youtube.com/4DO8GsIYfhQ",
-			"vidto.me": "http://vidto.me/d4m1izzr54si.html",
 		}
 	},
 	{
@@ -4204,15 +2638,7 @@ var show_order = [
 		"title": "Medusa",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-8-s02e08_340305",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/e6c5790f66114cd52df4a1c58c4b6fd0",
-			"allvid.ch": "http://allvid.ch/cenemtqs2q2c",
-			"filefactory.com": "http://www.filefactory.com/file/5irqilirfonj/supergirl.208.hdtv-lol.mkv",
 			"vidzi.tv": "http://vidzi.cc/bmfnp55s7b0b.html/77",
-			"watchers.to": "http://watchers.to/e2ojlpmnnme8.html",
-			"vshare.eu": "http://vshare.eu/uvuas56jnkgv.htm",
-			"playedto.me": "http://playedto.me/8rzsqnffz0bk",
-			"mycollection.net": "http://www.mycollection.net/newfile/6fd8f1e463cdc1221e76f2760a8d581e",
-			"vidto.me": "http://vidto.me/8xi4s2l1d4w0.html",
 		}
 	},
 	{
@@ -4222,14 +2648,7 @@ var show_order = [
 		"title": "Invasion!",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-8-s03e08_332226",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/50d565b814a182486d0c3fac9ac37733",
-			"allvid.ch": "http://allvid.ch/g6gxuf6rbc5i",
-			"filefactory.com": "http://www.filefactory.com/file/2nprujr8t5mt/the.flash.2014.308.hdtv-lol.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/1f35d7870dc20",
 			"vidzi.tv": "http://vidzi.cc/7mxtk58b4ls4.html/44",
-			"watchers.to": "http://watchers.to/w28w6fpmqvu1.html",
-			"youtube.com": "https://www.youtube.com/channel/UCI214-Osh1vI0YjDsXzO6Tg",
-			"vidto.me": "http://vidto.me/jgc9ppz6k3sc.html",
 		}
 	},
 	{
@@ -4239,15 +2658,8 @@ var show_order = [
 		"title": "Invasion!",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-8-s05e08_340230",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/7b07e39b73fb5f90089b9a4c8626ddb1",
-			"allvid.ch": "http://allvid.ch/38x2w2wfvabf",
-			"filefactory.com": "http://www.filefactory.com/file/615jkvumx2ll/arrow.508.hdtv-lol.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/71c015d49b36b",
 			"vidzi.tv": "http://vidzi.cc/udtfdno55muh.html/7",
-			"watchers.to": "http://watchers.to/z59wkq7sntwk.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/17ccf2484536785198adb7e4187f6e6e",
-			"vodmine.com": "http://vodmine.com/video/4Fb1qN07yNL48NxT1vyg",
-			"vidto.me": "http://vidto.me/0sg2uyujepnz.html",
 		}
 	},
 	{
@@ -4257,14 +2669,7 @@ var show_order = [
 		"title": "Invasion!",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-7-s02e07_340607",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/f524b8bfe49cc5cb9fb1d357b9db7083",
-			"exashare.com": "http://exashare.com/1esppsdpa1eu",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/19fc9fd1e8eff",
 			"vidzi.tv": "http://vidzi.cc/7dwq8ycrh59e.html/77",
-			"watchers.to": "http://watchers.to/hnyuep97791s.html",
-			"vshare.eu": "http://vshare.eu/g1awhof985vf.htm",
-			"vodmine.com": "http://vodmine.com/video/InyUj7RmrgZeY4Qncx8c",
-			"vidto.me": "http://vidto.me/9x8b10d3z7yu.html",
 		}
 	},
 	{
@@ -4274,17 +2679,7 @@ var show_order = [
 		"title": "The Present",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-9-s03e09_332227",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/00d650a2b68d95fe0e43083465b9a5d8",
-			"allvid.ch": "http://allvid.ch/1sutrm2ud7ar",
-			"filefactory.com": "http://www.filefactory.com/file/6gtcjaoax9o9/the.flash.2014.309.hdtv-lol.mkv",
-			"vshare.eu": "http://vshare.eu/pa3n83atmzjj.htm",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/97e1e0edd0dbe",
 			"vidzi.tv": "http://vidzi.cc/2b93bxicqc4e.html/4",
-			"watchers.to": "http://watchers.to/9pw08bpweftd.html",
-			"mycollection.net": "http://www.mycollection.net/newfile/4c6ca0d67c8eda85ed8d6da0991c4be4",
-			"goodvideohost.com": "http://goodvideohost.com/rdpjf88fiygm",
-			"playedto.me": "http://playedto.me/smc0i1n7zg9g",
-			"vidto.me": "http://vidto.me/03y2z750lo5f.html",
 		}
 	},
 	{
@@ -4294,17 +2689,8 @@ var show_order = [
 		"title": "What We Leave Behind",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-9-s05e09_340231",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/0c1cc72e79b18949277a279ddad3ff2c",
-			"rapidvideo.ws": "http://rapidvideo.ws/29jfxcr7bx6c",
-			"filefactory.com": "http://www.filefactory.com/file/26tta0tpctc3/arrow.509.hdtv-lol.mkv",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/a3dfa4e7ec9a5",
-			"vshare.eu": "http://vshare.eu/2o2vzf4wbmcu.htm",
 			"vidzi.tv": "http://vidzi.cc/vvvbx1lqruyy.html/77",
-			"watchers.to": "http://watchers.to/j7vs2mulabm6.html",
 			"adhqmedia.com": "http://www.adhqmedia.com/files/4e54a3fc6a99349caf5770f3345a4ecd",
-			"vodmine.com": "http://vodmine.com/video/JnJWd5377axZIH7Dt3Pd",
-			"playedto.me": "http://playedto.me/2963sx7gxr49",
-			"vidto.me": "http://vidto.me/iaa3rnjyzutk.html",
 		}
 	},
 	{
@@ -4314,16 +2700,7 @@ var show_order = [
 		"title": "The Chicago Way",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-8-s02e08_340608",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/97f9c8a18b794e0387c05eaa207229db",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/fed5fcf6f68e0",
-			"movshare.net": "https://www.movshare.net/video/b9dabe3e5552e",
 			"vidzi.tv": "http://vidzi.cc/4eyjgzhkrqly.html/77",
-			"watchers.to": "http://watchers.to/v4t6z7pmu35k.html",
-			"vshare.eu": "http://vshare.eu/7t9sx9v8tpqo.htm",
-			"goodvideohost.com": "http://goodvideohost.com/3j65s4xwq6uw",
-			"rapidvideo.ws": "http://rapidvideo.ws/bl7188pyrb0h",
-			"playedto.me": "http://playedto.me/r33oi80szb74",
-			"vidto.me": "http://vidto.me/y94rpgs6q3lx.html",
 		}
 	},
 	{
@@ -4333,16 +2710,7 @@ var show_order = [
 		"title": "Supergirl Lives",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-9-s02e09_340306",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/249c311aa51ede7e4c5e6f1923cf5414",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/9bd162a5dc059",
 			"vidzi.tv": "http://vidzi.cc/l8djcvh89htx.html/l",
-			"watchers.to": "http://watchers.to/l16su5pvhpyi.html",
-			"vshare.eu": "http://vshare.eu/eneka6tg044m.htm",
-			"streamin.to": "http://streamin.to/svnlvm57y96z",
-			"novamov.com": "http://www.novamov.com/video/5886bcfd60ac2",
-			"rapidvideo.ws": "http://rapidvideo.ws/hwrg5xwbidam",
-			"mycollection.net": "http://www.mycollection.net/newfile/52633089d0e04b240c8a56d9a47eef4f",
-			"vidto.me": "http://vidto.me/nnp65i7iefr4.html",
 		}
 	},
 	{
@@ -4352,14 +2720,7 @@ var show_order = [
 		"title": "Borrowing Problems from the Future",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-10-s03e10_332228",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/b0b6606b7b12acf4f57b7028bd05dcdd",
-			"vshare.eu": "http://vshare.eu/4c9qk7t8qw3b.htm",
 			"vidzi.tv": "http://vidzi.cc/atceplpskm8h.html/",
-			"watchers.to": "http://watchers.to/auir51kvd1r9.html",
-			"streamin.to": "http://streamin.to/u3hlx0x0emhs",
-			"vidto.me": "http://vidto.me/fyjmdofmpiu8.html",
-			"nosvideo.com": "http://nosvideo.com/x9zl1ho8uru4",
-			"vidup.me": "http://vidup.me/3e25klshd7zp",
 		}
 	},
 	{
@@ -4369,18 +2730,9 @@ var show_order = [
 		"title": "Raiders of the Lost Art",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-9-s02e09_340609",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/21fd792de21d57c57d4564a3f7f96194",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/b7dd80210e87918b78d870a0ccf6d173",
-			"vshare.eu": "http://vshare.eu/yandzqp8vof8.htm",
 			"vidzi.tv": "http://vidzi.cc/hguxxowdwo7t.html",
-			"watchers.to": "http://watchers.to/hs6a3qycgvd9.html",
-			"streamin.to": "http://streamin.to/opoe208yrj9x",
 			"lolzor.com": "http://www.lolzor.com/bach/86bbf820bcd915ea0083ce9231fadba8",
-			"vidup.me": "http://vidup.me/01n3wd7c1d5v",
-			"rapidvideo.ws": "http://rapidvideo.ws/w9t92rjlb7hj",
-			"nosvideo.com": "http://nosvideo.com/6e8c6i18qemz",
-			"mycollection.net": "http://www.mycollection.net/bishop/43315beebe9ce8b52d9651a337e99b1c",
-			"vidto.me": "http://vidto.me/qsguurr8ifbs.html",
 		}
 	},
 	{
@@ -4390,19 +2742,9 @@ var show_order = [
 		"title": "Who Are You?",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-10-s05e10_340232",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/0fd66931f4e3b1af6a028e3733667b3a",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/58895cad18093",
-			"movshare.net": "https://www.movshare.net/video/b7f48560e5ac9",
 			"vidzi.tv": "http://vidzi.cc/23277jbfad7h.html",
-			"watchers.to": "http://watchers.to/i3liurbtpnse.html",
-			"vshare.eu": "http://vshare.eu/9f6sp85d7tp0.htm",
-			"streamin.to": "http://streamin.to/dw9dg17j9u9t",
-			"mycollection.net": "http://www.mycollection.net/bishop/8e35d835991a75b538eab7a00adfbaee",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/52213fb60e38cfa4145c919c912dc4f0",
 			"lolzor.com": "http://www.lolzor.com/bach/c7a876953a46106d5c0b27c4309de53e",
-			"rapidvideo.ws": "http://rapidvideo.ws/r74yu58rzf0b",
-			"youwatch.org": "http://youwatch.org/bc183jrhx4i0",
-			"vidto.me": "http://vidto.me/v1ztyrr3el6l.html",
 		}
 	},
 	{
@@ -4412,19 +2754,8 @@ var show_order = [
 		"title": "We Can Be Heroes",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-10-s02e10_340307",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/902529516433ca5cb24c17953e447858",
-			"filefactory.com": "http://www.filefactory.com/file/1co4dmg1cr4f/supergirl.210.hdtv-lol.mkv",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/a7f6cc1d0b7fbd769491a2e941145c97",
-			"vshare.eu": "http://vshare.eu/3xo14td57g0n.htm",
 			"vidzi.tv": "http://vidzi.cc/808t3xz7yed2.html",
-			"watchers.to": "http://watchers.to/cwm000a530bv.html",
-			"streamin.to": "http://streamin.to/ke2qffgpfpdx",
-			"vidto.me": "http://vidto.me/8b9dje1mqzsy.html",
-			"rapidvideo.ws": "http://rapidvideo.ws/b7886rlkme11",
-			"youwatch.org": "http://youwatch.org/4c8izemh5wqj",
-			"nosvideo.com": "http://nosvideo.com/20rismo8gmvf",
-			"mycollection.net": "http://www.mycollection.net/bishop/14224ea0b004ce4fc26442271d16d6de",
-			"vidup.me": "http://vidup.me/pzq7ut3skijz",
 			"lolzor.com": "http://www.lolzor.com/bach/57aa9f7f11a883ee9ece2b59de162880",
 		}
 	},
@@ -4435,17 +2766,8 @@ var show_order = [
 		"title": "Dead or Alive",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-11-s03e11_332229",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/0223d7acdf2f80a36c6f3baf68de00c6",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/233e8c63567c53fa55d31be2a4e2e758",
-			"vshare.eu": "http://vshare.eu/vlac3elqhtdb.htm",
 			"vidzi.tv": "http://vidzi.cc/52qgmlqt7hvz.html",
-			"watchers.to": "http://watchers.to/e5p3byjr4xc8.html",
-			"streamin.to": "http://streamin.to/1z9iedatzgnn",
-			"vidto.me": "http://vidto.me/g3yxerrynlj2.html",
-			"youwatch.org": "http://youwatch.org/kcchf820fulc",
-			"nosvideo.com": "http://nosvideo.com/pqhtlqa4ugvs",
-			"mycollection.net": "http://www.mycollection.net/bishop/cfc45de5c9a73faedbf04dd8b3ef28d0",
-			"vidup.me": "http://vidup.me/avzoy02oyga1",
 			"lolzor.com": "http://www.lolzor.com/bach/5561fb1f9a986958a5eb553db8230420",
 		}
 	},
@@ -4456,17 +2778,8 @@ var show_order = [
 		"title": "The Legion of Doom",
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-10-s02e10_340610",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/6b28616fe4c699d7be1a0f62c35a907d",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/8ee73ec43711bd6b6db6928fa7b18862",
-			"vshare.eu": "http://vshare.eu/9d44mxbyk5br.htm",
 			"vidzi.tv": "http://vidzi.cc/7igiebgd3qwa.html",
-			"watchers.to": "http://watchers.to/okfxa4bhj1hf.html",
-			"streamin.to": "http://streamin.to/yprgro8ca7a8",
-			"vidto.me": "http://vidto.me/myhi9s9vz0qy",
-			"youwatch.org": "http://youwatch.org/zpac53546imp",
-			"nosvideo.com": "http://nosvideo.com/jo4hnnyud08e",
-			"mycollection.net": "http://www.mycollection.net/bishop/d8670df5e8cad2ec112a7827340a9fb6",
-			"vidup.me": "http://vidup.me/idbk1727m4ke",
 			"lolzor.com": "http://www.lolzor.com/bach/8fe214d2abb49a09044db8e5bc10bf1e",
 		}
 	},
@@ -4477,18 +2790,8 @@ var show_order = [
 		"title": "Second Chances",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-11-s05e11_340233",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/801ec0ec2470d71e168c39fd6ed99cc7",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/7b528bef545c0ab115457a587c25c16c",
-			"vshare.eu": "http://vshare.eu/ho27je0bkoem.htm",
 			"vidzi.tv": "http://vidzi.cc/30flops6lk7v.html",
-			"watchers.to": "http://watchers.to/rgsgk1w0ys3v.html",
-			"streamin.to": "http://streamin.to/b3pcszr5nn3l",
-			"vidto.me": "http://vidto.me/kg95b1bynxkf.html",
-			"rapidvideo.ws": "http://rapidvideo.ws/hqkf8r1py0u9",
-			"youwatch.org": "http://youwatch.org/6687x2hirofh",
-			"nosvideo.com": "http://nosvideo.com/1u20pym70uu8",
-			"mycollection.net": "http://www.mycollection.net/bishop/00ddd663cf3cb7027256568d68440f50",
-			"vidup.me": "http://vidup.me/ddxzmfogenoy",
 			"lolzor.com": "http://www.lolzor.com/bach/54081a5064903ec7e4ab208d8f42e185",
 		}
 	},
@@ -4499,17 +2802,8 @@ var show_order = [
 		"title": "The Martian Chronicles",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-11-s02e11_340308",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/2635cae7fb104dad8e124b9476242f9d",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/327343a79898ba00548c1d2ebf93f684",
-			"vshare.eu": "http://vshare.eu/pb6nl9sbevd4.htm",
 			"vidzi.tv": "http://vidzi.cc/8ekmyuyr0qm1.html",
-			"watchers.to": "http://watchers.to/epb2k9yjd27a.html",
-			"streamin.to": "http://streamin.to/478rmmrgi8ae",
-			"vidto.me": "http://vidto.me/0mkiasx6ibhk.html",
-			"rapidvideo.ws": "http://rapidvideo.ws/8s99ud0lvoxv",
-			"nosvideo.com": "http://nosvideo.com/fh205hyr1ws4",
-			"mycollection.net": "http://www.mycollection.net/bishop/f67b82673daad3cc020c65f991b146fb",
-			"vidup.me": "http://vidup.me/z87as6jsds7o",
 			"lolzor.com": "http://www.lolzor.com/bach/119d1c251ba4733a5fa06c6af4455fa8",
 		}
 	},
@@ -4520,19 +2814,9 @@ var show_order = [
 		"title": "Untouchable",
 		"ep_link": "http://www.watchepisodes4.com/the-flash-season-3-episode-12-s03e12_332230",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c05cca80c62305b627b6214057a7ab11",
-			"vidup.me": "http://vidup.me/6m0d1qfi6fi1",
-			"vshare.eu": "http://vshare.eu/ajw1wtmxxvm2.htm",
 			"vidzi.tv": "http://vidzi.cc/ljf9gnrqudq0.html",
-			"watchers.to": "http://watchers.to/1vunxsd9iwql.html",
-			"streamin.to": "http://streamin.to/vfkqyjea3bzg",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/1bb62b7d68775c5f05a5b849e4f1bf2c",
 			"lolzor.com": "http://www.lolzor.com/bach/3e8d6c4f69618a5697a6e77551da0502",
-			"rapidvideo.ws": "http://rapidvideo.ws/5t7xwytebmca",
-			"grifthost.com": "http://grifthost.com/lzv044xiuhz5",
-			"nosvideo.com": "http://nosvideo.com/r804iuukv5zk",
-			"mycollection.net": "http://www.mycollection.net/bishop/62a1a367846289417827c207ad5f4af6",
-			"vidto.me": "http://vidto.me/n9v5ynogrend.html",
 		}
 	},
 	{
@@ -4543,15 +2827,7 @@ var show_order = [
 		"ep_link": "http://www.watchepisodes4.com/dcs-legends-of-tomorrow-season-2-episode-11-s02e11_340611",
 		"vid_links": {
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/d4186638512c187e24ba523cf39785da",
-			"vshare.eu": "http://vshare.eu/66995qmxvjog.htm",
 			"vidzi.tv": "http://vidzi.cc/hazi4zm83t6w.html",
-			"watchers.to": "http://watchers.to/8d87qidnzvca.html",
-			"streamin.to": "http://streamin.to/03u8flp4b9x2",
-			"vidto.me": "http://vidto.me/0k8pkxswnbg2",
-			"rapidvideo.ws": "http://rapidvideo.ws/s9y953qi6hbj",
-			"nosvideo.com": "http://nosvideo.com/tk87y3vf10ox",
-			"mycollection.net": "http://www.mycollection.net/bishop/5c0d3b5b1951ae862924b3a1a33c924d",
-			"vidup.me": "http://vidup.me/s4ekrsww8ajh",
 			"lolzor.com": "http://www.lolzor.com/bach/f492c090678bc326d39002fdac46ee40",
 		}
 	},
@@ -4562,19 +2838,9 @@ var show_order = [
 		"title": "Bratva",
 		"ep_link": "http://www.watchepisodes4.com/arrow-season-5-episode-12-s05e12_340234",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/c59f1cf3b8a534eaa0a67647e0fd4785",
-			"vidup.me": "http://vidup.me/z8zlij6q30c7",
-			"vshare.eu": "http://vshare.eu/5ijgsietpmz0.htm",
 			"vidzi.tv": "http://vidzi.cc/lcd7r5l616i7.html",
-			"watchers.to": "http://watchers.to/kmgdj51ne14f.html",
-			"streamin.to": "http://streamin.to/eml1xob5ggyp",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/ba54cfbfefe5a4835075d34ba9b646dc",
 			"lolzor.com": "http://www.lolzor.com/bach/957b28ab81302c77b8302086118f2833",
-			"rapidvideo.ws": "http://rapidvideo.ws/odabo1rci7pq",
-			"grifthost.com": "http://grifthost.com/rhxh145ac76y",
-			"nosvideo.com": "http://nosvideo.com/t98a5r2a5vgo",
-			"mycollection.net": "http://www.mycollection.net/bishop/2395a0d4cdf9f97f376f24d88e54c5e8",
-			"vidto.me": "http://vidto.me/l74esrt7q04z.html",
 		}
 	},
 	{
@@ -4584,20 +2850,9 @@ var show_order = [
 		"title": "Luthors",
 		"ep_link": "http://www.watchepisodes4.com/supergirl-season-2-episode-12-s02e12_340309",
 		"vid_links": {
-			"likeafool.com": "http://www.likeafool.com/files/ed6bf905922fa8d9d53df2471c901dc3",
-			"nowvideo.sx": "http://www.nowvideo.sx/video/ded9d181883f9",
-			"vidup.me": "http://vidup.me/wl2teguiza1x",
-			"vshare.eu": "http://vshare.eu/rogbz95umcit.htm",
 			"vidzi.tv": "http://vidzi.cc/dpy4q77o46sk.html",
-			"watchers.to": "http://watchers.to/9e7oew2gq8ms.html",
-			"streamin.to": "http://streamin.to/yiw7quppl5ca",
 			"adhqmedia.com": "http://www.adhqmedia.com/duke/77c3491b53aa022f115c395edb494105",
 			"lolzor.com": "http://www.lolzor.com/bach/fd425aacac1977d0bd0ce91798c09554",
-			"rapidvideo.ws": "http://rapidvideo.ws/gamqnjmpwa0z",
-			"grifthost.com": "http://grifthost.com/3nc720zrkkum",
-			"nosvideo.com": "http://nosvideo.com/vhgebcjjd1bq",
-			"mycollection.net": "http://www.mycollection.net/bishop/11abb740518721c46ee94e625b280479",
-			"vidto.me": "http://vidto.me/jdv18e8nruqk.html",
 		}
 	},
 	{
